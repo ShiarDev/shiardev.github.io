@@ -1,17 +1,15 @@
-Package: com.julioverne.ext3nder-installer
-Name: Ext3nder Installer (ios11)
-Author: julioverne, MidnightChips
-Version: 16.7
-Pre-Depends: unzip, zip, sed, curl
-Conflicts: com.julioverne.ext3nder
-Depends: mobilesubstrate
+Package: com.r333d.cylinder
+Version: 1.0.4-5
 Architecture: iphoneos-arm
-Description: Cydia Extender Installer With Extra Features, patched for iOS 11: MidnightChips
-Homepage: http://twitter.com/ijulioverne
-Maintainer: Julio, MidnightChips
-Section: Utilities
-Depiction: http://julioverne.github.io/description.html?id=com.julioverne.ext3nder-installer
-Filename: debs//com.julioverne.ext3nder-installer_16.7_iphoneos-arm.deb
-MD5sum: 13ec7414f40a7360cbd3dfcd913ed36e
-SHA256: 1cd5ce01bdc7e19c383842b672345311bca3213a43be9e9ed69a41b18021073f
-Size: 475688
+Maintainer: ShiarAhmed (shiar_ahmed) <shiyar2002@icloud.com>
+Depends: firmware (>= 3.0), mobilesubstrate, preferenceloader
+Filename: ./debs/Cylinder.deb
+Size: 330868
+MD5sum: 36CCF9ECCDE83B1A1DEA0FBA55299C68
+SHA1: 23669B6F3788E766A0AE4317891B36CF77DF9131
+SHA256: F1495D6A1DE9A7947548452FC90B0CE7923A7710AD3C0C8D2F591B697C78F2B5
+Section: Tweaks
+Description: Make your icons dance
+Author: Reed Weichler (rweichler)
+Depiction: https://shiarahmed.github.io/depictions/Cylinder
+Name: cylinder
