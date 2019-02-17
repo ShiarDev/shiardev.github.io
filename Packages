@@ -47,3 +47,19 @@ Description: Snowboard theming engine
 Author: Spark
 Depiction: https://shiarahmed.github.io/depictions/SnowBoard
 Name: SnowBoard
+
+Package: net.limneos.callbarx
+Version: 0.3-60
+Architecture: iphoneos-arm
+Maintainer: ShiarAhmed (shiar_ahmed) <shiyar2002@icloud.com>
+Depends: mobilesubstrate, preferenceloader, firmware (>= 11.0)
+Filename: ./debs/CallBarX.deb
+Size: 149346
+MD5sum: 90423EF8F0D911C07DD0DB8A744239E2
+SHA1: 3BC83F7F0DEE07756F9ABEB5B58AAB39D9A7140E
+SHA256: 2BF14CAA0EB0E889531723FFDEE13DDF8C2EB405F130FDAFE112BAD0DA80D842
+Section: Tweaks
+Description: Don't let incoming calls interrupt you
+Author: Elias Limneos
+Depiction: https://shiarahmed.github.io/depictions/CallBarX
+Name: CallBarX
