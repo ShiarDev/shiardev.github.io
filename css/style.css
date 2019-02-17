@@ -1,0 +1,91 @@
+
+/*****
+====================================================================
+NAME Design : A1iraQiTV
+
+BY Design  : azozzAL-Firas
+
+twitter ; @a1iraqi
+
+Design free 
+====================================================================
+*****/
+
+* {
+    border: 0;
+    -webkit-border-radius: 0;
+    -moz-border-radius: 0;
+    -ms-border-radius: 0;
+    -o-border-radius: 0;
+    border-radius: 0;
+    color: inherit;
+    font-family: inherit;
+    font-size: inherit;
+    font-style: inherit;
+    font-weight: inherit;
+    margin: 0;
+    outline: 0;
+    padding: 0;
+    text-decoration: none;
+    vertical-align: baseline;
+}
+
+body,html{
+    text-decoration: none;
+    padding: 0;
+    margin: 0;
+    background: #eee;
+}
+
+
+input{
+    text-align:center;
+    border:2px solid #000;
+    width:100%;
+    height:50px;
+    user-select:text;
+    -ms-user-select:text;
+    -moz-user-select:text;
+    -khtml-user-select:text;
+    -webkit-user-select:text;
+    -webkit-touch-callout:text;
+}
+
+.text-center,.en{
+    text-align: center;
+    font-family: "RalewayFont";
+}
+.text-center img{
+    border-radius: 50%;
+}
+
+.text-center p,.en{
+    font-size: 40px;
+}
+
+.text-center p{
+    font-family: "az";
+}
+
+.azozzphp{
+    font-size:20px;
+    font-weight:bold;
+    font-family: "RalewayFont";
+    
+}
+
+p,a{
+    font-family: "az";
+    font-size: 20px;
+}
+
+fieldset>a>div>div>label>p {
+    display: inline;
+    text-rendering: optimizeLegibility;
+    padding-right: 19px;
+    padding-left: 40px;
+}
+
+#beincydia{
+    color: brown;
+}
