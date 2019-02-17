@@ -9,8 +9,8 @@
 			<otherVersions>unsupported</otherVersions>
 		</firmware>
 	</compatibility>
-	<dependencies>firmware (>= 3.0), mobilesubstrate, preferenceloader
-	</dependencies>firmware (>= 3.0), mobilesubstrate, preferenceloader
+	<dependencies>
+	</dependencies>
 	<descriptionlist>
 		<description>Supports iOS 7.0 - 12.1.2
 	</descriptionlist>

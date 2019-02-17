@@ -1,20 +1,21 @@
 <package>
-	<id>com.spark.snowboard</id>
-	<name>SnowBoard</name>
-	<version>1.0.4-1</version>
+	<id>net.limneos.callbarx</id>
+	<name>CallBarX</name>
+	<version>0.3-60</version>
 	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+			<maxiOS>12.1.2</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
 	</compatibility>
-	<dependencies>mobilesubstrate, jp.ashikase.techsupport, preferenceloader
-	</dependencies>mobilesubstrate, jp.ashikase.techsupport, preferenceloader
+	<dependencies>
+	</dependencies>
 	<descriptionlist>
-		<description>Snowboard theming engine
+		<description>Don't let incoming calls interrupt you!
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
-			<image>1.png</image>
-			<image>2.png</image>
-			<image>3.png</image>
-			<image>4.png</image>
 		</screenshot>
 	</screenshots>
 	<changelog>

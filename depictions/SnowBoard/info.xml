@@ -4,8 +4,8 @@
 	<version>1.0.4-1</version>
 	<compatibility>
 	</compatibility>
-	<dependencies>mobilesubstrate, jp.ashikase.techsupport, preferenceloader
-	</dependencies>mobilesubstrate, jp.ashikase.techsupport, preferenceloader
+	<dependencies>
+	</dependencies>
 	<descriptionlist>
 		<description>Snowboard theming engine
 	</descriptionlist>
