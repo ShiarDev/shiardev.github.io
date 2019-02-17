@@ -14,6 +14,24 @@ Author: Elias Limneos
 Depiction: https://shiarahmed.github.io/depictions/CallBarX
 Name: CallBarX
 
+Package: com.opa334.ccsupport
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: ShiarAhmed (shiar_ahmed) <shiyar2002@icloud.com>
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000)
+Conflicts: com.ioscreatix.silo
+Replaces: com.ioscreatix.silo
+Filename: ./debs/CCSupport.deb
+Size: 31136
+MD5sum: CD87D0C5244FF4B1D97FFAC46F5CC03B
+SHA1: 56486700DF6D4280B8333E60DCFE58E0110660B4
+SHA256: C400A58465B59BB57F72FFD56AB01B5676452E6215D9D6257D522E9998EB70A4
+Section: Tweaks
+Description: Support tweak for CC modules!
+Author: Opa334
+Depiction: https://shiarahmed.github.io/depictions/CCSupport
+Name: CCSupport
+
 Package: com.r333d.cylinder
 Version: 1.0.4-5
 Architecture: iphoneos-arm
@@ -45,6 +63,21 @@ Description: Download images & videos from social apps easily!
 Author: Ahmed Bafkir
 Depiction: https://shiarahmed.github.io/depictions/DLEasy
 Name: DLEasy
+
+Package: org.cydia.kiimo.noctis12preview
+Version: 0.2
+Architecture: iphoneos-arm
+Maintainer: ShiarAhmed (shiar_ahmed) <shiyar2002@icloud.com>
+Depends: firmware (>= 12.0)
+Filename: ./debs/Noctis12.deb
+Size: 110442
+MD5sum: 81F937B751D3E065F722E0EEEC80469B
+SHA1: 8C196AC07A06DC97C60A9709FE58BEB06DC590A5
+SHA256: CAC82C1A6E869FBFDDC4B7EEC9F433FCCA2D8CC185807C992282000520705478
+Section: Tweaks
+Description: Dark Mode for iOS 12
+Author: Unknown
+Name: Noctis12
 
 Package: org.cydia.kiiimo.pubgmobilenoblocking
 Version: 1.0

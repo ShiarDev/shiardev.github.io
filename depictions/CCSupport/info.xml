@@ -1,0 +1,23 @@
+<package>
+	<id>com.opa334.ccsupport</id>
+	<name>CallBarX</name>
+	<version>1.2</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+			<maxiOS>12.1.2</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+	</compatibility>
+	<dependencies>
+	</dependencies>
+	<descriptionlist>
+		<description>Support tweak for CC modules!
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+</package>
