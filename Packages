@@ -46,6 +46,21 @@ Author: Ahmed Bafkir
 Depiction: https://shiarahmed.github.io/depictions/DLEasy
 Name: DLEasy
 
+Package: org.cydia.kiiimo.pubgmobilenoblocking
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: ShiarAhmed (shiar_ahmed) <shiyar2002@icloud.com>
+Depends: mobilesubstrate, firmware (>= 11.0), preferenceloader
+Filename: ./debs/pubgmobilenoblocking.deb
+Size: 1833758
+MD5sum: 0B816E71F3CE15FBC254A5EA3455E052
+SHA1: C555047352AB761837253D78AE6FB4A277F200CF
+SHA256: 6567C48B17868BB43146447037F21C30C851DAC92971195413023A995FC674D0
+Section: Tweaks
+Description: PUBG HACK SLIDER OR MORE ONLY!
+Author: Unknown
+Name: PUBG Mobile No Blocking
+
 Package: com.spark.snowboard
 Version: 1.0.4-1
 Architecture: iphoneos-arm
