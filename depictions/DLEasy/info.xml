@@ -1,13 +1,8 @@
 <package>
-	<id>com.r333d.cylinder</id>
-	<name>Cylinder</name>
-	<version>1.0.4-5</version>
+	<id>com.ahmedbafkir.dleasy</id>
+	<name>DLEasy</name>
+	<version>1.4</version>
 	<compatibility>
-		<firmware>
-			<miniOS>3.0</miniOS>
-			<maxiOS>12.1.2</maxiOS>
-			<otherVersions>unsupported</otherVersions>
-		</firmware>
 	</compatibility>
 	<dependencies>
 	</dependencies>
@@ -17,8 +12,6 @@
 	<screenshots>
 		<screenshot>
 			<image>1.png</image>
-			<image>2.png</image>
-			<image>3.png</image>
 		</screenshot>
 	</screenshots>
 	<changelog>

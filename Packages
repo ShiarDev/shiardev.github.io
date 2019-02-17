@@ -13,3 +13,19 @@ Description: Make your icons dance
 Author: Reed Weichler (rweichler)
 Depiction: https://shiarahmed.github.io/depictions/Cylinder
 Name: Cylinder
+
+Package: com.ahmedbafkir.dleasy
+Version: 1.4
+Architecture: iphoneos-arm
+Maintainer: ShiarAhmed (shiar_ahmed) <shiyar2002@icloud.com>
+Depends: mobilesubstrate, firmware (>= 7.0), preferenceloader
+Filename: ./debs/DLEasy.deb
+Size: 683800
+MD5sum: AF1F974842DB532985B26D155E0E3A54
+SHA1: 6C74371AD2F582FEB9B09A57E0494F7E6BDC8346
+SHA256: C2EFD617B8B98D9C1E165D134634C45B2CEC58738F51A7FF8E0139F70FC0EB17
+Section: Tweaks
+Description: Download images & videos from social apps easily!
+Author: Ahmed Bafkir
+Depiction: https://shiarahmed.github.io/depictions/DLEasy
+Name: DLEasy
