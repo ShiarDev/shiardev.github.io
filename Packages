@@ -1,14 +1,43 @@
-Package: com.shiarahmed.amber
-Version: 1.0~b2
+Package: com.shiarahmed.amber11
+Version: 1.0~b1
 Architecture: iphoneos-arm
 Maintainer: Shiar Ahmed
-Depends: ccsupport, amber
-Filename: /Amber.deb
+Depends: ccsupport, amber11
+Filename: /Amber11.deb
+Size: 24612
+MD5sum: 7519A860035DE6C5E92970600D5CE0BE
+SHA1: 6BBB3A02FE658DBC0266AD63AFCF989E0BB547DD
+SHA256: 3E39490AE965D66684F61FA0F089A2E3368A9DA7D8C2F48092CC1C60C753052B
+Section: Tweaks
+Description: iOS 11: Amber-ify your LED-Torch
+Author: Shiar Ahmed
+Name: Amber11
+
+Package: com.shiarahmed.amber12
+Version: 1.0~b1
+Architecture: iphoneos-arm
+Maintainer: Shiar Ahmed
+Depends: ccsupport, amber12
+Filename: /Amber12.deb
 Size: 24612
 MD5sum: 34071FF79A59C3D60519C9C4EC977472
 SHA1: 89969908D910346F742EC5D707111C9D28F61672
 SHA256: E811E3CBD275DD56B0600668CDDF9C46B70891F3543E7E1DB633D9BA83D8AC58
 Section: Tweaks
-Description: Amber-ify your LED-Torch into Orange
+Description: iOS 12: Amber-ify your LED-Torch
 Author: Shiar Ahmed
-Name: Amber
+Name: Amber12
+
+Package: com.shiarahmed.fortnitebypass
+Version: 7.40.1
+Architecture: iphoneos-arm
+Maintainer: Shiar Ahmed
+Filename: /FortniteBypass.deb
+Size: 8292
+MD5sum: 512EEFB2D68823AABB7E3F222354C725
+SHA1: A7F27D0BA8E25E8BE568E2FDED60C806451CE307
+SHA256: E36CA8AA457C252132366C62136BD3DD419E4D235839B0614FC9327533B6DAAF
+Section: Tweaks
+Description: iOS 11 & 12: Bypass for Fortnite
+Author: Shiar Ahmed
+Name: FortniteBypass

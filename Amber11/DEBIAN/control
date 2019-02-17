@@ -1,0 +1,9 @@
+Package: com.sa.amber
+Name: Amber
+Depends: mobilesubstrate, firmware (>= 7.0), gsc.camera-flash, com.a3tweaks.flipswitch, firmware (<< 12.0) | com.opa334.ccsupport
+Architecture: iphoneos-arm
+Description: Amber-ify your LED torch.
+Author: Shiar Ahmed
+Section: Tweaks
+Version: 1.0~b1
+Installed-Size: 248
