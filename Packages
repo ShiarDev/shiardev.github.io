@@ -1,9 +1,13 @@
 Package: com.shiarahmed.amber
-Version: 1.0~b1
+Version: 1.0~b2
 Architecture: iphoneos-arm
 Maintainer: Shiar Ahmed
+Depends: ccsupport, amber
 Filename: /Amber.deb
-Size: 150039
+Size: 24612
+MD5sum: 34071FF79A59C3D60519C9C4EC977472
+SHA1: 89969908D910346F742EC5D707111C9D28F61672
+SHA256: E811E3CBD275DD56B0600668CDDF9C46B70891F3543E7E1DB633D9BA83D8AC58
 Section: Tweaks
 Description: Amber-ify your LED-Torch into Orange
 Author: Shiar Ahmed
