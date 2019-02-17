@@ -4,7 +4,7 @@ Architecture: iphoneos-arm
 Maintainer: Yourname <shiyar2002@icloud.com>
 Filename: /Amber.deb
 Size: 150039
-Section: Amber-ify your LED-Torch into Orange
+Section: Tweaks
 Description: Amber-ify your LED-Torch into Orange
 Author: Shiar AHmed
 Name: Amber
