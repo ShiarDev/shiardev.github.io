@@ -29,3 +29,21 @@ Description: Download images & videos from social apps easily!
 Author: Ahmed Bafkir
 Depiction: https://shiarahmed.github.io/depictions/DLEasy
 Name: DLEasy
+
+Package: com.spark.snowboard
+Version: 1.0.4-1
+Architecture: iphoneos-arm
+Maintainer: ShiarAhmed (shiar_ahmed) <shiyar2002@icloud.com>
+Depends: mobilesubstrate, jp.ashikase.techsupport, preferenceloader
+Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Filename: ./debs/SnowBoard.deb
+Size: 358712
+MD5sum: B8D5F722B7FB583F9E546BC51802F83F
+SHA1: 339B10F573994CA499478491A241FB58B72BEDA7
+SHA256: 4447B5E2B40E418C4203A6896EF538129F47637AF55257CF24E88DD9401BD953
+Section: Tweaks
+Description: Snowboard theming engine
+Author: Spark
+Depiction: https://shiarahmed.github.io/depictions/SnowBoard
+Name: SnowBoard
