@@ -3,11 +3,20 @@
 	<name>SnowBoard</name>
 	<version>1.0.4-1</version>
 	<compatibility>
+		<firmware>
+			<miniOS>9.0</miniOS>
+			<maxiOS>12.1.2</maxiOS>
+		</firmware>
 	</compatibility>
-	<dependencies>mobilesubstrate, jp.ashikase.techsupport, preferenceloader
-	</dependencies>mobilesubstrate, jp.ashikase.techsupport, preferenceloader
+	<dependencies>
+		<package>mobilesubstrate</package>
+		<package>jp.ashikase.techsupport</package>
+		<package>preferenceloader</package
+	</dependencies>
 	<descriptionlist>
-		<description>Snowboard theming engine
+		<description><![CDATA[<b>Installed to:</b> </ br>/Library/Themes/ <br /> <br />
+                          <b>Apply with Anemone</b>]]></description>
+		<description>Snowboard theming engine, Support iOS 9.0 - 12.1.2</description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>

@@ -52,13 +52,14 @@ Architecture: iphoneos-arm
 Maintainer: ShiarAhmed (shiar_ahmed) <shiyar2002@icloud.com>
 Depends: firmware (>= 3.0), mobilesubstrate (>= 0.9.5000), preferenceloader
 Filename: ./debs/Cylinder.deb
-Size: 255488
-MD5sum: 1C0EEBE91F6E03FAEA96218DADF8F4CC
-SHA1: 8EE421D677DF4EBF70B1F39F58E3FF9D3B831E1A
-SHA256: 4294D05662D81B24BAE3625C4962EC6CFD85678F4066C4B580B151B555C8615F
+Size: 382811
+MD5sum: 9C41C38429B8C25D6C50D15314EA2E22
+SHA1: 32FD7F7B26D2E7E447799895A69C77EEF79672AA
+SHA256: 4E844198A1CF972FB6D1ADCBF94A328E27D17046B603D7A36F48BBBAC94D6047
 Section: Tweaks
 Description: Make your icons dance
 Author: Reed Weichler (rweichler)
+Depiction: https://shiarahmed.github.io/depictions/?p=Cylinder
 Name: Cylinder
 
 Package: com.ahmedbafkir.dleasy
@@ -203,13 +204,14 @@ Architecture: iphoneos-arm
 Maintainer: ShiarAhmed (shiar_ahmed) <shiyar2002@icloud.com>
 Depends: mobilesubstrate, jp.ashikase.techsupport, preferenceloader
 Filename: ./debs/SnowBoard.deb
-Size: 618152
-MD5sum: F947B20E42EAF163F0BBFC8467C54E56
-SHA1: CB88DB891E9F1E55593EDA7BEAA95689AE7A5B15
-SHA256: D8AC62595B811F9F5B3C6CBF8BA2BF2A9BCF4D127CB2E7F3A1B9606DCFEF7CCE
+Size: 614026
+MD5sum: 17A839E98F062F7A0FBA5261F3FFD1EC
+SHA1: D135F52B0B4F2545538E0D9732D92438CC194ED7
+SHA256: 4BB13CA95DE933390C64D32558B509363F1B9AC704094B9926CAB8DA8651A41F
 Section: Tweaks
 Description: Snowboard theming engine
 Author: Spark
+Depiction: https://shiarahmed.github.io/depictions/?p=SnowBoard
 Name: SnowBoard
 
 Package: com.ruler225.videohud
