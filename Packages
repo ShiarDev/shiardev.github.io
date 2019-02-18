@@ -47,25 +47,20 @@ Depiction: https://shiarahmed.github.io/depictions/CCSupport
 Name: CCSupport
 
 Package: com.r333d.cylinder
-Author: Reed Weichler <rweichler+cydia@gmail.com>
-Maintainer: ShiarAhmed (shiar_ahmed) <shiyar2002@icloud.com>
-Name: Cylinder
-Section: Tweaks
-Depends: firmware (>= 3.0), mobilesubstrate (>= 0.9.5000), preferenceloader
 Version: 1.0.6
 Architecture: iphoneos-arm
-Description: Make your icons dance when scrolling between two bages
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=cylinderDp
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=cylinderDp
-Sponsor: thebigboss.org <http://thebigboss.org>
-Tag: purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9
-dev: rweichler
-Installed-Size: 899
-Icon: file:///Library/PreferenceBundles/CylinderSettings.bundle/Icon@2x.png
-Filename: debs//Cylinder.deb
-MD5sum: 1c0eebe91f6e03faea96218dadf8f4cc
-SHA256: 4294d05662d81b24bae3625c4962ec6cfd85678f4066c4b580b151b555c8615f
+Maintainer: ShiarAhmed (shiar_ahmed) <shiyar2002@icloud.com>
+Depends: firmware (>= 3.0), mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: ./debs/Cylinder.deb
 Size: 255488
+MD5sum: 1C0EEBE91F6E03FAEA96218DADF8F4CC
+SHA1: 8EE421D677DF4EBF70B1F39F58E3FF9D3B831E1A
+SHA256: 4294D05662D81B24BAE3625C4962EC6CFD85678F4066C4B580B151B555C8615F
+Section: Tweaks
+Description: Make your icons dance
+Author: Reed Weichler
+Depiction: https://github.com/shiarahmed/shiarahmed.github.io/tree/master/depictions/Cylinder
+Name: Cylinder
 
 Package: com.ahmedbafkir.dleasy
 Version: 1.4
