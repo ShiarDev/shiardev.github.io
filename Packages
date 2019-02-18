@@ -28,7 +28,8 @@ Description: Set any location as your location.
 Author: AlickHill
 Name: akLocationX
 
-Version: 1.0
+Package: com.shiar.alkaline
+Version: 0.3-60
 Architecture: iphoneos-arm
 Maintainer: ShiarAhmed (shiar_ahmed) <shiyar2002@icloud.com>
 Depends: mobilesubstrate, preferenceloader
@@ -102,7 +103,6 @@ SHA256: C400A58465B59BB57F72FFD56AB01B5676452E6215D9D6257D522E9998EB70A4
 Section: Tweaks
 Description: Support tweak for CC modules!
 Author: Opa334
-Depiction: https://shiarahmed.github.io/depictions/CCSupport
 Name: CCSupport
 
 Package: com.r333d.cylinder
@@ -118,7 +118,6 @@ SHA256: 4294D05662D81B24BAE3625C4962EC6CFD85678F4066C4B580B151B555C8615F
 Section: Tweaks
 Description: Make your icons dance
 Author: Reed Weichler
-Depiction: https://github.com/shiarahmed/shiarahmed.github.io/tree/master/depictions/Cylinder
 Name: Cylinder
 
 Package: com.ahmedbafkir.dleasy
@@ -134,7 +133,6 @@ SHA256: C2EFD617B8B98D9C1E165D134634C45B2CEC58738F51A7FF8E0139F70FC0EB17
 Section: Tweaks
 Description: Download images & videos from social apps easily!
 Author: Ahmed Bafkir
-Depiction: https://shiarahmed.github.io/depictions/DLEasy
 Name: DLEasy
 
 Package: xyz.xninja.dopesettings
@@ -193,7 +191,7 @@ MD5sum: 745096E59544A2F6F3190CCB392A78BE
 SHA1: 85639DDDDDAA7BF85BFA8344F4016A5C5A130BDD
 SHA256: 885E76D7C5FC2326527B0E92CBDCB8BE7FBCC92F8C5BA9E52C977EE997171369
 Section: Utilities
-Description: Coming soon
+Description: Description coming soon
 Author: Shiar
 Name: Mage
 
@@ -238,7 +236,7 @@ MD5sum: 89ED8EC26F73301B1792D14DD2695C78
 SHA1: EB888B6870A85C61D57DDED5AFBD9ABC45170C9E
 SHA256: 3861B73F2E84407D4284266B9D021C009CA79F2E129B3EB54EDA25BF32BCEFE3
 Section: Tweaks
-Description: Get 3D Touch on iPhone 6 Plus and less
+Description: 3D Touch on iPhone 6 Plus and lower
 Author: Shiar
 Name: Peekaboo
 
@@ -330,7 +328,6 @@ SHA256: 4BB13CA95DE933390C64D32558B509363F1B9AC704094B9926CAB8DA8651A41F
 Section: Tweaks
 Description: Snowboard theming engine
 Author: Spark
-Depiction: https://shiarahmed.github.io/depictions/?p=SnowBoard
 Name: SnowBoard
 
 Package: applebetas.ios.tweak.specialfaces
