@@ -9,7 +9,7 @@ MD5sum: 90423EF8F0D911C07DD0DB8A744239E2
 SHA1: 3BC83F7F0DEE07756F9ABEB5B58AAB39D9A7140E
 SHA256: 2BF14CAA0EB0E889531723FFDEE13DDF8C2EB405F130FDAFE112BAD0DA80D842
 Section: Tweaks
-Description: Don't let incoming calls interrupt you
+Description: Downgrade iOS apps to any previous version! No AppSync needed!!!
 Author: UnlimApps Inc.
 Name: App Admin
 
@@ -23,7 +23,7 @@ MD5sum: 4AB9F1FC10827990402C4A3CBBDEB46A
 SHA1: D576761D3F85F34C7EB5236A26F18DF3D943DD85
 SHA256: 58A6F8E2875C78615EC6EB5637D2CCCB1747D472D8CAC963AC0BA82DC189B2BB
 Section: Tweaks
-Description: Downgrade iOS apps to any previous version! No AppSync needed!!!
+Description: Don't let incoming calls interrupt you
 Author: Elias Limneos
 Depiction: https://shiarahmed.github.io/depictions/CallBarX
 Name: CallBarX
@@ -47,20 +47,25 @@ Depiction: https://shiarahmed.github.io/depictions/CCSupport
 Name: CCSupport
 
 Package: com.r333d.cylinder
+Author: Reed Weichler <rweichler+cydia@gmail.com>
+Maintainer: ShiarAhmed (shiar_ahmed) <shiyar2002@icloud.com>
+Name: Cylinder
+Section: Tweaks
+Depends: firmware (>= 3.0), mobilesubstrate (>= 0.9.5000), preferenceloader
 Version: 1.0.6
 Architecture: iphoneos-arm
-Maintainer: ShiarAhmed (shiar_ahmed) <shiyar2002@icloud.com>
-Depends: firmware (>= 3.0), mobilesubstrate (>= 0.9.5000), preferenceloader
-Filename: ./debs/Cylinder.deb
-Size: 382811
-MD5sum: 9C41C38429B8C25D6C50D15314EA2E22
-SHA1: 32FD7F7B26D2E7E447799895A69C77EEF79672AA
-SHA256: 4E844198A1CF972FB6D1ADCBF94A328E27D17046B603D7A36F48BBBAC94D6047
-Section: Tweaks
-Description: Make your icons dance
-Author: Reed Weichler (rweichler)
-Depiction: https://shiarahmed.github.io/depictions/?p=Cylinder
-Name: Cylinder
+Description: Make your icons dance when scrolling between two bages
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=cylinderDp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=cylinderDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+Tag: purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9
+dev: rweichler
+Installed-Size: 899
+Icon: file:///Library/PreferenceBundles/CylinderSettings.bundle/Icon@2x.png
+Filename: debs//Cylinder.deb
+MD5sum: 1c0eebe91f6e03faea96218dadf8f4cc
+SHA256: 4294d05662d81b24bae3625c4962ec6cfd85678f4066c4b580b151b555c8615f
+Size: 255488
 
 Package: com.ahmedbafkir.dleasy
 Version: 1.4
