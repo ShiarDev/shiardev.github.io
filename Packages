@@ -1,3 +1,47 @@
+Package: com.xcxiao.quickswitcherxi
+Version: 1.3.1
+Architecture: iphoneos-arm
+Maintainer: ShiarAhmed (shiar_ahmed) <shiyar2002@icloud.com>
+Depends: mobilesubstrate, firmware (>= 11.0), preferenceloader
+Filename: ./debs/Adagio.deb
+Size: 348260
+MD5sum: A9CEC0A173853E56E5CC859FEED9B4E1
+SHA1: D3CADF2F798729DA9652333DB2A8E09BB950D154
+SHA256: CDB520102F7FB3FE91C7889543AF0AB9A8266F64535F547E43FE3DA71614F241
+Section: Tweaks
+Description: Quickswitcher for iOS
+Author: XCXiao
+Name: Adagio
+
+Package: org.thebigboss.aklocationx
+Version: 1.1.2-2
+Architecture: iphoneos-arm
+Maintainer: ShiarAhmed (shiar_ahmed) <shiyar2002@icloud.com>
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 5.0), preferenceloader
+Filename: ./debs/akLocationX.deb
+Size: 70969
+MD5sum: C0EFBE411A81A325E4A53C2186B72431
+SHA1: 5E40980D652D32F151864306B71AC7EB8A3D6514
+SHA256: 611ACD9E794B79C8B874A2FEFEF4B67B989416C68939D15F2FFE3C356BB38F29
+Section: Tweaks
+Description: Set any location as your location.
+Author: AlickHill
+Name: akLocationX
+
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: ShiarAhmed (shiar_ahmed) <shiyar2002@icloud.com>
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/Alkaline.deb
+Size: 557833
+MD5sum: 714EF880743265E822481217A14B1D78
+SHA1: F1BA50D186FC6C0AECE776FE9A9F4D5DE76FF17F
+SHA256: DEFAA34D3C52CF62F1FF62AE1A34004C1C149264995CF6BC76222EE7E00D8CD1
+Section: Tweaks
+Description: Customize your battery icon
+Author: Shiar
+Name: Alkaline
+
 Package: com.unlimapps.uaupdatetools
 Version: 1.0r-101
 Architecture: iphoneos-arm
@@ -12,6 +56,21 @@ Section: Tweaks
 Description: Downgrade iOS apps to any previous version! No AppSync needed!!!
 Author: UnlimApps Inc.
 Name: App Admin
+
+Package: com.cpdigitaldarkroom.barmoji
+Version: 1.3.2
+Architecture: iphoneos-arm
+Maintainer: ShiarAhmed (shiar_ahmed) <shiyar2002@icloud.com>
+Depends: mobilesubstrate
+Filename: ./debs/Barmoji.deb
+Size: 9456
+MD5sum: 4DB1B8CFBE456FF95F5174525DFB9438
+SHA1: 32E07E5C70D1BA20204843D6190240DADB4C65D7
+SHA256: 08D4F37A76A165A4E10691FB4D876695C73E9F1B896B1805FBB940D8C576066F
+Section: Tweaks
+Description: Quick emoji access for iPhone X
+Author: CP Digital Darkroom
+Name: Barmoji
 
 Version: 0.3-60
 Architecture: iphoneos-arm
@@ -108,6 +167,36 @@ Description: iPad dock power, for all !
 Author: SynnyG
 Name: FloatyDock
 
+Package: com.shiar.localiapstore
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: ShiarAhmed (shiar_ahmed) <shiyar2002@icloud.com>
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/LocalIAPStore.deb
+Size: 74782
+MD5sum: 1981695ECCE86251B0292C41F0CD26E7
+SHA1: EB3EFF048C49E368AC1D9897B812B1C726F49528
+SHA256: 1C07A2FE27BA68AE8AB7A99432DA8FD6F7D9E4A9166FAB7BB56BCFCA46CFD1BE
+Section: Tweaks
+Description: Purchase for free
+Author: Shiar
+Name: LocalIAPStore
+
+Package: com.shiar.mage
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: ShiarAhmed (shiar_ahmed) <shiyar2002@icloud.com>
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/Mage.deb
+Size: 6361
+MD5sum: 745096E59544A2F6F3190CCB392A78BE
+SHA1: 85639DDDDDAA7BF85BFA8344F4016A5C5A130BDD
+SHA256: 885E76D7C5FC2326527B0E92CBDCB8BE7FBCC92F8C5BA9E52C977EE997171369
+Section: Utilities
+Description: Coming soon
+Author: Shiar
+Name: Mage
+
 Package: com.parrotgeek.nobetaalert
 Version: 1.3.1
 Architecture: iphoneos-arm
@@ -137,6 +226,21 @@ Section: Tweaks
 Description: Dark Mode for iOS 12
 Author: Unknown
 Name: Noctis12
+
+Package: com.shiarahmed.peekaboo
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: ShiarAhmed (shiar_ahmed) <shiyar2002@icloud.com>
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/Peekaboo.deb
+Size: 64207
+MD5sum: 89ED8EC26F73301B1792D14DD2695C78
+SHA1: EB888B6870A85C61D57DDED5AFBD9ABC45170C9E
+SHA256: 3861B73F2E84407D4284266B9D021C009CA79F2E129B3EB54EDA25BF32BCEFE3
+Section: Tweaks
+Description: Get 3D Touch on iPhone 6 Plus and less
+Author: Shiar
+Name: Peekaboo
 
 Package: org.cydia.kiiimo.pubgmobilenoblocking
 Version: 1.0
@@ -198,6 +302,21 @@ Description: Simple lockscreen for iOS 10/11 devices.
 Author: XCXiao
 Name: SimpleLSiOS
 
+Package: com.shiarahmed.slyph
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: ShiarAhmed (shiar_ahmed) <shiyar2002@icloud.com>
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/Slyph.deb
+Size: 111558
+MD5sum: 60C5080DFA84D11E352D785ECFA18D83
+SHA1: 86E552EA26F2F5E2462609A19CD9C0F2470EABD6
+SHA256: 042D67E1C63C12D0468571D9BBFE1E80ACB0ABE4D47E1E26321C6F60FD0D93DF
+Section: Tweaks
+Description: Customize your music in lockscreen
+Author: Shiar
+Name: Slyph
+
 Package: com.spark.snowboard
 Version: 1.0.4-1
 Architecture: iphoneos-arm
@@ -214,6 +333,66 @@ Author: Spark
 Depiction: https://shiarahmed.github.io/depictions/?p=SnowBoard
 Name: SnowBoard
 
+Package: applebetas.ios.tweak.specialfaces
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: ShiarAhmed (shiar_ahmed) <shiyar2002@icloud.com>
+Depends: mobilesubstrate, firmware (>= 10.0)
+Filename: ./debs/SpecialFaces.deb
+Size: 9440
+MD5sum: 68BB36BDB210F44D026E4F21470E39FF
+SHA1: 8EFA9194952E41422C919C8E1E18B75A537003B4
+SHA256: 450B5C80A343D7569BBBB718FB7CD81179713D4B672A245EBE2BEFAF68D536B9
+Section: Tweaks
+Description: Enable the special watch faces (such as the Nike+ and Hermes faces) on any Apple Watch.
+Author: AppleBetas
+Name: SpecialFaces
+
+Package: com.rishanan.springplus
+Version: 1.3-2
+Architecture: iphoneos-arm
+Maintainer: ShiarAhmed (shiar_ahmed) <shiyar2002@icloud.com>
+Depends: mobilesubstrate, preferenceloader, com.rish.libspring
+Filename: ./debs/SpringPlus.deb
+Size: 57922
+MD5sum: 3F66268A1D79845C14E10656E46672D3
+SHA1: BE42058345D5F36354DD3689424FDE1BE15BADB2
+SHA256: 56E5C707975D7814DC06DBF0D14A13FD5B36434EBED709987CC0211EC999B457
+Section: Tweaks
+Description: All round modification for your iDevice.
+Author: Rishanan
+Name: SpringPlus
+
+Package: com.ioscreatix.sugarcane
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: ShiarAhmed (shiar_ahmed) <shiyar2002@icloud.com>
+Depends: mobilesubstrate
+Filename: ./debs/SugarCane.deb
+Size: 7960
+MD5sum: AC67A7B192F622B682247BE67F26E51A
+SHA1: 2808AE51BF27F23E41F8411C3D99FD5836C0AD30
+SHA256: 24E85D54233C7D36D718484AAEEC4FDA603055DFDA486574F59D2E0362237458
+Section: Tweaks
+Description: Get percentages for the sliders in the Control Center on iOS 11
+Author: IOS Creatix
+Name: SugarCane
+
+Package: com.spark.TapTime
+Version: 0.0.31
+Architecture: iphoneos-arm
+Maintainer: ShiarAhmed (shiar_ahmed) <shiyar2002@icloud.com>
+Depends: mobilesubstrate
+Filename: ./debs/TapTime.deb
+Size: 20416
+MD5sum: 7E2994A5C4A081251516C9B2B1E1E8CB
+SHA1: 89AB94BD8A078749D11C50A94DDAD211AA96711A
+SHA256: FDF075AFFBF1069C60DEEEC7663BD5FAC34DBB9D847CFFD937B2742B854B7778
+Section: Tweaks
+Description: Tap the time in the statusbar to reveal the date
+Author: Spark
+Name: TapTime
+
 Package: com.ruler225.videohud
 Version: 2.3
 Architecture: iphoneos-arm
@@ -228,3 +407,18 @@ Section: Tweaks
 Description: iOS 11 & 12 video player HUD used systemwide!
 Author: Youssef Mikhail
 Name: VideoHUD
+
+Package: com.matchstic.xenhtml
+Version: 0.4rc7-1
+Architecture: iphoneos-arm
+Maintainer: ShiarAhmed (shiar_ahmed) <shiyar2002@icloud.com>
+Depends: firmware (>= 9.0), mobilesubstrate, preferenceloader, com.matchstic.libgithubissues, jp.ashikase.libpackageinfo, firmware (>= 11.0) | com.unlimapps.uaunbox
+Filename: ./debs/XenHTML.deb
+Size: 1235602
+MD5sum: 5190DFA7B65E4B5C94BF34AB47FF5890
+SHA1: EF5E666F4C32A005AC6FD3432E5138E4CB505B5D
+SHA256: A4FC9EA39510565CE34ED766BB186F94E1232294486A05B0E7BE55B06F60B84D
+Section: Tweaks
+Description: Unified HTML rendering; lockscreen and homescreen
+Author: Matt Clarke
+Name: XenHTML
