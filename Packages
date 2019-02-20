@@ -4,10 +4,10 @@ Architecture: iphoneos-arm
 Maintainer: ShiarAhmed (shiar_ahmed) <shiyar2002@icloud.com>
 Depends: mobilesubstrate, firmware (>= 11.0), preferenceloader
 Filename: ./debs/Adagio.deb
-Size: 348260
-MD5sum: A9CEC0A173853E56E5CC859FEED9B4E1
-SHA1: D3CADF2F798729DA9652333DB2A8E09BB950D154
-SHA256: CDB520102F7FB3FE91C7889543AF0AB9A8266F64535F547E43FE3DA71614F241
+Size: 215956
+MD5sum: 218B0C29DAC8DD1F0E6C230F7C5D0B8D
+SHA1: 7D3D14F3B07479263E2D6B9CE49A535097D79EAE
+SHA256: 27386AF8D27D27D4CC17BCF337C40BB54C514CB76B36D2B0C20660CF76705160
 Section: Tweaks
 Description: Quickswitcher for iOS
 Author: XCXiao
@@ -19,17 +19,17 @@ Architecture: iphoneos-arm
 Maintainer: ShiarAhmed (shiar_ahmed) <shiyar2002@icloud.com>
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 5.0), preferenceloader
 Filename: ./debs/akLocationX.deb
-Size: 70969
-MD5sum: C0EFBE411A81A325E4A53C2186B72431
-SHA1: 5E40980D652D32F151864306B71AC7EB8A3D6514
-SHA256: 611ACD9E794B79C8B874A2FEFEF4B67B989416C68939D15F2FFE3C356BB38F29
+Size: 47412
+MD5sum: C70AF23A868D3DFC219C4E4968642CA8
+SHA1: 53CD0EF2703D9B0CD6E6A9FF6878710410C79A03
+SHA256: DC0F1E7B6C4107D6ACFBF4FDA0F64AF7F48683A74D9FE8E32FA8F10F8E3FB9C3
 Section: Tweaks
 Description: Set any location as your location.
 Author: AlickHill
 Name: akLocationX
 
-Package: com.shiar.alkaline
-Version: 0.3-60
+Package: com.fortysixandtwo.alkaline
+Version: 1.3
 Architecture: iphoneos-arm
 Maintainer: ShiarAhmed (shiar_ahmed) <shiyar2002@icloud.com>
 Depends: mobilesubstrate, preferenceloader
@@ -40,7 +40,7 @@ SHA1: F1BA50D186FC6C0AECE776FE9A9F4D5DE76FF17F
 SHA256: DEFAA34D3C52CF62F1FF62AE1A34004C1C149264995CF6BC76222EE7E00D8CD1
 Section: Tweaks
 Description: Customize your battery icon
-Author: Shiar
+Author: ModMyi
 Name: Alkaline
 
 Package: com.unlimapps.uaupdatetools
@@ -48,11 +48,12 @@ Version: 1.0r-101
 Architecture: iphoneos-arm
 Maintainer: ShiarAhmed (shiar_ahmed) <shiyar2002@icloud.com>
 Depends: firmware (>= 7.0), mobilesubstrate
+Conflicts: it.marcocristalli.asupdatehider
 Filename: ./debs/AppAdmin.deb
 Size: 875008
-MD5sum: 90423EF8F0D911C07DD0DB8A744239E2
-SHA1: 3BC83F7F0DEE07756F9ABEB5B58AAB39D9A7140E
-SHA256: 2BF14CAA0EB0E889531723FFDEE13DDF8C2EB405F130FDAFE112BAD0DA80D842
+MD5sum: 4AB9F1FC10827990402C4A3CBBDEB46A
+SHA1: D576761D3F85F34C7EB5236A26F18DF3D943DD85
+SHA256: 58A6F8E2875C78615EC6EB5637D2CCCB1747D472D8CAC963AC0BA82DC189B2BB
 Section: Tweaks
 Description: Downgrade iOS apps to any previous version! No AppSync needed!!!
 Author: UnlimApps Inc.
@@ -64,28 +65,28 @@ Architecture: iphoneos-arm
 Maintainer: ShiarAhmed (shiar_ahmed) <shiyar2002@icloud.com>
 Depends: mobilesubstrate
 Filename: ./debs/Barmoji.deb
-Size: 9456
-MD5sum: 4DB1B8CFBE456FF95F5174525DFB9438
-SHA1: 32E07E5C70D1BA20204843D6190240DADB4C65D7
-SHA256: 08D4F37A76A165A4E10691FB4D876695C73E9F1B896B1805FBB940D8C576066F
+Size: 23856
+MD5sum: 5C00C5259DE2A8DF40707A44E86B4E15
+SHA1: AFE11C51987F82EFCCDF1190F86F3C1C57A622CB
+SHA256: 14A2ED541714DBF915F9D3EE574418785DE36C9CC966FE1585432A92C95868D0
 Section: Tweaks
 Description: Quick emoji access for iPhone X
 Author: CP Digital Darkroom
 Name: Barmoji
 
-Version: 0.3-60
+Package: net.limneos.callbarx
+Version: 0.3-68
 Architecture: iphoneos-arm
 Maintainer: ShiarAhmed (shiar_ahmed) <shiyar2002@icloud.com>
-Depends: mobilesubstrate, preferenceloader, firmware (>= 11.0)
+Depends: mobilesubstrate, preferenceloader
 Filename: ./debs/CallBarX.deb
-Size: 149346
-MD5sum: 4AB9F1FC10827990402C4A3CBBDEB46A
-SHA1: D576761D3F85F34C7EB5236A26F18DF3D943DD85
-SHA256: 58A6F8E2875C78615EC6EB5637D2CCCB1747D472D8CAC963AC0BA82DC189B2BB
+Size: 203102
+MD5sum: B3ED176BFDCADD6A67C7A83495414626
+SHA1: B8C7ABA7401EB9F736ACA468F086C483DAE8570B
+SHA256: D70D11945F23B9C1C3913FD86A29B4F297D66DA5E19A75DDD0B54A398F3F2A65
 Section: Tweaks
 Description: Don't let incoming calls interrupt you
 Author: Elias Limneos
-Depiction: https://shiarahmed.github.io/depictions/CallBarX
 Name: CallBarX
 
 Package: com.opa334.ccsupport
@@ -111,10 +112,10 @@ Architecture: iphoneos-arm
 Maintainer: ShiarAhmed (shiar_ahmed) <shiyar2002@icloud.com>
 Depends: firmware (>= 3.0), mobilesubstrate (>= 0.9.5000), preferenceloader
 Filename: ./debs/Cylinder.deb
-Size: 255488
-MD5sum: 1C0EEBE91F6E03FAEA96218DADF8F4CC
-SHA1: 8EE421D677DF4EBF70B1F39F58E3FF9D3B831E1A
-SHA256: 4294D05662D81B24BAE3625C4962EC6CFD85678F4066C4B580B151B555C8615F
+Size: 382811
+MD5sum: 9C41C38429B8C25D6C50D15314EA2E22
+SHA1: 32FD7F7B26D2E7E447799895A69C77EEF79672AA
+SHA256: 4E844198A1CF972FB6D1ADCBF94A328E27D17046B603D7A36F48BBBAC94D6047
 Section: Tweaks
 Description: Make your icons dance
 Author: Reed Weichler
@@ -165,36 +166,6 @@ Description: iPad dock power, for all !
 Author: SynnyG
 Name: FloatyDock
 
-Package: com.shiar.localiapstore
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: ShiarAhmed (shiar_ahmed) <shiyar2002@icloud.com>
-Depends: mobilesubstrate, preferenceloader
-Filename: ./debs/LocalIAPStore.deb
-Size: 74782
-MD5sum: 1981695ECCE86251B0292C41F0CD26E7
-SHA1: EB3EFF048C49E368AC1D9897B812B1C726F49528
-SHA256: 1C07A2FE27BA68AE8AB7A99432DA8FD6F7D9E4A9166FAB7BB56BCFCA46CFD1BE
-Section: Tweaks
-Description: Purchase for free
-Author: Shiar
-Name: LocalIAPStore
-
-Package: com.shiar.mage
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: ShiarAhmed (shiar_ahmed) <shiyar2002@icloud.com>
-Depends: mobilesubstrate, preferenceloader
-Filename: ./debs/Mage.deb
-Size: 6361
-MD5sum: 745096E59544A2F6F3190CCB392A78BE
-SHA1: 85639DDDDDAA7BF85BFA8344F4016A5C5A130BDD
-SHA256: 885E76D7C5FC2326527B0E92CBDCB8BE7FBCC92F8C5BA9E52C977EE997171369
-Section: Utilities
-Description: Description coming soon
-Author: Shiar
-Name: Mage
-
 Package: com.parrotgeek.nobetaalert
 Version: 1.3.1
 Architecture: iphoneos-arm
@@ -225,7 +196,7 @@ Description: Dark Mode for iOS 12
 Author: Unknown
 Name: Noctis12
 
-Package: com.shiarahmed.peekaboo
+Package: io.github.shiarahmed.peekaboo
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: ShiarAhmed (shiar_ahmed) <shiyar2002@icloud.com>
@@ -300,21 +271,6 @@ Description: Simple lockscreen for iOS 10/11 devices.
 Author: XCXiao
 Name: SimpleLSiOS
 
-Package: com.shiarahmed.slyph
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: ShiarAhmed (shiar_ahmed) <shiyar2002@icloud.com>
-Depends: mobilesubstrate, preferenceloader
-Filename: ./debs/Slyph.deb
-Size: 111558
-MD5sum: 60C5080DFA84D11E352D785ECFA18D83
-SHA1: 86E552EA26F2F5E2462609A19CD9C0F2470EABD6
-SHA256: 042D67E1C63C12D0468571D9BBFE1E80ACB0ABE4D47E1E26321C6F60FD0D93DF
-Section: Tweaks
-Description: Customize your music in lockscreen
-Author: Shiar
-Name: Slyph
-
 Package: com.spark.snowboard
 Version: 1.0.4-1
 Architecture: iphoneos-arm
@@ -322,9 +278,9 @@ Maintainer: ShiarAhmed (shiar_ahmed) <shiyar2002@icloud.com>
 Depends: mobilesubstrate, jp.ashikase.techsupport, preferenceloader
 Filename: ./debs/SnowBoard.deb
 Size: 614026
-MD5sum: 17A839E98F062F7A0FBA5261F3FFD1EC
-SHA1: D135F52B0B4F2545538E0D9732D92438CC194ED7
-SHA256: 4BB13CA95DE933390C64D32558B509363F1B9AC704094B9926CAB8DA8651A41F
+MD5sum: B8D5F722B7FB583F9E546BC51802F83F
+SHA1: 339B10F573994CA499478491A241FB58B72BEDA7
+SHA256: 4447B5E2B40E418C4203A6896EF538129F47637AF55257CF24E88DD9401BD953
 Section: Tweaks
 Description: Snowboard theming engine
 Author: Spark
@@ -336,10 +292,10 @@ Architecture: iphoneos-arm
 Maintainer: ShiarAhmed (shiar_ahmed) <shiyar2002@icloud.com>
 Depends: mobilesubstrate, firmware (>= 10.0)
 Filename: ./debs/SpecialFaces.deb
-Size: 9440
-MD5sum: 68BB36BDB210F44D026E4F21470E39FF
-SHA1: 8EFA9194952E41422C919C8E1E18B75A537003B4
-SHA256: 450B5C80A343D7569BBBB718FB7CD81179713D4B672A245EBE2BEFAF68D536B9
+Size: 7426
+MD5sum: F413A60C7814E49FBFC15CC27DED1078
+SHA1: 8C78D93F5628FA49956F844AB21BD9509483DFD9
+SHA256: 1EAE6A400A7073371BC5F0F5B0CC6F8093A9A766CC96BFD7B06C4935116D56DA
 Section: Tweaks
 Description: Enable the special watch faces (such as the Nike+ and Hermes faces) on any Apple Watch.
 Author: AppleBetas
@@ -350,11 +306,12 @@ Version: 1.3-2
 Architecture: iphoneos-arm
 Maintainer: ShiarAhmed (shiar_ahmed) <shiyar2002@icloud.com>
 Depends: mobilesubstrate, preferenceloader, com.rish.libspring
+Conflicts: com.rishanan.bke,com.rishanan.noti,com.rishanan.ndb,com.rishanan.swP
 Filename: ./debs/SpringPlus.deb
-Size: 57922
-MD5sum: 3F66268A1D79845C14E10656E46672D3
-SHA1: BE42058345D5F36354DD3689424FDE1BE15BADB2
-SHA256: 56E5C707975D7814DC06DBF0D14A13FD5B36434EBED709987CC0211EC999B457
+Size: 47140
+MD5sum: EE47D1B54517921EB5E2CADA238C9786
+SHA1: 87609CB34ACEEF3B333005D29C1306B839D8FEE5
+SHA256: 5714EC5FCD13631BDF0D5E4C94053C422DE700AAA977C33DA6A9A5BD8C335F94
 Section: Tweaks
 Description: All round modification for your iDevice.
 Author: Rishanan
@@ -366,14 +323,29 @@ Architecture: iphoneos-arm
 Maintainer: ShiarAhmed (shiar_ahmed) <shiyar2002@icloud.com>
 Depends: mobilesubstrate
 Filename: ./debs/SugarCane.deb
-Size: 7960
-MD5sum: AC67A7B192F622B682247BE67F26E51A
-SHA1: 2808AE51BF27F23E41F8411C3D99FD5836C0AD30
-SHA256: 24E85D54233C7D36D718484AAEEC4FDA603055DFDA486574F59D2E0362237458
+Size: 5490
+MD5sum: 4A62025D6FA34A4E7BC9A4497303A70D
+SHA1: 3F256747F61034ED9AF82B633173F1C3130E514B
+SHA256: 01F88237654818CEF6FC0EBF29AFDEED5F5A8FD4CE48EB34086CCFE092D3BDE1
 Section: Tweaks
 Description: Get percentages for the sliders in the Control Center on iOS 11
 Author: IOS Creatix
 Name: SugarCane
+
+Package: io.github..shiarahmed.sylph
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: ShiarAhmed (shiar_ahmed) <shiyar2002@icloud.com>
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/Sylph.deb
+Size: 111558
+MD5sum: 60C5080DFA84D11E352D785ECFA18D83
+SHA1: 86E552EA26F2F5E2462609A19CD9C0F2470EABD6
+SHA256: 042D67E1C63C12D0468571D9BBFE1E80ACB0ABE4D47E1E26321C6F60FD0D93DF
+Section: Tweaks
+Description: Customize your music in lockscreen
+Author: Shiar
+Name: Sylph
 
 Package: com.spark.TapTime
 Version: 0.0.31
@@ -381,10 +353,10 @@ Architecture: iphoneos-arm
 Maintainer: ShiarAhmed (shiar_ahmed) <shiyar2002@icloud.com>
 Depends: mobilesubstrate
 Filename: ./debs/TapTime.deb
-Size: 20416
-MD5sum: 7E2994A5C4A081251516C9B2B1E1E8CB
-SHA1: 89AB94BD8A078749D11C50A94DDAD211AA96711A
-SHA256: FDF075AFFBF1069C60DEEEC7663BD5FAC34DBB9D847CFFD937B2742B854B7778
+Size: 14770
+MD5sum: 70FCB95E0E790D242B7D1C0690E58A9C
+SHA1: A10DE381A0D438478908908859BADAECDC4BBC5F
+SHA256: 63FE82362743B42CF49DD85C25E0E53A79A12E2B189147CC32E1211C20AB9FA0
 Section: Tweaks
 Description: Tap the time in the statusbar to reveal the date
 Author: Spark
@@ -411,10 +383,10 @@ Architecture: iphoneos-arm
 Maintainer: ShiarAhmed (shiar_ahmed) <shiyar2002@icloud.com>
 Depends: firmware (>= 9.0), mobilesubstrate, preferenceloader, com.matchstic.libgithubissues, jp.ashikase.libpackageinfo, firmware (>= 11.0) | com.unlimapps.uaunbox
 Filename: ./debs/XenHTML.deb
-Size: 1235602
-MD5sum: 5190DFA7B65E4B5C94BF34AB47FF5890
-SHA1: EF5E666F4C32A005AC6FD3432E5138E4CB505B5D
-SHA256: A4FC9EA39510565CE34ED766BB186F94E1232294486A05B0E7BE55B06F60B84D
+Size: 1131632
+MD5sum: F316B00E2E09DD2BAA4738B6E61365FD
+SHA1: 2D266D8894AA6FD50A98E9392183D85771D74D3E
+SHA256: D90E029D03C754A2E5E55C63F2EC2860D6F5099F69C1D64750BD1AE480C94872>>
 Section: Tweaks
 Description: Unified HTML rendering; lockscreen and homescreen
 Author: Matt Clarke
