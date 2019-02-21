@@ -96,7 +96,7 @@ Maintainer: ShiarAhmed (shiar_ahmed) <shiyar2002@icloud.com>
 Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000)
 Conflicts: com.ioscreatix.silo
 Replaces: com.ioscreatix.silo
-Depiction: shiarahmed.github.io/depictions/CCSupport/info.xml
+Depiction: https://shiarahmed.github.io/depictions/CCSupport/info.xml
 Filename: ./debs/CCSupport.deb
 Size: 31136
 MD5sum: CD87D0C5244FF4B1D97FFAC46F5CC03B
