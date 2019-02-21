@@ -96,7 +96,7 @@ Maintainer: ShiarAhmed (shiar_ahmed) <shiyar2002@icloud.com>
 Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000)
 Conflicts: com.ioscreatix.silo
 Replaces: com.ioscreatix.silo
-Depiction: https://github.com/shiarahmed/shiarahmed.github.io/tree/master/depictions/CCSupport
+Depiction: https://shiarahmed.github.io/depictions/?p=CCSupport
 Filename: ./debs/CCSupport.deb
 Size: 31136
 MD5sum: CD87D0C5244FF4B1D97FFAC46F5CC03B
@@ -127,6 +127,7 @@ Version: 1.4
 Architecture: iphoneos-arm
 Maintainer: ShiarAhmed (shiar_ahmed) <shiyar2002@icloud.com>
 Depends: mobilesubstrate, firmware (>= 7.0), preferenceloader
+Depiction: https://shiarahmed.github.io/depictions/?p=DLEasy
 Filename: ./debs/DLEasy.deb
 Size: 683800
 MD5sum: AF1F974842DB532985B26D155E0E3A54
