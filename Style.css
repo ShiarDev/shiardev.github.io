@@ -23,7 +23,7 @@ header img {
 
 header .repo {
     display: block;
-    padding-top:0px;
+    padding-top:10px;
     font-family: "Fredoka One", sans-serif;
     text-transform: uppercase;
     font-size: 2em;
@@ -40,7 +40,7 @@ header .repo {
     }
 
     header .repo {
-        padding-top:0px;
+        padding-top:20px;
         font-size: 3.4em;
     }
 
