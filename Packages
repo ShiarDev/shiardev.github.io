@@ -1,12 +1,12 @@
 Package: com.unlimapps.uaupdatetools
 Architecture: iphoneos-arm
-Version: 1.0r-101
+Version: 1.0r-100
 Section: Tweaks
 Maintainer: UnlimApps Inc.
 Depends: firmware (>= 7.0), mobilesubstrate
-Filename: ./debfiles/com.unlimapps.uaupdatetools_1.0r-101_iphoneos-arm.deb
-Size: 875008
-MD5sum: 4ab9f1fc10827990402c4a3cbbdeb46a
+Filename: ./debfiles/com.unlimapps.uaupdatetools_1.0r-100_iphoneos-arm.deb
+Size: 874798
+MD5sum: f8bf4be3e4ff6e02dad26913ff0f2fb6
 Description: Downgrade iOS apps to any previous version! No AppSync needed!!!
 Name: App Admin
 Author: UnlimApps Inc.
@@ -115,14 +115,14 @@ Name: SpecialFaces
 
 Package: com.rishanan.springplus
 Architecture: iphoneos-arm
-Version: 1.3
+Version: 1.3-2
 Section: Tweaks
 Maintainer: Rishanan
 Depends: mobilesubstrate, preferenceloader
 Conflicts: com.rishanan.bke,com.rishanan.noti,com.rishanan.ndb,com.rishanan.swP
-Filename: ./debfiles/com.rishanan.springplus_1.3_iphoneos-arm.deb
-Size: 55796
-MD5sum: d81e1c4a5e047283eef0064be908dc86
+Filename: ./debfiles/com.rishanan.springplus_1.3-2_iphoneos-arm.deb
+Size: 47140
+MD5sum: ee47d1b54517921eb5e2Cada238c9786
 Description: All round modification for your iDevice.
 Name: SpringPlus
 Author: Rishanan
