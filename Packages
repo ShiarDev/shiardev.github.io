@@ -49,6 +49,7 @@ Architecture: iphoneos-arm
 Maintainer: ShiarAhmed (shiar_ahmed) <shiyar2002@icloud.com>
 Depends: firmware (>= 7.0), mobilesubstrate
 Conflicts: it.marcocristalli.asupdatehider
+Depiction: https://github.com/shiarahmed.github.io/depictions/?p=AppAdmin
 Filename: ./debs/AppAdmin.deb
 Size: 875008
 MD5sum: 4AB9F1FC10827990402C4A3CBBDEB46A

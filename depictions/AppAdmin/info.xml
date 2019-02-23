@@ -1,0 +1,26 @@
+<package>
+	<id>com.unlimapps.uaupdatetools</id>
+	<name>App Admin</name>
+	<version>1.0r-101</version>
+	<compatibility>
+		<firmware>
+			<miniOS>7.0</miniOS>
+			<maxiOS>12.1.2</maxiOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+		<firmware>(>= 7.0)</firmware>
+	</dependencies>
+	<descriptionlist>
+		<description>iOS 7.0 - 12.1.2</description>
+		<description>Downgrade iOS apps to any previous version! No AppSync needed!!!</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+</package>
