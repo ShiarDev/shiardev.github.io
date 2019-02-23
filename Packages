@@ -122,7 +122,7 @@ Depends: mobilesubstrate, preferenceloader
 Conflicts: com.rishanan.bke,com.rishanan.noti,com.rishanan.ndb,com.rishanan.swP
 Filename: ./debfiles/com.rishanan.springplus_1.3-2_iphoneos-arm.deb
 Size: 47140
-MD5sum: ee47d1b54517921eb5e2Cada238c9786
+MD5sum: ee47d1b54517921eb5e2cada238c9786
 Description: All round modification for your iDevice.
 Name: SpringPlus
 Author: Rishanan
