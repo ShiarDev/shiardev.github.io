@@ -1,0 +1,22 @@
+<package>
+	<id>com.spark.snowboard</id>
+	<name>SnowBoard</name>
+	<version>1.0.4-1</version>
+	<compatibility>
+		<firmware>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+		<package>jp.ashikase.techsupport</package>
+		<package>preferenceloader</package>
+	</dependencies>
+	<descriptionlist>
+		<description>Snowboard theming engine</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>

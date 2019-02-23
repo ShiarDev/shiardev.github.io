@@ -45,7 +45,7 @@ Architecture: iphoneos-arm
 Version: 1.0.4-1
 Section: Tweaks
 Maintainer: Spark
-Depends: mobilesubstrate, jp.ashikase.techsupport, preferenceloade
+Depends: mobilesubstrate, jp.ashikase.techsupport, preferenceloader
 Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
 Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
 Filename: ./debs/com.spark.snowboard_1.0.4-1.deb
