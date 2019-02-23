@@ -27,18 +27,20 @@ Author: Elias Limneos
 Name: CallBarX
 
 Package: com.julioverne.gravity
-Version: 0.5
 Architecture: iphoneos-arm
-Maintainer: ShiarAhmed (shiar_ahmed) <shiyar2002@icloud.com>
-Depends: mobilesubstrate, preferenceloader
-Filename: ./debs/Gravity.deb
-Size: 154215
-MD5sum: 745C14F9E833A0147130EE99C9589FDF
-Icon: file://Library/preferenceBundles/Gravity.bundle/icon@2x.png
+Version: 0.5
 Section: Tweaks
+Maintainer: Julio
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debfiles/com.julioverne.gravity_0.5_iphoneos-arm.deb
+Size: 148142
+MD5sum: 71c8ea584147eabe2ee3803b95aea6fa
+Homepage: http://twitter.com/ijulioverne
 Description: Graviboard alternative
-Author: julioverne <julioverne@me.com>
 Name: Gravity
+Author: julioverne <julioverne@me.com>
+Icon: file:///Library/PreferenceBundles/Gravity.bundle/icon@2x.png
+Depiction: http://julioverne.github.io/description.html?id=com.julioverne.gravity
 
 Package: com.parrotgeek.nobetaalert
 Version: 1.3.1
