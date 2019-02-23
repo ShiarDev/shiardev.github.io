@@ -39,19 +39,17 @@ Author: julioverne <julioverne@me.com>
 Icon: file:///Library/PreferenceBundles/Gravity.bundle/icon@2x.png
 
 Package: com.parrotgeek.nobetaalert
-Version: 1.3.1
 Architecture: iphoneos-arm
-Maintainer: ShiarAhmed (shiar_ahmed) <shiyar2002@icloud.com>
-Depends: mobilesubstrate
-Filename: ./debs/NoBetaAlert.deb
-Size: 2708
-MD5sum: 1D3DAC45811CF0E73FD6435CD94EA96D
-SHA1: BA748FEEAFB5EB296811A61D72482D61DF2B2E78
-SHA256: AEFB555490F211652E0C9372AAC5BAEB633AF55E8B88B38C7732F072893C19FB
+Version: 1.3.1
 Section: Tweaks
+Maintainer: Ethan Nelson-Moore
+Depends: mobilesubstrate
+Filename: ./debfiles/com.parrotgeek.nobetaalert_1.3.1_iphoneos-arm.deb
+Size: 2708
+MD5sum: 1d3dac45811cf0e73fd6435cd94ea96d
 Description: Hide "Please update from the iOS beta" alert (iOS 8.0-12.1.2)
-Author: Ethan Nelson-Moore
 Name: NoBetaAlert
+Author: Ethan Nelson-Moore
 
 Package: io.github.shiarahmed.peekaboo
 Version: 1.0
