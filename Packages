@@ -39,3 +39,19 @@ Description: Hide "Please update from the iOS beta" alert (iOS 8.0-12.1.2)
 Name: NoBetaAlert
 Author: Ethan Nelson-Moore
 Depiction: https://shiarahmed.github.io/depictions/?p=com.parrotgeek.nobetaalert
+
+Package: com.spark.snowboard
+Architecture: iphoneos-arm
+Version: 1.0.4-1
+Section: Tweaks
+Maintainer: Spark
+Depends: mobilesubstrate, jp.ashikase.techsupport, preferenceloade
+Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Filename: ./debs/com.spark.snowboard_1.0.4-1.deb
+Size: 358712
+MD5sum: b8d5f722b7fb583f9e546bc51802f83f
+Description: Snowboard theming engine
+Name: SnowBoard
+Author: Spark
+Depiction: https://shiarahmed.github.io/depictions/?p=com.spark.snowboard
