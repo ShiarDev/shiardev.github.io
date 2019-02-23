@@ -24,14 +24,14 @@ You can change `repo` to anything you want, like `cydia` for example. So your re
 
 Edit `Release` file. Modify the items pointed by `<--`
 
-    Origin: Reposi3  <--
-    Label: Reposi3   <--
+    Origin: Shiar's Repo  <--
+    Label: Shiar's Repo   <--
     Suite: stable
     Version: 1.0
     Codename: ios
     Architectures: iphoneos-arm
     Components: main
-    Description: Reposi3 - a cydia repo template  <--
+    Description: Shiar's Repo - a cydia repo template  <--
 
 **Branding**
 
@@ -52,12 +52,12 @@ This data are the links that appear at the bottom of every depication. The data 
     <footerlinks>
         <link>
             <name>Follow me on Twitter</name>
-            <url>https://twitter.com/reposi3</url>
+            <url>https://twitter.com/shiar_ahmed</url>
             <iconclass>glyphicon glyphicon-user</iconclass>
         </link>
         <link>
             <name>I want this depiction template</name>
-            <url>https://github.com/supermamon/Reposi3</url>
+            <url>https://shiarahmed.github.io</url>
             <iconclass>glyphicon glyphicon-thumbs-up</iconclass>
         </link>
     </footerlinks>
@@ -81,18 +81,18 @@ Rename the duplicate with the same name as your package name.
 There are 2 files inside the folder - `info.xml` and `changelog.xml`.
 Update the 2 files with information regading your package.
 The tags are pretty much self-explanatory.
-Contact [@reposi3](https://twitter.com/reposi3) or [@supermamon](https://twitter.com/supermamon) for questions.
+Contact [@shiar_ahmed](https://twitter.com/shiar_ahmed) for questions.
 
 `info.xml`.
 ```xml
 <package>
-    <id>com.supermamon.oldpackage</id>
-    <name>Old Package</name>
-    <version>1.0.0-1</version>
+    <id>com.example.example</id>
+    <name>Example</name>
+    <version>1.0</version>
     <compatibility>
         <firmware>
-            <miniOS>5.0</miniOS>
-            <maxiOS>7.0</maxiOS>
+            <miniOS>1.0</miniOS>
+            <maxiOS>12.1.2</maxiOS>
             <otherVersions>unsupported</otherVersions>
             <!--
             for otherVersions, you can put either unsupported or unconfirmed
@@ -101,7 +101,7 @@ Contact [@reposi3](https://twitter.com/reposi3) or [@supermamon](https://twitter
     </compatibility>
     <dependencies></dependencies>
     <descriptionlist>
-        <description>This is an old package. Requires iOS 7 and below..</description>
+        <description>Description for example package</description>
     </descriptionlist>
     <screenshots></screenshots>
     <changelog>
@@ -115,7 +115,7 @@ Contact [@reposi3](https://twitter.com/reposi3) or [@supermamon](https://twitter
 ```xml
 <changelog>
     <changes>
-        <version>1.0.0-1</version>
+        <version>1.0</version>
         <change>Initial release</change>
     </changes>
 </changelog>
@@ -134,7 +134,7 @@ Depiction: https://username.github.io/repo/depictions/?p=[idhere]
 Replace `[idhere]` with your actual package name.
 
 ```text
-Depiction: https://username.github.io/repo/depictions/?p=com.supermamon.oldpackage
+Depiction: https://username.github.io/repo/depictions/?p=com.example.example
 ```
 
 #### 3. Rebuilding the `Packages` file
