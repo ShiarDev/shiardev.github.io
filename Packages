@@ -12,14 +12,14 @@ Name: App Admin
 Author: UnlimApps Inc.
 
 Package: net.limneos.callbarx
-Version: 0.3-68
 Architecture: iphoneos-arm
-Maintainer: ShiarAhmed (shiar_ahmed) <shiyar2002@icloud.com>
-Depends: mobilesubstrate, preferenceloader
-Filename: ./debs/CallBarX.deb
-Size: 203102
-MD5sum: B3ED176BFDCADD6A67C7A83495414626
+Version: 0.3-68
 Section: Tweaks
+Maintainer: Elias Limneos
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debfiles/CallBarX.deb
+Size: 203102
+MD5sum: b3ed176bfdcadd6a67c7a83495414626
 Description: Don't let incoming calls interrupt you
 Author: Elias Limneos
 Name: CallBarX
@@ -36,7 +36,6 @@ MD5sum: 71c8ea584147eabe2ee3803b95aea6fa
 Description: Graviboard alternative
 Name: Gravity
 Author: julioverne <julioverne@me.com>
-Icon: file:///Library/PreferenceBundles/Gravity.bundle/icon@2x.png
 
 Package: com.parrotgeek.nobetaalert
 Architecture: iphoneos-arm
@@ -52,61 +51,53 @@ Name: NoBetaAlert
 Author: Ethan Nelson-Moore
 
 Package: io.github.shiarahmed.peekaboo
-Version: 1.0
 Architecture: iphoneos-arm
-Maintainer: ShiarAhmed (shiar_ahmed) <shiyar2002@icloud.com>
-Depends: mobilesubstrate, preferenceloader
-Filename: ./debs/Peekaboo.deb
-Size: 64207
-MD5sum: 89ED8EC26F73301B1792D14DD2695C78
-SHA1: EB888B6870A85C61D57DDED5AFBD9ABC45170C9E
-SHA256: 3861B73F2E84407D4284266B9D021C009CA79F2E129B3EB54EDA25BF32BCEFE3
+Version: 1.0
 Section: Tweaks
+Maintainer: ShiarAhmed
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debfiles/Peekaboo.deb
+Size: 64207
+MD5sum: 89ed8ec26f73301b1792d14dd2695c78
 Description: 3D Touch on iPhone 6 Plus and lower
-Author: Shiar
+Author: ShiarAhmed
 Name: Peekaboo
 
 Package: org.cydia.kiiimo.pubgmobilenoblocking
-Version: 1.0
 Architecture: iphoneos-arm
-Maintainer: ShiarAhmed (shiar_ahmed) <shiyar2002@icloud.com>
-Depends: mobilesubstrate, firmware (>= 11.0), preferenceloader
-Filename: ./debs/pubgmobilenoblocking.deb
-Size: 1833758
-MD5sum: 0B816E71F3CE15FBC254A5EA3455E052
-SHA1: C555047352AB761837253D78AE6FB4A277F200CF
-SHA256: 6567C48B17868BB43146447037F21C30C851DAC92971195413023A995FC674D0
+Version: 1.0
 Section: Tweaks
+Maintainer: Unknown
+Depends: mobilesubstrate, firmware (>= 11.0), preferenceloader
+Filename: ./debfiles/pubgmobilenoblocking.deb
+Size: 1833758
+MD5sum: 0b816e71f3ce15fbc254a5ea3455e052
 Description: PUBG HACK SLIDER OR MORE ONLY!
 Author: Unknown
 Name: PUBG Mobile No Blocking
 
 Package: com.spark.snowboard
-Version: 1.0.4-1
 Architecture: iphoneos-arm
-Maintainer: ShiarAhmed (shiar_ahmed) <shiyar2002@icloud.com>
-Depends: mobilesubstrate, jp.ashikase.techsupport, preferenceloader
-Filename: ./debs/SnowBoard.deb
-Size: 614026
-MD5sum: B8D5F722B7FB583F9E546BC51802F83F
-SHA1: 339B10F573994CA499478491A241FB58B72BEDA7
-SHA256: 4447B5E2B40E418C4203A6896EF538129F47637AF55257CF24E88DD9401BD953
+Version: 1.0.4-1
 Section: Tweaks
+Maintainer: Spark
+Depends: mobilesubstrate, jp.ashikase.techsupport, preferenceloader
+Filename: ./debfiles/SnowBoard.deb
+Size: 614026
+MD5sum: b8d5f722b7fb583f9e546bc51802f83f
 Description: Snowboard theming engine
 Author: Spark
 Name: SnowBoard
 
 Package: applebetas.ios.tweak.specialfaces
-Version: 1.1
 Architecture: iphoneos-arm
-Maintainer: ShiarAhmed (shiar_ahmed) <shiyar2002@icloud.com>
-Depends: mobilesubstrate, firmware (>= 10.0)
-Filename: ./debs/SpecialFaces.deb
-Size: 7426
-MD5sum: F413A60C7814E49FBFC15CC27DED1078
-SHA1: 8C78D93F5628FA49956F844AB21BD9509483DFD9
-SHA256: 1EAE6A400A7073371BC5F0F5B0CC6F8093A9A766CC96BFD7B06C4935116D56DA
+Version: 1.1
 Section: Tweaks
+Maintainer: AppleBetas
+Depends: mobilesubstrate, firmware (>= 10.0)
+Filename: ./debfiles/SpecialFaces.deb
+Size: 7426
+MD5sum: f413a60c7814e49fbfc15cc27ded1078
 Description: Enable the special watch faces (such as the Nike+ and Hermes faces) on any Apple Watch.
 Author: AppleBetas
 Name: SpecialFaces
@@ -126,31 +117,27 @@ Name: SpringPlus
 Author: Rishanan
 
 Package: io.github..shiarahmed.sylph
-Version: 1.0.1
 Architecture: iphoneos-arm
-Maintainer: ShiarAhmed (shiar_ahmed) <shiyar2002@icloud.com>
-Depends: mobilesubstrate, preferenceloader
-Filename: ./debs/Sylph.deb
-Size: 111558
-MD5sum: 60C5080DFA84D11E352D785ECFA18D83
-SHA1: 86E552EA26F2F5E2462609A19CD9C0F2470EABD6
-SHA256: 042D67E1C63C12D0468571D9BBFE1E80ACB0ABE4D47E1E26321C6F60FD0D93DF
+Version: 1.0
 Section: Tweaks
+Maintainer: ShiarAhmed
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debfiles/Sylph.deb
+Size: 111558
+MD5sum: 60c5080dfa84d11e352d785ecfa18d83
 Description: Customize your music in lockscreen
-Author: Shiar
+Author: ShiarAhmed
 Name: Sylph
 
 Package: com.matchstic.xenhtml
-Version: 0.4rc7-1
 Architecture: iphoneos-arm
-Maintainer: ShiarAhmed (shiar_ahmed) <shiyar2002@icloud.com>
-Depends: firmware (>= 9.0), mobilesubstrate, preferenceloader, com.matchstic.libgithubissues, jp.ashikase.libpackageinfo, firmware (>= 11.0) | com.unlimapps.uaunbox
-Filename: ./debs/XenHTML.deb
-Size: 1131632
-MD5sum: F316B00E2E09DD2BAA4738B6E61365FD
-SHA1: 2D266D8894AA6FD50A98E9392183D85771D74D3E
-SHA256: D90E029D03C754A2E5E55C63F2EC2860D6F5099F69C1D64750BD1AE480C94872>>
+Version: 0.4rc7-1
 Section: Tweaks
+Maintainer: Matt Clarke
+Depends: firmware (>= 9.0), mobilesubstrate, preferenceloader, com.matchstic.libgithubissues, jp.ashikase.libpackageinfo, firmware (>= 11.0) | com.unlimapps.uaunbox
+Filename: ./debfiles/XenHTML.deb
+Size: 1131632
+MD5sum: f316b00e2e09dd2baa4738b6e61365fd
 Description: Unified HTML rendering; lockscreen and homescreen
 Author: Matt Clarke
 Name: XenHTML
