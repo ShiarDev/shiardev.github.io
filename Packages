@@ -30,6 +30,22 @@ Description: Don't let incoming calls interrupt you
 Author: Elias Limneos
 Name: CallBarX
 
+Package: com.julioverne.gravity
+Architecture: iphoneos-arm
+Version: 0.5
+Section: Tweaks
+Maintainer: ShiarAhmed (shiar_ahmed) <shiyar2002@icloud.com>
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/Gravity.deb
+Size: 154215
+MD5sum: 745C14F9E833A0147130EE99C9589FDF
+Homepage: http://twitter.com/julioverne
+Description: Graviboard alternative
+Name: Gravity
+Author: julioverne <julioverne@me.com>
+Icon: file://Library/preferenceBundles/Gravity.bundle/icon@2x.png
+Depiction: https://shiarahmed.github.io/depictions/?p=CCSupport
+
 Package: com.parrotgeek.nobetaalert
 Version: 1.3.1
 Architecture: iphoneos-arm
