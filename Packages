@@ -1,17 +1,15 @@
 Package: com.unlimapps.uaupdatetools
-Version: 12.1.4
 Architecture: iphoneos-arm
-Maintainer: ShiarAhmed (shiar_ahmed) <shiyar2002@icloud.com>
-Depends: firmware (>= 7.0), mobilesubstrate
-Conflicts: it.marcocristalli.asupdatehider
-Depiction: https://github.com/shiarahmed.github.io/depictions/?p=AppAdmin
-Filename: ./debs/AppAdmin.deb
-Size: 875008
-MD5sum: 4AB9F1FC10827990402C4A3CBBDEB46A
+Version: 1.0r-101
 Section: Tweaks
+Maintainer: UnlimApps Inc.
+Depends: firmware (>= 7.0), mobilesubstrate
+Filename: ./debfiles/com.unlimapps.uaupdatetools_1.0r-101_iphoneos-arm.deb
+Size: 875008
+MD5sum: 4ab9f1fc10827990402c4a3cbbdeb46a
 Description: Downgrade iOS apps to any previous version! No AppSync needed!!!
-Author: UnlimApps Inc.
 Name: App Admin
+Author: UnlimApps Inc.
 
 Package: net.limneos.callbarx
 Version: 0.3-68
@@ -40,7 +38,6 @@ Description: Graviboard alternative
 Name: Gravity
 Author: julioverne <julioverne@me.com>
 Icon: file:///Library/PreferenceBundles/Gravity.bundle/icon@2x.png
-Depiction: http://julioverne.github.io/description.html?id=com.julioverne.gravity
 
 Package: com.parrotgeek.nobetaalert
 Version: 1.3.1
