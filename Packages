@@ -115,13 +115,14 @@ Name: SpecialFaces
 
 Package: com.rishanan.springplus
 Architecture: iphoneos-arm
-Version: 1.3-2
+Version: 1.3
 Section: Tweaks
 Maintainer: Rishanan
 Depends: mobilesubstrate, preferenceloader
-Filename: ./debfiles/com.rishanan.springplus_1.3-2_iphoneos-arm.deb
-Size: 47140
-MD5sum: ee47d1b54517921eb5e2Cada238c9786
+Conflicts: com.rishanan.bke,com.rishanan.noti,com.rishanan.ndb,com.rishanan.swP
+Filename: ./debfiles/com.rishanan.springplus_1.3_iphoneos-arm.deb
+Size: 55796
+MD5sum: d81e1c4a5e047283eef0064be908dc86
 Description: All round modification for your iDevice.
 Name: SpringPlus
 Author: Rishanan
