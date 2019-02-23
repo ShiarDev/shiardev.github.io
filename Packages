@@ -11,3 +11,17 @@ Description: Downgrade iOS apps to any previous version! No AppSync needed!!!
 Name: App Admin
 Author: UnlimApps Inc.
 Depiction: https://shiarahmed.github.io/depictions/?p=com.unlimapps.uaupdatetools
+
+Package: com.julioverne.gravity
+Version: 0.5
+Section: Tweaks
+Maintainer: Shiar <shiyar2002@icloud.com>
+Depends: mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Filename: ./debs/com.julioverne.gravity_0.5_iphoneos-arm.deb
+Size: 148142
+MD5sum: 71c8ea584147eabe2ee3803b95aea6fa
+Description: Graviboard alternative
+Name: Gravity
+Author: julioverne <julioverne@me.com>
+Depiction: https://shiarahmed.github.io/depictions/?p=com.julioverne.gravity

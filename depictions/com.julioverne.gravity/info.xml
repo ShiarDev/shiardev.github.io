@@ -1,0 +1,18 @@
+<package>
+	<id>com.julioverne.gravity</id>
+	<name>Gravity</name>
+	<version>0.5</version>
+	<compatibility>
+		<firmware>
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Graviboard alternative</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
