@@ -1,12 +1,12 @@
 Package: com.unlimapps.uaupdatetools
 Architecture: iphoneos-arm
-Version: 1.0r-100
+Version: 1.0r-101
 Section: Tweaks
 Maintainer: UnlimApps Inc.
 Depends: firmware (>= 7.0), mobilesubstrate
-Filename: ./debfiles/com.unlimapps.uaupdatetools_1.0r-100_iphoneos-arm.deb
-Size: 874798
-MD5sum: f8bf4be3e4ff6e02dad26913ff0f2fb6
+Filename: ./debfiles/com.unlimapps.uaupdatetools_1.0r-101_iphoneos-arm.deb
+Size: 875008
+MD5sum: 4ab9f1fc10827990402c4a3cbbdeb46a
 Description: Downgrade iOS apps to any previous version! No AppSync needed!!!
 Name: App Admin
 Author: UnlimApps Inc.
