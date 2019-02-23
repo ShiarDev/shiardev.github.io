@@ -1,10 +1,10 @@
 Package: com.unlimapps.uaupdatetools
+Architecture: iphoneos-arm
 Version: 1.0r-101
 Section: Tweaks
-Maintainer: Shiar <shiyar2002@icloud.com>
+Maintainer: UnlimApps Inc.
 Depends: firmware (>= 7.0), mobilesubstrate
-Architecture: iphoneos-arm
-Filename: ./debs/com.unlimapps.uaupdatetools_1.0r-101_iphoneos-arm.deb
+Filename: ./debfiles/com.unlimapps.uaupdatetools_1.0r-101_iphoneos-arm.deb
 Size: 875008
 MD5sum: 4ab9f1fc10827990402c4a3cbbdeb46a
 Description: Downgrade iOS apps to any previous version! No AppSync needed!!!
@@ -13,12 +13,12 @@ Author: UnlimApps Inc.
 Depiction: https://shiarahmed.github.io/depictions/?p=com.unlimapps.uaupdatetools
 
 Package: com.julioverne.gravity
+Architecture: iphoneos-arm
 Version: 0.5
 Section: Tweaks
-Maintainer: Shiar <shiyar2002@icloud.com>
+Maintainer: Julio
 Depends: mobilesubstrate, preferenceloader
-Architecture: iphoneos-arm
-Filename: ./debs/com.julioverne.gravity_0.5_iphoneos-arm.deb
+Filename: ./debfiles/com.julioverne.gravity_0.5_iphoneos-arm.deb
 Size: 148142
 MD5sum: 71c8ea584147eabe2ee3803b95aea6fa
 Description: Graviboard alternative
@@ -27,11 +27,11 @@ Author: julioverne <julioverne@me.com>
 Depiction: https://shiarahmed.github.io/depictions/?p=com.julioverne.gravity
 
 Package: com.parrotgeek.nobetaalert
+Architecture: iphoneos-arm
 Version: 1.3.1
 Section: Tweaks
-Maintainer: Shiar <shiyar2002@icloud.com>
+Maintainer: Ethan Nelson-Moore
 Depends: mobilesubstrate
-Architecture: iphoneos-arm
 Filename: ./debs/com.parrotgeek.nobetaalert_1.3.1_iphoneos-arm.deb
 Size: 2708
 MD5sum: 1d3dac45811cf0e73fd6435cd94ea96d
