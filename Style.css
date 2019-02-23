@@ -55,13 +55,12 @@ header .donation {
     padding-top:0px;
     font-family: "Karla", sans-serif;
     text-transform: none;
-    font-size: 2.0em;
+    font-size: 1.2em;
 }
 
 
 header .btn{
-    padding-top:0px;
-    font-size: 2.0em;
+    padding-top:10px;
 }
 
 .btn-outline {
@@ -103,3 +102,5 @@ footer .footer-above {
     font-size: 20px;
     line-height: 45px;
 }
+
+
