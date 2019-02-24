@@ -11,7 +11,7 @@ SHA256: b5d08bd8dae545691da9018934848e59a8b6a451057892408a0e886210d1250c
 Section: Tweaks
 Description: Graviboard alternative
 Author: julioverne <julioverne@me.com>
-https://shiarahmed.github.io/depictions/?p=com.unlimapps.uaupdatetools
+Depiction: https://shiarahmed.github.io/depictions/?p=com.julioverne.gravity
 Homepage: http://twitter.com/ijulioverne
 Icon: file:///Library/PreferenceBundles/Gravity.bundle/icon@2x.png
 Name: Gravity
@@ -29,6 +29,7 @@ SHA256: aefb555490f211652e0c9372aac5baeb633af55e8b88b38c7732f072893c19fb
 Section: Tweaks
 Description: Hide "Please update from the iOS beta" alert (iOS 8-12.x)
 Author: Ethan Nelson-Moore
+Depiction: https://shiarahmed.github.io/depictions/?p=com.parrotgeek.nobetaalert
 Installed-Size: 120
 Name: NoBetaAlert
 
@@ -46,6 +47,7 @@ SHA256: 5714ec5fcd13631bdf0d5e4c94053c422de700aaa977c33da6a9a5bd8c335f94
 Section: Tweaks
 Description: All round modification for your iDevice.
 Author: Rishanan <rishanan1996@gmail.com>
+Depiction: https://shiarahmed.github.io/depictions/?p=com.rishanan.springplus
 Installed-Size: 359
 Name: SpringPlus
 
@@ -64,6 +66,7 @@ SHA256: 4447b5e2b40e418c4203a6896ef538129f47637af55257cf24e88dd9401bd953
 Section: Tweaks
 Description: Snowboard theming engine
 Author: Spark & Dennis D. Bednarz
+Depiction: https://shiarahmed.github.io/depictions/?p=com.spark.snowboard
 Installed-Size: 964
 Name: SnowBoard
 Provides: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
@@ -82,7 +85,7 @@ SHA256: 58a6f8e2875c78615ec6eb5637d2cccb1747d472d8cac963ac0ba82dc189b2bb
 Section: System
 Description: Downgrade iOS apps to any previous version! No AppSync needed!!!
 Author: UnlimApps Inc.
-Depiction: http://beta.unlimapps.com/depiction/com.unlimapps.uaupdatetools/
+Depiction: https://shiarahmed.github.io/depictions/?p=com.unlimapps.uaupdatetools
 Homepage: http://beta.unlimapps.com/depiction/com.unlimapps.uaupdatetools/
 Name: App Admin
 Priority: optional
