@@ -1,0 +1,21 @@
+<package>
+	<id>com.rishanan.springplus</id>
+	<name>SpringPlus</name>
+	<version>1.3-2</version>
+	<compatibility>
+		<firmware>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+		<package>preferenceloader</package>
+	</dependencies>
+	<descriptionlist>
+		<description>All round modification for your iDevice.</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
