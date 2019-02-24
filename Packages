@@ -1,49 +1,57 @@
-Package: com.unlimapps.uaupdatetools
-Architecture: iphoneos-arm
-Version: 1.0r-101
-Section: Tweaks
-Maintainer: UnlimApps Inc.
-Depends: firmware (>= 7.0), mobilesubstrate
-Filename: ./debfiles/com.unlimapps.uaupdatetools_1.0r-101_iphoneos-arm.deb
-Size: 875008
-MD5sum: 4ab9f1fc10827990402c4a3cbbdeb46a
-Description: Downgrade iOS apps to any previous version! No AppSync needed!!!
-Name: App Admin
-Author: UnlimApps Inc.
-Depiction: https://shiarahmed.github.io/depictions/?p=com.unlimapps.uaupdatetools
-
 Package: com.julioverne.gravity
-Architecture: iphoneos-arm
 Version: 0.5
-Section: Tweaks
+Architecture: iphoneos-arm
 Maintainer: Julio
 Depends: mobilesubstrate, preferenceloader
-Filename: ./debfiles/com.julioverne.gravity_0.5_iphoneos-arm.deb
+Filename: ./debs/com.julioverne.gravity_0.5_iphoneos-arm.deb
 Size: 148142
 MD5sum: 71c8ea584147eabe2ee3803b95aea6fa
+SHA1: a7c4b89610e471c05d19d1449ba34aa257b99951
+SHA256: b5d08bd8dae545691da9018934848e59a8b6a451057892408a0e886210d1250c
+Section: Tweaks
 Description: Graviboard alternative
-Name: Gravity
 Author: julioverne <julioverne@me.com>
-Depiction: https://shiarahmed.github.io/depictions/?p=com.julioverne.gravity
+https://shiarahmed.github.io/depictions/?p=com.unlimapps.uaupdatetools
+Homepage: http://twitter.com/ijulioverne
+Icon: file:///Library/PreferenceBundles/Gravity.bundle/icon@2x.png
+Name: Gravity
 
 Package: com.parrotgeek.nobetaalert
-Architecture: iphoneos-arm
 Version: 1.3.1
-Section: Tweaks
+Architecture: iphoneos-arm
 Maintainer: Ethan Nelson-Moore
 Depends: mobilesubstrate
 Filename: ./debs/com.parrotgeek.nobetaalert_1.3.1_iphoneos-arm.deb
 Size: 2708
 MD5sum: 1d3dac45811cf0e73fd6435cd94ea96d
-Description: Hide "Please update from the iOS beta" alert (iOS 8.0-12.1.2)
-Name: NoBetaAlert
+SHA1: ba748feeafb5eb296811a61d72482d61df2b2e78
+SHA256: aefb555490f211652e0c9372aac5baeb633af55e8b88b38c7732f072893c19fb
+Section: Tweaks
+Description: Hide "Please update from the iOS beta" alert (iOS 8-12.x)
 Author: Ethan Nelson-Moore
-Depiction: https://shiarahmed.github.io/depictions/?p=com.parrotgeek.nobetaalert
+Installed-Size: 120
+Name: NoBetaAlert
+
+Package: com.rishanan.springplus
+Version: 1.3-2
+Architecture: iphoneos-arm
+Maintainer: Rishanan <rishanan1996@gmail.com>
+Depends: mobilesubstrate, preferenceloader, com.rish.libspring
+Conflicts: com.rishanan.bke,com.rishanan.noti,com.rishanan.ndb,com.rishanan.swP
+Filename: ./debs/com.rishanan.springplus_1.3-2_iphoneos-arm.deb
+Size: 47140
+MD5sum: ee47d1b54517921eb5e2cada238c9786
+SHA1: 87609cb34aceef3b333005d29c1306b839d8fee5
+SHA256: 5714ec5fcd13631bdf0d5e4c94053c422de700aaa977c33da6a9a5bd8c335f94
+Section: Tweaks
+Description: All round modification for your iDevice.
+Author: Rishanan <rishanan1996@gmail.com>
+Installed-Size: 359
+Name: SpringPlus
 
 Package: com.spark.snowboard
-Architecture: iphoneos-arm
 Version: 1.0.4-1
-Section: Tweaks
+Architecture: iphoneos-arm
 Maintainer: Spark
 Depends: mobilesubstrate, jp.ashikase.techsupport, preferenceloader
 Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
@@ -51,7 +59,30 @@ Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
 Filename: ./debs/com.spark.snowboard_1.0.4-1.deb
 Size: 358712
 MD5sum: b8d5f722b7fb583f9e546bc51802f83f
+SHA1: 339b10f573994ca499478491a241fb58b72beda7
+SHA256: 4447b5e2b40e418c4203a6896ef538129f47637af55257cf24e88dd9401bd953
+Section: Tweaks
 Description: Snowboard theming engine
+Author: Spark & Dennis D. Bednarz
+Installed-Size: 964
 Name: SnowBoard
-Author: Spark
-Depiction: https://shiarahmed.github.io/depictions/?p=com.spark.snowboard
+Provides: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+
+Package: com.unlimapps.uaupdatetools
+Version: 1.0r-101
+Architecture: iphoneos-arm
+Maintainer: UnlimApps Inc.
+Depends: firmware (>= 7.0), mobilesubstrate
+Conflicts: it.marcocristalli.asupdatehider
+Filename: ./debs/com.unlimapps.uaupdatetools_1.0r-101_iphoneos-arm.deb
+Size: 875008
+MD5sum: 4ab9f1fc10827990402c4a3cbbdeb46a
+SHA1: d576761d3f85f34c7eb5236a26f18df3d943dd85
+SHA256: 58a6f8e2875c78615ec6eb5637d2cccb1747d472d8cac963ac0ba82dc189b2bb
+Section: System
+Description: Downgrade iOS apps to any previous version! No AppSync needed!!!
+Author: UnlimApps Inc.
+Depiction: http://beta.unlimapps.com/depiction/com.unlimapps.uaupdatetools/
+Homepage: http://beta.unlimapps.com/depiction/com.unlimapps.uaupdatetools/
+Name: App Admin
+Priority: optional
