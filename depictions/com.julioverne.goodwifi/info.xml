@@ -1,0 +1,21 @@
+<package>
+	<id>com.julioverne.goodwifi</id>
+	<name>Goodwifi</name>
+	<version>0.0~beta4</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+			<maxiOS>12.1.2</maxiOS>
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Features:<br>- Remove RSSI Limit;<br>- Show Know Networks;<br>- Show Mac Address;<br><br><br>Configure Options from Settings.</description>
+    <description>Compatible with iOs 10.0 - 12.1.2</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>

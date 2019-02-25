@@ -1,3 +1,40 @@
+Package: com.unlimapps.uaupdatetools
+Version: 1.0r-101
+Architecture: iphoneos-arm
+Maintainer: UnlimApps Inc.
+Depends: firmware (>= 7.0), mobilesubstrate
+Conflicts: it.marcocristalli.asupdatehider
+Filename: ./debs/com.unlimapps.uaupdatetools_1.0r-101_iphoneos-arm.deb
+Size: 875008
+MD5sum: 4ab9f1fc10827990402c4a3cbbdeb46a
+SHA1: d576761d3f85f34c7eb5236a26f18df3d943dd85
+SHA256: 58a6f8e2875c78615ec6eb5637d2cccb1747d472d8cac963ac0ba82dc189b2bb
+Section: System
+Description: Downgrade iOS apps to any previous version! No AppSync needed!!!
+Author: UnlimApps Inc.
+Depiction: https://shiarahmed.github.io/depictions/?p=com.unlimapps.uaupdatetools
+Homepage: http://beta.unlimapps.com/depiction/com.unlimapps.uaupdatetools/
+Name: App Admin
+Priority: optional
+
+Package: com.julioverne.goodwifi
+Version: 0.0~beta4
+Architecture: iphoneos-arm
+Maintainer: Julio
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.julioverne.goodwifi.deb
+Size: 61249
+MD5sum: 94609cd341101d4f8f5d443fdf8bcb85
+SHA1: c162c0179fd338bff0adb787f667e544b77a0ad9
+SHA256: 7d5a16edffe1ca21c75499691c72ea5ee5a95f77df44b5d2915bc2d6512dda46
+Section: Tweaks
+Description: Better WiFi Preferences
+Author: julioverne <julioverne@me.com>
+Depiction: https://shiarahmed.github.io/depictions/?p=com.julioverne.goodwifi
+Homepage: http://twitter.com/ijulioverne
+Icon: file:///Library/PreferenceBundles/goodwifi.bundle/icon@2x.png
+Name: Goodwifi
+
 Package: com.julioverne.gravity
 Version: 0.5
 Architecture: iphoneos-arm
@@ -70,22 +107,3 @@ Depiction: https://shiarahmed.github.io/depictions/?p=com.spark.snowboard
 Installed-Size: 964
 Name: SnowBoard
 Provides: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
-
-Package: com.unlimapps.uaupdatetools
-Version: 1.0r-101
-Architecture: iphoneos-arm
-Maintainer: UnlimApps Inc.
-Depends: firmware (>= 7.0), mobilesubstrate
-Conflicts: it.marcocristalli.asupdatehider
-Filename: ./debs/com.unlimapps.uaupdatetools_1.0r-101_iphoneos-arm.deb
-Size: 875008
-MD5sum: 4ab9f1fc10827990402c4a3cbbdeb46a
-SHA1: d576761d3f85f34c7eb5236a26f18df3d943dd85
-SHA256: 58a6f8e2875c78615ec6eb5637d2cccb1747d472d8cac963ac0ba82dc189b2bb
-Section: System
-Description: Downgrade iOS apps to any previous version! No AppSync needed!!!
-Author: UnlimApps Inc.
-Depiction: https://shiarahmed.github.io/depictions/?p=com.unlimapps.uaupdatetools
-Homepage: http://beta.unlimapps.com/depiction/com.unlimapps.uaupdatetools/
-Name: App Admin
-Priority: optional
