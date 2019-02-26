@@ -120,7 +120,7 @@ Size: 2708
 MD5sum: 1d3dac45811cf0e73fd6435cd94ea96d
 SHA1: ba748feeafb5eb296811a61d72482d61df2b2e78
 SHA256: aefb555490f211652e0c9372aac5baeb633af55e8b88b38c7732f072893c19fb
-Section: Tweaks
+Section: System
 Description: Hide "Please update from the iOS beta" alert (iOS 8-12.x)
 Author: Ethan Nelson-Moore
 Depiction: https://shiarahmed.github.io/depictions/?p=com.parrotgeek.nobetaalert
@@ -331,24 +331,20 @@ Installed-Size: 24617
 Name: iCleaner
 Pre-Depends: firmware (>= 4.0), apt | apt7, findutils, shell-cmds
 
-Package: org.altervista.exilecom.icleaner
-Version: 7.7.1
+Package: org.thebigboss.libcolorpicker
+Version: 1.6-1
 Architecture: iphoneos-arm
-Maintainer: BigBoss <bigboss@thebigboss.org>
-Filename: ./debs/icleaner_7.7.1.deb
-Size: 5329536
-MD5sum: 86256549de86fd52f047e2c344bb18a9
-SHA1: 05e399a9164df393405d3d6392573a5dfa4a588d
-SHA256: 865f71d459631d8a37b26bc084142fc58140e5a84bc455d26624c3c105ac9303
-Section: Utilities
-Description: The first real iOS system cleaner & optimizer
-Author: Ivano Bilenchi <support@ib-soft.net>
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=icleanerDp
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=icleanerDp
-Icon: file:///Applications/iCleaner.app/Icon.png
-Installed-Size: 24617
-Name: iCleaner
-Pre-Depends: firmware (>= 4.0), apt | apt7, findutils, shell-cmds
+Maintainer: Shiar Ahmed <shiyar2002@icloud.com>
+Depends: firmware (>= 6.0), mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: ./debs/libcolorpicker_1.6-1.deb
+Size: 71722
+MD5sum: f12992a89a3fd29670bf62503efc43cb
+SHA1: 076157a830fdcea01f8f7ed0cb5fb57baaf391c9
+SHA256: 8ef8b5fdd1900d3fca6da59bd7033e0f7f36c92a578ec24ba9d9f335257a865c
+Section: Development
+Description: color picker library for developers
+Author: PixelFire
+Name: libColorPicker
 
 Package: com.c1d3r.notchification
 Version: 1.3
