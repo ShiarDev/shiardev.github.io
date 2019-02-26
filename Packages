@@ -344,7 +344,38 @@ SHA256: 8ef8b5fdd1900d3fca6da59bd7033e0f7f36c92a578ec24ba9d9f335257a865c
 Section: Development
 Description: color picker library for developers
 Author: PixelFire
-Name: libColorPicker
+Name: libcolorpicker
+
+Package: apt7-lib
+Version: 0.7.25.3-16
+Architecture: iphoneos-arm
+Maintainer: Shiar Ahmed <shiyar2002@icloud.com>
+Depends: bzip2, dpkg (>= 1.14.25-9), gnupg, gzip, lzma
+Pre-Depends: dpkg (>= 1.14.25-8)
+Filename: ./debs/apt7-lib_0.7.25.3-16_iphoneos-arm.deb
+Size: 501632
+MD5sum: baf52572e47b8906dc5bd48896206f7d
+SHA1: 53b802b2cc0c9ca8f3599c9ffa81a0c11b35bb59
+SHA256: dc31276fb9c912c0b731f69abc49d29f5489bfc1f002a03014ca3d055183c985
+Section: Development
+Description: the advanced packaging library from Debian
+Author: BigBoss
+Name: APT 0.7 Strict (lib)
+
+Package: com.modmyi.libswift4
+Version: 4.2.1-1
+Architecture: iphoneos-arm
+Maintainer: Shiar Ahmed <shiyar2002@icloud.com>
+Depends: firmware (>= 7.0)
+Filename: ./debs/libswift4_4.2.1-1.deb
+Size: 18764170
+MD5sum: 678e55283735c183b44a8554068db668
+SHA1: 3885789f96480567a9919453cd76390fadeb72c7
+SHA256: 6bf523ab9dec26a72f473a053b4abfabd8e52812b62bea569d31600f0add59ca
+Section: Development
+Description: libswift dylibs for iOS
+Author: Kabir Oberai
+Name: libswift4
 
 Package: com.c1d3r.notchification
 Version: 1.3
