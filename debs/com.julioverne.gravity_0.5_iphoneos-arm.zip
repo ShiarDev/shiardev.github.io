@@ -1,0 +1,12 @@
+Package: com.shiarahmed.gravity
+Name: Gravity
+Author: Shiar Ahmed <shiyar2002@icloud.com>
+Version: 0.5
+Depends: mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Description: Graviboard alternative
+Homepage: http://twitter.com/shiar_ahmed
+Icon: file:///Library/PreferenceBundles/Gravity.bundle/icon@2x.png
+Maintainer: Shiar Ahmed <shiyar2002@icloud.com>
+Section: Tweaks
+Depiction: https://shiarahmed.github.io/depictions/?p=com.julioverne.gravity
