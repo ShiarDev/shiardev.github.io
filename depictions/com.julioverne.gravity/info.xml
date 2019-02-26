@@ -4,15 +4,15 @@
 	<version>0.5</version>
 	<compatibility>
 		<firmware>
+			<maxiOS>12.1.2</maxiOS>
 		</firmware>
 	</compatibility>
 	<dependencies></dependencies>
 	<descriptionlist>
 		<description>Graviboard alternative</description>
 	</descriptionlist>
-	<screenshots></screenshots>
+	<screenshots>
 	<changelog>
-		<change>Initial release</change>
 	</changelog>
 	<links></links>
 </package>

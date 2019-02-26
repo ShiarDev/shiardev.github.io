@@ -4,11 +4,13 @@
 	<version>1.3-2</version>
 	<compatibility>
 		<firmware>
+			<maxiOS>12.1.2</maxiOS>
 		</firmware>
 	</compatibility>
 	<dependencies>
 		<package>mobilesubstrate</package>
 		<package>preferenceloader</package>
+		<package>com.rish.libspring</Package>
 	</dependencies>
 	<descriptionlist>
 		<description>All round modification for your iDevice.</description>
