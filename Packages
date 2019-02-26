@@ -38,7 +38,7 @@ Priority: optional
 Package: com.ahmad.badgemenot
 Version: 1.0
 Architecture: iphoneos-arm
-Maintainer: BigBoss <bigboss@thebigboss.org>
+Maintainer: Shiar Ahmed <shiyar2002@icloud.com>
 Depends: firmware (>= 12.0), mobilesubstrate
 Filename: ./debs/badgemenot_1.0.deb
 Size: 3590
@@ -49,13 +49,9 @@ Section: Tweaks
 Description: Remove iOS 12 update badge from Settings app icon
 Author: Ahmad <sahmmadh@gmail.com>
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=badgemenotDp
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=badgemenotDp
 Installed-Size: 132
 Name: BadgeMeNot
 Priority: optional
-Sponsor: thebigboss.org <http://thebigboss.org>
-Tag: purpose::extension, compatible::ios12
-dev: sahmmadh
 
 Package: com.cydiageek.carrierizer
 Version: 1.0.2
@@ -105,7 +101,7 @@ Sponsor: thebigboss.org <http://thebigboss.org>
 Tag: purpose::extension, compatible::ios11, compatible::ios12
 dev: ichitaso
 
-Package: io.github.shiarahmed.gravity
+Package: com.julioverne.gravity
 Version: 0.5
 Architecture: iphoneos-arm
 Maintainer: Shiar Ahmed <shiyar2002@icloud.com>
@@ -117,9 +113,8 @@ SHA1: a7c4b89610e471c05d19d1449ba34aa257b99951
 SHA256: b5d08bd8dae545691da9018934848e59a8b6a451057892408a0e886210d1250c
 Section: Tweaks
 Description: Graviboard alternative
-Author: julioverne <julioverne@me.com>
-Depiction: http://julioverne.github.io/description.html?id=com.julioverne.gravity
-Homepage: http://twitter.com/ijulioverne
+Author: Shiar Ahmed <shiyar2002@icloud.com>
+Depiction: https://shiarahmed.github.io/depictions/?p=com.julioverne.gravity
 Icon: file:///Library/PreferenceBundles/Gravity.bundle/icon@2x.png
 Name: Gravity
 
