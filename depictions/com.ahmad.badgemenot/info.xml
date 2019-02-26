@@ -1,10 +1,10 @@
 <package>
-	<id>org.thebigboss.appcon</id>
-	<name>Appcon</name>
-	<version>1.4.4</version>
+	<id>com.ahmad.badgemenot</id>
+	<name>BadgeMeNot</name>
+	<version>1.0</version>
 	<compatibility>
 		<firmware>
-			<miniOS>9.0</miniOS>
+			<miniOS>12.0</miniOS>
 			<maxiOS>12.1.2</maxiOS>
 		</firmware>
 	</compatibility>
@@ -13,8 +13,8 @@
 	</dependencies>
 	<shortDescription>
 	<descriptionlist>
-		<description>Supports iOS 9.0 - 12.1.2</description>
-		<description>Set icon images from your photo library.</description>
+		<description>Supports iOS 12.0 - 12.1.2</description>
+		<description>Remove iOS 12 update badge from Settings app icon</description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
