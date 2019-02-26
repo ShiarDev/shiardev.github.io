@@ -1,7 +1,7 @@
 Package: org.thebigboss.appcon
 Version: 1.4.4
 Architecture: iphoneos-arm
-Maintainer: BigBoss <bigboss@thebigboss.org>
+Maintainer: Shiar Ahmed <shiyar2002@icloud.com>
 Depends: mobilesubstrate, preferenceloader, applist, firmware (>= 9.0)
 Filename: ./debs/appcon_1.4.4.deb
 Size: 207506
@@ -11,19 +11,15 @@ SHA256: 3ab2f51482d02322c423c2beb49f0f9f139240d1ec61fff8d3151b8a831ac892
 Section: Tweaks
 Description: Set icon images from your photo library.
 Author: merdok <merdok87@o2.pl>
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=appconDp
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=appconDp
+Depiction: https://shiarahmed.github.io/depictions/?p=org.thebigboss.appcon
 Icon: file:///Library/PreferenceBundles/appconprefs.bundle/appcon@2x.png
 Installed-Size: 788
 Name: Appcon
-Sponsor: thebigboss.org <http://thebigboss.org>
-Tag: purpose::extension, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12
-dev: merdok
 
 Package: com.tigisoftware.appdatamanager
 Version: 1.4.2
 Architecture: iphoneos-arm
-Maintainer: BigBoss <bigboss@thebigboss.org>
+Maintainer: Shiar Ahmed <shiyar2002@icloud.com>
 Depends: firmware (>= 7.0)
 Filename: ./debs/appsmanager_1.4.2.deb
 Size: 2478228
@@ -33,15 +29,11 @@ SHA256: adc861eb2ac147d573ff6dc32f244d2f958b5eb295bbacab9dc9363b6e07da48
 Section: Utilities
 Description: tool to WIPE, BACKUP, RESTORE AppData for installed Apps
 Author: TIGI Software <satashi2009@gmail.com>
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=appsmanagerDp
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=appsmanagerDp
+Depiction: https://shiarahmed.github.io/depictions/?p=com.tigisoftware.appdatamanager
 Icon: file:///Applications/ADManager.app/AppIcon60x60@2x.png
 Installed-Size: 9107
 Name: Apps Manager
 Priority: optional
-Sponsor: thebigboss.org <http://thebigboss.org>
-Tag: purpose::uikit, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12
-dev: satashi2009
 
 Package: com.ahmad.badgemenot
 Version: 1.0
@@ -113,10 +105,10 @@ Sponsor: thebigboss.org <http://thebigboss.org>
 Tag: purpose::extension, compatible::ios11, compatible::ios12
 dev: ichitaso
 
-Package: com.julioverne.gravity
+Package: io.github.shiarahmed.gravity
 Version: 0.5
 Architecture: iphoneos-arm
-Maintainer: Julio
+Maintainer: Shiar Ahmed <shiyar2002@icloud.com>
 Depends: mobilesubstrate, preferenceloader
 Filename: ./debs/com.julioverne.gravity_0.5_iphoneos-arm.deb
 Size: 148142
@@ -272,7 +264,7 @@ MD5sum: af1f974842db532985b26d155e0e3a54
 SHA1: 6c74371ad2f582feb9b09a57e0494f7e6bdc8346
 SHA256: c2efd617b8b98d9c1e165d134634c45b2cec58738f51a7ff8e0139f70fc0eb17
 Section: Tweaks
-Description: Download images & videos from social apps easily! 
+Description: Download images & videos from social apps easily!
 Author: Ahmed Bafkir <prooxy0@gmail.com>
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=dleasyDp
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=dleasyDp
@@ -528,4 +520,3 @@ Name: Fake GPS Pro(定位修改器)-FAKE your iPhone's location as you wish
 Sponsor: thebigboss.org <http://thebigboss.org>
 Tag: purpose::extension, role::enduser, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12
 dev: shengwen
-
