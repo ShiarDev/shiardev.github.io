@@ -101,7 +101,7 @@ Sponsor: thebigboss.org <http://thebigboss.org>
 Tag: purpose::extension, compatible::ios11, compatible::ios12
 dev: ichitaso
 
-Package: com.julioverne.gravity
+Package: com.shiarahmed.gravity
 Version: 0.5
 Architecture: iphoneos-arm
 Maintainer: Shiar Ahmed <shiyar2002@icloud.com>
