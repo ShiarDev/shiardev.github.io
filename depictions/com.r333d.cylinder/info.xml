@@ -1,21 +1,21 @@
 <package>
-	<id>com.shiarahmed.coolcc</id>
-	<name>CoolCC</name>
-	<version>1:3.1</version>
+	<id>com.r333d.cylinder</id>
+	<name>Cylinder</name>
+	<version>1.0.6</version>
 	<compatibility>
 		<firmware>
-			<miniOS>11.0</miniOS>
-			<maxiOS>11.4.1</maxiOS>
+			<miniOS>3.0</miniOS>
+			<maxiOS>12.1.2</maxiOS>
 		</firmware>
 	</compatibility>
 	<dependencies>
 		<package>mobilesubstrate (>= 0.9.5000)</package>
-    <package>preferenceloader</package>
+		<package>preferenceloader</package>
 	</dependencies>
 	<shortDescription>
 	<descriptionlist>
-		<description>Supports iOS 11.0 - 12.1.2</description>
-		<description>This tweak makes ControlCenter cool!</description>
+		<description>Supports iOS 3.0 - 12.1.2</description>
+		<description>Make your icons dance</description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>

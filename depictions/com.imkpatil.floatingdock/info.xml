@@ -1,21 +1,22 @@
 <package>
-	<id>com.shiarahmed.coolcc</id>
-	<name>CoolCC</name>
-	<version>1:3.1</version>
+	<id>com.imkpatil.floatingdock</id>
+	<name>FloatingDock</name>
+	<version>1.5</version>
 	<compatibility>
 		<firmware>
 			<miniOS>11.0</miniOS>
-			<maxiOS>11.4.1</maxiOS>
+			<maxiOS>12.1.2</maxiOS>
 		</firmware>
 	</compatibility>
 	<dependencies>
-		<package>mobilesubstrate (>= 0.9.5000)</package>
-    <package>preferenceloader</package>
+		<package>mobilesubstrate</package>
+		<package>preferenceloader</package>
+		<package>org.thebigboss.libcolorpicker</package>
 	</dependencies>
 	<shortDescription>
 	<descriptionlist>
 		<description>Supports iOS 11.0 - 12.1.2</description>
-		<description>This tweak makes ControlCenter cool!</description>
+		<description>Remove iOS 12 update badge from Settings app icon</description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>

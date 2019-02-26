@@ -56,7 +56,7 @@ Priority: optional
 Package: com.cydiageek.carrierizer
 Version: 1.0.2
 Architecture: iphoneos-arm
-Maintainer: BigBoss <bigboss@thebigboss.org>
+Maintainer: Shiar Ahmed <shiyar2002@icloud.com>
 Depends: mobilesubstrate, firmware (>= 8.0), preferenceloader
 Filename: ./debs/carrierizer_1.0.2.deb
 Size: 44384
@@ -66,20 +66,16 @@ SHA256: eb41f297f1b91c76c26e8ba380ac3fbf03fd75e4b7afcac28cd5e666fcefb9b4
 Section: Tweaks
 Description: Custom Text for your Carrier!
 Author: CydiaGeek <lucaluca86@aol.com>
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=carrierizerDp
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=carrierizerDp
+Depiction: https://shiarahmed.github.io/depictions/?p=com.cydiageek.carrierizer
 Icon: file:///Library/PreferenceBundles/Carrierizer.bundle/Carrierizer@2x.png
 Installed-Size: 269
 Name: Carrierizer
 Priority: optional
-Sponsor: thebigboss.org <http://thebigboss.org>
-Tag: purpose::extension, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12
-dev: lucaluca86
 
 Package: com.ichitaso.powerselector11
 Version: 1.1-7
 Architecture: iphoneos-arm
-Maintainer: BigBoss <bigboss@thebigboss.org>
+Maintainer: Shiar Ahmed <shiyar2002@icloud.com>
 Depends: mobilesubstrate, preferenceloader
 Conflicts: com.ichitaso.powerselector, com.dpkgdan.powertap, com.weesstt.powerdownoptions, com.subdiox.powertap2, com.rustybalboa.powertapxi
 Replaces: com.ichitaso.powerselector11
@@ -91,15 +87,11 @@ SHA256: 742031f1ca27ccdeaff1dcd2c0cb7da108e91fa6512467b5a651755c3303ebc2
 Section: Utilities
 Description: The power supply relation of a device is operated.
 Author: ichitaso <willfeeltips@gmail.com>
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ccsupportpowerselectorDp
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ccsupportpowerselectorDp
+Depiction: https://shiarahmed.github.io/depictions/?p=com.ichitaso.powerselector11
 Icon: file:///Library/PreferenceBundles/PowerSelectorSettings.bundle/icon@2x.png
 Installed-Size: 1232
 Name: PowerSelector (iOS 11 & 12)
 Pre-Depends: firmware (>= 11.0)
-Sponsor: thebigboss.org <http://thebigboss.org>
-Tag: purpose::extension, compatible::ios11, compatible::ios12
-dev: ichitaso
 
 Package: com.julioverne.gravity
 Version: 0.5
@@ -121,7 +113,7 @@ Name: Gravity
 Package: com.parrotgeek.nobetaalert
 Version: 1.3.1
 Architecture: iphoneos-arm
-Maintainer: Ethan Nelson-Moore
+Maintainer: Shiar Ahmed <shiyar2002@icloud.com>
 Depends: mobilesubstrate
 Filename: ./debs/com.parrotgeek.nobetaalert_1.3.1_iphoneos-arm.deb
 Size: 2708
@@ -131,13 +123,14 @@ SHA256: aefb555490f211652e0c9372aac5baeb633af55e8b88b38c7732f072893c19fb
 Section: Tweaks
 Description: Hide "Please update from the iOS beta" alert (iOS 8-12.x)
 Author: Ethan Nelson-Moore
+Depiction: https://shiarahmed.github.io/depictions/?p=com.parrotgeek.nobetaalert
 Installed-Size: 120
 Name: NoBetaAlert
 
 Package: com.rish.libspring
 Version: 0.0.2
 Architecture: iphoneos-arm
-Maintainer: Rishanan
+Maintainer: Shiar Ahmed <shiyar2002@icloud.com>
 Depends: mobilesubstrate
 Filename: ./debs/com.rish.libspring_0.0.2_iphoneos-arm.deb
 Size: 5312
@@ -147,13 +140,14 @@ SHA256: 683fa7f4990683a8986ea557d5c3198ef7b0aab02776b716e0c2cc5b2743fd7b
 Section: Development
 Description: Essential lib for SpringPlus
 Author: Rishanan
+Depiction: https://shiarahmed.github.io/depictions/?p=com.rish.libspring
 Installed-Size: 117
 Name: libSpringPlus
 
 Package: com.rishanan.springplus
 Version: 1.3-2
 Architecture: iphoneos-arm
-Maintainer: Rishanan <rishanan1996@gmail.com>
+Maintainer: Shiar Ahmed <shiyar2002@icloud.com>
 Depends: mobilesubstrate, preferenceloader, com.rish.libspring
 Conflicts: com.rishanan.bke,com.rishanan.noti,com.rishanan.ndb,com.rishanan.swP
 Filename: ./debs/com.rishanan.springplus_1.3-2_iphoneos-arm.deb
@@ -164,13 +158,14 @@ SHA256: 5714ec5fcd13631bdf0d5e4c94053c422de700aaa977c33da6a9a5bd8c335f94
 Section: Tweaks
 Description: All round modification for your iDevice.
 Author: Rishanan <rishanan1996@gmail.com>
+Depiction: https://shiarahmed.github.io/depictions/?p=com.rishanan.springplus
 Installed-Size: 359
 Name: SpringPlus
 
 Package: com.spark.snowboard
 Version: 1.0.4-1
 Architecture: iphoneos-arm
-Maintainer: Spark
+Maintainer: Shiar Ahmed <shiyar2002@icloud.com>
 Depends: mobilesubstrate, jp.ashikase.techsupport, preferenceloader
 Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
 Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
@@ -182,6 +177,7 @@ SHA256: 4447b5e2b40e418c4203a6896ef538129f47637af55257cf24e88dd9401bd953
 Section: Tweaks
 Description: Snowboard theming engine
 Author: Spark & Dennis D. Bednarz
+Depiction: https://shiarahmed.github.io/depictions/?p=com.spark.snowboard
 Installed-Size: 964
 Name: SnowBoard
 Provides: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
@@ -189,7 +185,7 @@ Provides: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
 Package: com.unlimapps.uaupdatetools
 Version: 1.0r-101
 Architecture: iphoneos-arm
-Maintainer: UnlimApps Inc.
+Maintainer: Shiar Ahmed <shiyar2002@icloud.com>
 Depends: firmware (>= 7.0), mobilesubstrate
 Conflicts: it.marcocristalli.asupdatehider
 Filename: ./debs/com.unlimapps.uaupdatetools_1.0r-101_iphoneos-arm.deb
@@ -200,12 +196,11 @@ SHA256: 58a6f8e2875c78615ec6eb5637d2cccb1747d472d8cac963ac0ba82dc189b2bb
 Section: System
 Description: Downgrade iOS apps to any previous version! No AppSync needed!!!
 Author: UnlimApps Inc.
-Depiction: http://beta.unlimapps.com/depiction/com.unlimapps.uaupdatetools/
-Homepage: http://beta.unlimapps.com/depiction/com.unlimapps.uaupdatetools/
+Depiction: https://shiarahmed.github.io/depictions/?p=com.unlimapps.uaupdatetools
 Name: App Admin
 Priority: optional
 
-Package: com.shiarahmed.coolcc
+Package: com.4nni3.coolcc
 Version: 1:3.1
 Architecture: iphoneos-arm
 Maintainer: Shiar Ahmed <shiyar2002@icloud.com>
@@ -218,18 +213,15 @@ SHA256: e6069334d0ec7aec0dba6a9831502885056186fd1d65eeb51e25e5139857387c
 Section: Tweaks
 Description: This tweak makes ControlCenter cool!
 Author: 4nni3 <4nni3.14@gmail.com>
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=coolccDp
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=coolccDp
+Depiction: https://shiarahmed.github.io/depictions/?p=com.4nni3.coolcc
 Icon: file:///Library/PreferenceBundles/CoolCCPref.bundle/icon@2x.png
 Installed-Size: 566
 Name: CoolCC
-Tag: purpose::extension, compatible::ios11, compatible::ios12
-dev: 4nni3
 
 Package: com.r333d.cylinder
 Version: 1.0.6
 Architecture: iphoneos-arm
-Maintainer: BigBoss <bigboss@thebigboss.org>
+Maintainer: Shiar Ahmed <shiyar2002@icloud.com>
 Depends: firmware (>= 3.0), mobilesubstrate (>= 0.9.5000), preferenceloader
 Filename: ./debs/cylinder_1.0.6.deb
 Size: 255488
@@ -239,19 +231,15 @@ SHA256: 4294d05662d81b24bae3625c4962ec6cfd85678f4066c4b580b151b555c8615f
 Section: Tweaks
 Description: Make your icons dance
 Author: Reed Weichler <rweichler+cydia@gmail.com>
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=cylinderDp
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=cylinderDp
+Depiction: https://shiarahmed.github.io/depictions/?p=com.r333d.cylinder
 Icon: file:///Library/PreferenceBundles/CylinderSettings.bundle/Icon@2x.png
 Installed-Size: 899
 Name: Cylinder
-Sponsor: thebigboss.org <http://thebigboss.org>
-Tag: purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9
-dev: rweichler
 
 Package: com.ahmedbafkir.dleasy
 Version: 1.4
 Architecture: iphoneos-arm
-Maintainer: BigBoss <bigboss@thebigboss.org>
+Maintainer: Shiar Ahmed <shiyar2002@icloud.com>
 Depends: mobilesubstrate, firmware (>= 7.0), preferenceloader
 Filename: ./debs/dleasy_1.4.deb
 Size: 683800
@@ -261,20 +249,16 @@ SHA256: c2efd617b8b98d9c1e165d134634c45b2cec58738f51a7ff8e0139f70fc0eb17
 Section: Tweaks
 Description: Download images & videos from social apps easily!
 Author: Ahmed Bafkir <prooxy0@gmail.com>
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=dleasyDp
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=dleasyDp
+Depiction: https://shiarahmed.github.io/depictions/?p=com.ahmedbafkir.dleasy
 Icon: file:///Library/PreferenceBundles/DLEasy.bundle/icon@2x.png
 Installed-Size: 3613
 Name: DLEasy
 Priority: optional
-Sponsor: thebigboss.org <http://thebigboss.org>
-Tag: purpose::extension, compatible::ios9, compatible::ios10, compatible::ios11
-dev: ahmedbafkir
 
 Package: com.xandesign.felicity
 Version: 3.2
 Architecture: iphoneos-arm
-Maintainer: BigBoss <bigboss@thebigboss.org>
+Maintainer: Shiar Ahmed <shiyar2002@icloud.com>
 Depends: firmware (>= 7.0)
 Filename: ./debs/felicitytheme_3.2.deb
 Size: 17181734
@@ -284,19 +268,15 @@ SHA256: e3e95a70a2cce1ec65696d5b5b49bbc1fc720c1e344ea0b28897f77affbfb9f3
 Section: Themes (SpringBoard)
 Description: An Intense and Happy theme.
 Author: xerusDesign <unixdesignios@gmail.com>
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=felicitythemeDp
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=felicitythemeDp
+Depiction: https://shiarahmed.github.io/depictions/?p=com.xandesign.felicity
 Installed-Size: 20432
 Name: Felicity
 Priority: optional
-Sponsor: thebigboss.org <http://thebigboss.org>
-Tag: purpose::theme, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12
-dev: xandesign
 
 Package: com.tigisoftware.filza
 Version: 3.6.2-12
 Architecture: iphoneos-arm
-Maintainer: BigBoss <bigboss@thebigboss.org>
+Maintainer: Shiar Ahmed <shiyar2002@icloud.com>
 Depends: firmware (>= 7.0), zip, unzip, gzip, unrar, p7zip
 Conflicts: com.tigisoftware.filza64bit
 Filename: ./debs/filzafilemanager_3.6.2-12.deb
@@ -307,20 +287,16 @@ SHA256: 88b1363ec04d503e1bdbd8e6f85e596a465fa06ecab5018574759053caf84640
 Section: Utilities
 Description: File Manager for iPhone, iPad, iPod Touch. Supports iOS 7+
 Author: TIGI Software <satashi2009@gmail.com>
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=filzafilemanagerDp
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=filzafilemanagerDp
+Depiction: https://shiarahmed.github.io/depictions/?p=com.tigisoftware.filza
 Icon: file:///Applications/Filza.app/AppIcon57x57.png
 Installed-Size: 27511
 Name: Filza File Manager
 Priority: optional
-Sponsor: thebigboss.org <http://thebigboss.org>
-Tag: purpose::uikit, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12
-dev: satashi2009
 
 Package: com.imkpatil.floatingdock
 Version: 1.5
 Architecture: iphoneos-arm
-Maintainer: BigBoss <bigboss@thebigboss.org>
+Maintainer: Shiar Ahmed <shiyar2002@icloud.com>
 Depends: firmware(>= 11.0), mobilesubstrate, preferenceloader, org.thebigboss.libcolorpicker
 Filename: ./debs/floatingdock_1.5.deb
 Size: 32170
@@ -330,15 +306,11 @@ SHA256: 12847fc1410e3eb98430877d3f7f095eafe37a2241834fbd878bd498e9ffa517
 Section: Tweaks
 Description: iPad like dock for iPhone!
 Author: Kiran Patil <patilkiran08@gmail.com>
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=floatingdockDp
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=floatingdockDp
+Depiction: https://shiarahmed.github.io/depictions/?p=com.imkpatil.floatingdock
 Icon: file:///Library/Application%20Support/FloatingDock/icon.png
 Installed-Size: 269
 Name: FloatingDock
 Priority: optional
-Sponsor: thebigboss.org <http://thebigboss.org>
-Tag: purpose::extension, compatible::ios11, compatible::ios12
-dev: imkpatil
 
 Package: org.altervista.exilecom.icleaner
 Version: 7.7.1
@@ -358,8 +330,25 @@ Icon: file:///Applications/iCleaner.app/Icon.png
 Installed-Size: 24617
 Name: iCleaner
 Pre-Depends: firmware (>= 4.0), apt | apt7, findutils, shell-cmds
-Tag: purpose::uikit, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11
-dev: exilecom
+
+Package: org.altervista.exilecom.icleaner
+Version: 7.7.1
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Filename: ./debs/icleaner_7.7.1.deb
+Size: 5329536
+MD5sum: 86256549de86fd52f047e2c344bb18a9
+SHA1: 05e399a9164df393405d3d6392573a5dfa4a588d
+SHA256: 865f71d459631d8a37b26bc084142fc58140e5a84bc455d26624c3c105ac9303
+Section: Utilities
+Description: The first real iOS system cleaner & optimizer
+Author: Ivano Bilenchi <support@ib-soft.net>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=icleanerDp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=icleanerDp
+Icon: file:///Applications/iCleaner.app/Icon.png
+Installed-Size: 24617
+Name: iCleaner
+Pre-Depends: firmware (>= 4.0), apt | apt7, findutils, shell-cmds
 
 Package: com.c1d3r.notchification
 Version: 1.3

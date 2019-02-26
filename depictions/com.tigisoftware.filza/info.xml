@@ -1,21 +1,24 @@
 <package>
-	<id>com.shiarahmed.coolcc</id>
-	<name>CoolCC</name>
-	<version>1:3.1</version>
+	<id>com.ahmad.badgemenot</id>
+	<name>BadgeMeNot</name>
+	<version>3.6.2-12</version>
 	<compatibility>
 		<firmware>
-			<miniOS>11.0</miniOS>
-			<maxiOS>11.4.1</maxiOS>
+			<miniOS>7.0</miniOS>
+			<maxiOS>12.1.2</maxiOS>
 		</firmware>
 	</compatibility>
 	<dependencies>
-		<package>mobilesubstrate (>= 0.9.5000)</package>
-    <package>preferenceloader</package>
+		<package>zip</package>
+		<package>unzip</package>
+		<package>gzip</package>
+		<package>unrar</package>
+		<package>p7zip</package>
 	</dependencies>
 	<shortDescription>
 	<descriptionlist>
-		<description>Supports iOS 11.0 - 12.1.2</description>
-		<description>This tweak makes ControlCenter cool!</description>
+		<description>Supports iOS 7.0 - 12.1.2</description>
+		<description>File Manager for iPhone, iPad, iPod Touch. Supports iOS 7+</description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
