@@ -8,7 +8,8 @@
 			<maxiOS>12.1.2</maxiOS>
 		</firmware>
 	</compatibility>
-	<dependencies></dependencies>
+	<dependencies>
+		<package>mobilesubstrate</package>
 	<descriptionlist>
 		<description>Supports iOS 8.0 - 12.1.2</description>
 		<description>Hide "Please update from the iOS beta" alert</description>
