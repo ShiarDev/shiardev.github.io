@@ -11,6 +11,23 @@ SHA256: 9713c4f5f3cc2204aaefd9d68cef27b627071d4c129567d2bcd6d3211c90d97b
 Section: Tweaks
 Description: Set icon images from your photo library.
 Author: merdok <merdok87@o2.pl>
-Depiction: http://shiarahmed.github.io/depictions/?p=com.shiarahmed.appcon
+Depiction: https://shiarahmed.github.io/depictions/?p=com.shiarahmed.appcon
 Icon: file:///Library/PreferenceBundles/appconprefs.bundle/appcon@2x.png
 Name: Appcon
+
+Package: com.shiarahmed.coolcc
+Version: 1:3.1
+Architecture: iphoneos-arm
+Maintainer: Shiar <shiyar2002@icloud.com>
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), preferenceloader
+Filename: ./debs/com.shiarahmed.coolcc_1_3.1_iphoneos-arm.deb
+Size: 206754
+MD5sum: 9b31b27d486480d7747c3c1e98fd710f
+SHA1: b5949cd46b3e35d650e3f053caf8256fa2ad8f90
+SHA256: aefefe99824104ab0fd939ed46cff0c59dff499b00914507abdc9a0671a88ba1
+Section: Tweaks
+Description: This tweak makes ControlCenter cool!
+Author: 4nni3 <4nni3.14@gmail.com>
+Depiction: https://shiarahmed.github.io/depictions/?p=com.shiarahmed.coolcc
+Icon: file:///Library/PreferenceBundles/CoolCCPref.bundle/icon@2x.png
+Name: CoolCC
