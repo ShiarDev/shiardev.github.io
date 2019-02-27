@@ -50,28 +50,6 @@ Icon: file:///Applications/ADManager.app/AppIcon60x60@2x.png
 Name: Apps Manager
 Priority: optional
 
-Package: com.shiarahmed.apt7lib
-Version: 0.7.25.3-16
-Architecture: iphoneos-arm
-Maintainer: Shiar <shiyar2002@icloud.com>
-Depends: bzip2, dpkg (>= 1.14.25-9), gnupg, gzip, lzma
-Conflicts: apt7-ssl
-Breaks: cydia (<< 1.1.10), apt7 (<< 0.7.25.3-7), aptitude (<< 0.4.11.11-6)
-Replaces: apt (<< 1:0-1), apt7 (<< 0.7.20.2-3), apt7-ssl
-Filename: ./debs/com.shiarahmed.apt7lib_0.7.25.3-16_iphoneos-arm.deb
-Size: 673420
-MD5sum: ce7bcbb7bf0ed4d8dd7e584af1361478
-SHA1: 710ba9eae5f937bd8d9a8b251223e428f132a7a8
-SHA256: c8c08216b84e1ae2723a895850803241ee9aabf91f56ae44b30f6f815ce34f5d
-Section: Development
-Description: the advanced packaging library from Debian
-Depiction: https://shiarahmed.github.io/depictions/?p=com.shiarahmed.apt7lib
-Essential: yes
-Name: APT 0.7 Strict (lib)
-Pre-Depends: dpkg (>= 1.14.25-8)
-Priority: required
-Provides: apt7-ssl
-
 Package: com.shiarahmed.arkhamtheme
 Version: 3.0
 Architecture: iphoneos-arm
@@ -206,7 +184,7 @@ SHA256: e9d56fe808aecef6209872a919858875f7b39a7c2b7b359fec9b58020dc6c7f5
 Section: Tweaks
 Description: Download images & videos from social apps easily!
 Author: Ahmed Bafkir <prooxy0@gmail.com>
-Depiction: https://shiarahmed.github.io/depictions/?p=com.shiarahmed.dleasy
+Depiction: https://shiarahmed.github.io/depictions/?p=com.ahmedbafkir.dleasy
 Icon: file:///Library/PreferenceBundles/DLEasy.bundle/icon@2x.png
 Name: DLEasy
 Priority: optional
@@ -455,7 +433,7 @@ Package: com.shiarahmed.sileo
 Version: 0.8b3
 Architecture: iphoneos-arm
 Maintainer: Shiar <shiyar2002@icloud.com>
-Depends: com.shiarahmed.sileo, apt7 (>= 1.7.0), apt7-lib (>= 1.7.0-sileo), apt7-key (>= 1.7.0), dpkg (>= 1.19.2-4), cydia (>= 1.9.1), cy+cpu.arm64
+Depends: com.shiarahmed.sileo, apt7 (>= 1.7.0), apt7-lib (>= 1.7.0-sileo), apt7-key (>= 1.7.0), dpkg (>= 1.18.25-8), cydia (>= 1.1.32~b12), cy+cpu.arm64
 Conflicts: cydia-gui (<= 1.1.30-3)
 Filename: ./debs/com.shiarahmed.sileo_0.8b3_iphoneos-arm.deb
 Size: 2616894
