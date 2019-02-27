@@ -1,19 +1,18 @@
-Package: org.thebigboss.appcon
+Package: com.shiarahmed.appcon
 Version: 1.4.4
 Architecture: iphoneos-arm
 Maintainer: Shiar Ahmed <shiyar2002@icloud.com>
 Depends: mobilesubstrate, preferenceloader, applist, firmware (>= 9.0)
-Filename: ./debs/appcon_1.4.4.deb
-Size: 207506
-MD5sum: 51f1ec1a574461c418f5f330223ee085
-SHA1: 9562a4165febdbf6683bdfab5cc399ed208b285d
-SHA256: 3ab2f51482d02322c423c2beb49f0f9f139240d1ec61fff8d3151b8a831ac892
+Filename: ./debs/com.shiarahmed.appcon_1.4.4_iphoneos-arm.deb
+Size: 273808
+MD5sum: d877c51eb59bd5d231f94e54c3322066
+SHA1: 08318287738aab822213702a0fb6bb0f5c51a66d
+SHA256: c91867169e53b11af905ce0b81cb2598f5e21f921f733fe3a5c58e3e1355f90e
 Section: Tweaks
 Description: Set icon images from your photo library.
 Author: merdok <merdok87@o2.pl>
-Depiction: https://shiarahmed.github.io/depictions/?p=org.thebigboss.appcon
+Depiction: https://shiarahmed.github.io/depictions/?p=com.shiarahmed.appcon
 Icon: file:///Library/PreferenceBundles/appconprefs.bundle/appcon@2x.png
-Installed-Size: 788
 Name: Appcon
 
 Package: com.tigisoftware.appdatamanager
