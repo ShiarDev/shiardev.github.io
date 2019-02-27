@@ -11,6 +11,6 @@ SHA256: 9713c4f5f3cc2204aaefd9d68cef27b627071d4c129567d2bcd6d3211c90d97b
 Section: Tweaks
 Description: Set icon images from your photo library.
 Author: merdok <merdok87@o2.pl>
-Depiction: https://shiarahmed.github.io/depictions/?p=com.shiarahmed.appcon
+Depiction: http://shiarahmed.github.io/depictions/?p=com.shiarahmed.appcon
 Icon: file:///Library/PreferenceBundles/appconprefs.bundle/appcon@2x.png
 Name: Appcon
