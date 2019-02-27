@@ -429,26 +429,6 @@ Author: Jbrownllama <Jbrownllama@gmail.com>
 Depiction: https://shiarahmed.github.io/depictions/?p=com.shiarahmed.shutter
 Name: Shutter
 
-Package: com.shiarahmed.sileo
-Version: 0.8b3
-Architecture: iphoneos-arm
-Maintainer: Shiar <shiyar2002@icloud.com>
-Depends: com.shiarahmed.sileo, apt7 (>= 1.7.0), apt7-lib (>= 1.7.0-sileo), apt7-key (>= 1.7.0), dpkg (>= 1.18.25-8), cydia (>= 1.1.32~b12), cy+cpu.arm64
-Conflicts: cydia-gui (<= 1.1.30-3)
-Filename: ./debs/com.shiarahmed.sileo_0.8b3_iphoneos-arm.deb
-Size: 2616894
-MD5sum: 47a196b49ae62b5a2a945a24c0b04eb2
-SHA1: 10fc6917788e7334a559be4accb537298c5639d7
-SHA256: 093da7491b1da6a9a533eea7658ba0d4e91adf64fcd4cf7da7ddc4b4b4d0e9bb
-Section: Packaging
-Description: A proper APT client for iOS 11 and higher. (View this package in Sileo to see the full depiction)
-Author: Sileo Team <getsileoapp@gmail.com>
-Name: Sileo (Beta)
-Pre-Depends: debianutils, dpkg (>= 1.14.25-8)
-Priority: required
-SileoDepiction: https://coolstar.moe/sileoassets/depictionoverride.php?package=org.coolstar.sileo
-Tag: cydia::essential
-
 Package: com.shiarahmed.snowboard
 Version: 1.0.4-1
 Architecture: iphoneos-arm
