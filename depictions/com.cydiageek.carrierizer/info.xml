@@ -1,0 +1,35 @@
+<package>
+	<id>com.cydiageek.carrierizer</id>
+	<name>Carrierizer</name>
+	<version>1.0.2</version>
+	<compatibility>
+		<firmware>
+			<miniOS>8.0</miniOS>
+			<maxiOS>12.1.2</maxiOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+		<package>preferenceloader</package>
+	</dependencies>
+	<shortDescription>
+	<descriptionlist>
+		<description>Supports iOS 8.0 - 12.1.2</description>
+		<description>Custom Text for your Carrier!</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+		</screenshot>
+		<screenshot>
+		</screenshot>
+	</screenshots>
+	<changelog>
+	</changelog>
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+</package>

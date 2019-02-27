@@ -204,7 +204,7 @@ MD5sum: 7571fb9519e9177a9fe1b0b0c7419cd2
 SHA1: 8330bd65a927a1c37c3387ed60250f90c034d6e7
 SHA256: e9d56fe808aecef6209872a919858875f7b39a7c2b7b359fec9b58020dc6c7f5
 Section: Tweaks
-Description: Download images & videos from social apps easily! 
+Description: Download images & videos from social apps easily!
 Author: Ahmed Bafkir <prooxy0@gmail.com>
 Depiction: https://shiarahmed.github.io/depictions/?p=com.shiarahmed.dleasy
 Icon: file:///Library/PreferenceBundles/DLEasy.bundle/icon@2x.png
@@ -264,6 +264,92 @@ Depiction: https://shiarahmed.github.io/depictions/?p=com.shiarahmed.floatingdoc
 Icon: file:///Library/Application Support/FloatingDock/icon.png
 Name: FloatingDock
 
+Package: com.shiarahmed.icleanerpro
+Version: 7.7.1
+Architecture: iphoneos-arm
+Maintainer: Shiar <shiyar2002@icloud.com>
+Depends: firmware (>= 4.0), findutils, shell-cmds, apt | apt7
+Conflicts: org.altervista.exilecom.icleaner
+Replaces: org.altervista.exilecom.icleaner
+Filename: ./debs/com.shiarahmed.icleanerpro_7.7.1_iphoneos-arm.deb
+Size: 9875428
+MD5sum: f0fbc8a39b9b2e9eee37caac8a7a1664
+SHA1: a7bb38cfa29620a953c571d49252e8d63c1dcdff
+SHA256: 2f4a68bbad858de42b9f326429cac6fbf7e94b4aea88a8d0d6c34dada6210bb0
+Section: Utilities
+Description: The first real iOS system cleaner & optimizer
+Author: Ivano Bilenchi <support@ib-soft.net>
+Depiction: https://shiarahmed.github.io/depictions/?p= com.shiarahmed.icleanerpro
+Icon: file:///Applications/iCleaner.app/Icon.png
+Name: iCleaner Pro
+
+Package: com.shiarahmed.icleaner
+Version: 7.7.1
+Architecture: iphoneos-arm
+Maintainer: Shiar <shiyar2002@icloud.com>
+Filename: ./debs/com.shiarahmed.icleaner_7.7.1_iphoneos-arm.deb
+Size: 9827344
+MD5sum: f9717043afbe9e6aa0a19543e68f74d4
+SHA1: f0daa65c1730817bf4fd54c1c0b6ca21ded21a1d
+SHA256: b243c2d1d2326b01fcc7f9bde1ebd87fb7b9d16f80e70f5c32361b3344cb073f
+Section: Utilities
+Description: The first real iOS system cleaner & optimizer
+Author: Ivano Bilenchi <support@ib-soft.net>
+Depiction: https://shiarahmed.github.io/depictions/?p=com.shiarahmed.icleaner
+Icon: file:///Applications/iCleaner.app/Icon.png
+Name: iCleaner
+Pre-Depends: firmware (>= 4.0), apt | apt7, findutils, shell-cmds
+
+Package: com.shiarahmed.iponcc
+Version: 1.4.3
+Architecture: iphoneos-arm
+Maintainer: Shiar <shiyar2002@icloud.com>
+Depends: cy+cpu.arm64, firmware (>= 11), mobilesubstrate, com.opa334.ccsupport
+Conflicts: ee.mait.iponcc
+Filename: ./debs/com.shiarahmed.iponcc_1.4.3_iphoneos-arm.deb
+Size: 21600
+MD5sum: 98f86dbdd561151d64bd34a4bdf4dac9
+SHA1: c67205aa9e3e52464051ec63890e2a9f3a5460a0
+SHA256: d374a9718c537e7152104a0ad60aae8507618c7f4dd6c55858fc626bdff3900b
+Section: Addons
+Description: Show IP info in CC
+Author: BlanxdH <blanxd.h@gmail.com>
+Depiction: https://shiarahmed.github.io/depictions/?p=com.shiarahmed.iponcc
+Name: IPonCC
+
+Package: com.shiarahmed.libcolorpicker
+Version: 1.6-1
+Architecture: iphoneos-arm
+Maintainer: Shiar <shyiar2002@icloud.com>
+Depends: firmware (>= 6.0), mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: ./debs/com.shiarahmed.libcolorpicker_1.6-1_iphoneos-arm.deb
+Size: 112960
+MD5sum: bff961ebd10cd266a3d95e6da49b98bb
+SHA1: 88463c6ccb3531ab0321e6c2203e55a3f9d3f127
+SHA256: da35bea275213095cc525618071b269256a118d43df39cff58dd0523704eed65
+Section: Development
+Description: color picker library for developers
+Author: PixelFire <pixelfiredev@helpful.io>
+Depiction: https://shiarahmed.github.io/depictions/?p=com.shiarahmed.libcolorpicker
+Name: libcolorpicker
+Priority: optional
+
+Package: com.shiarahmed.libcspreferences
+Version: 1.0.6
+Architecture: iphoneos-arm
+Maintainer: Shiar <shiyar2002@icloud.com>
+Depends: mobilesubstrate, firmware (>=9.0), preferenceloader
+Filename: ./debs/com.shiarahmed.libcspreferences_1.0.6_iphoneos-arm.deb
+Size: 533904
+MD5sum: 1308ad553e42be162fe59a6de993c6ec
+SHA1: c9f7589c0b94683be1808c117d982f2036ebef8f
+SHA256: 020951706e5b4e9bf5291b2645ae3bc73cc90a49edc8fcf01ba124dffba16b45
+Section: Development
+Description: An awesome Preference Library!
+Author: CreatureSurvive <support@creaturecoding.com>
+Depiction: https://shiarahmed.github.io/depictions/?p=com.shiarahmed.libcspreferences
+Name: libCSPreferences
+
 Package: com.shiarahmed.libspring
 Version: 0.0.2
 Architecture: iphoneos-arm
@@ -279,6 +365,38 @@ Description: Essential lib for SpringPlus
 Author: Rishanan
 Depiction: https://shiarahmed.github.io/depictions/?p=com.shiarahmed.libspring
 Name: libSpringPlus
+
+Package: com.shiarahmed.libswift4
+Version: 4.2.1-1
+Architecture: iphoneos-arm
+Maintainer: Shiar <shiyar2002@icloud.com>
+Depends: firmware (>= 7.0)
+Filename: ./debs/com.shiarahmed.libswift4_4.2.1-1_iphoneos-arm.deb
+Size: 44611566
+MD5sum: 9de67f21c9938363202e1084ca7d7b6f
+SHA1: f8102283580ee3e0b7903c961a09a84bdbe14b76
+SHA256: e41940e6e6b1eb19f7b99d112057ec7d882fa99a0cd950f0c0430f3f9d69b0da
+Section: Development
+Description: libswift dylibs for iOS
+Author: Kabir Oberai <oberai.kabir+libswift@gmail.com>
+Depiction: https://shiarahmed.github.io/depictions/?p=com.shiarahmed.libswift4
+Name: libswift4
+
+Package: com.shiarahmed.notif
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: Shiar <shiyar2002@icloud.com>
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0)
+Filename: ./debs/com.shiarahmed.notif_1.1_iphoneos-arm.deb
+Size: 5176
+MD5sum: f7836b1c2ad23d20a88c190996260e80
+SHA1: c69978cb2195059753d140f7dd33d39e51fbe345
+SHA256: 7c9894a894482ec2396eabd1b20e1f4b49e2055309d3e480f75ef0ed9cf6edac
+Section: Tweaks
+Description: Always show notification history on lock screen
+Author: KingPuffdaddi <kingpuffdaddi@icloud.com>
+Depiction: https://shiarahmed.github.io/depictions/?p=com.shiarahmed.notif
+Name: Notif
 
 Package: com.shiarahmed.powerselector11
 Version: 1.1-7
@@ -299,6 +417,59 @@ Depiction: https://shiarahmed.github.io/depictions/?p=com.shiarahmed.powerselect
 Icon: file:///Library/PreferenceBundles/PowerSelectorSettings.bundle/icon@2x.png
 Name: PowerSelector (iOS 11 & 12)
 Pre-Depends: firmware (>= 11.0)
+
+Package: com.shiarahmed.safariplus
+Version: 1.6.7
+Architecture: iphoneos-arm
+Maintainer: Shiar <shiyar2002@icloud.com>
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader, ws.hbang.common, com.shiarahmed.libcolorpicker, net.limneos.libbulletin, com.rpetrich.rocketbootstrap
+Filename: ./debs/com.shiarahmed.safariplus_1.6.7_iphoneos-arm.deb
+Size: 573286
+MD5sum: 41e197664a8a263b4b9f73968ce549bc
+SHA1: 34bf2d099b8ae411ce00a53fabf83cdca5bda32e
+SHA256: bea1c3de686fdceb83e942cd86a349b40f4a8c9ffb29b59dd063e1b1db768f56
+Section: Tweaks
+Description: Various enhancements to Safari!
+Author: opa334 <opa334@protonmail.com>
+Depiction: https://shiarahmed.github.io/depictions/?p=com.shiarahmed.safariplus
+Icon: file:///Library/PreferenceBundles/SafariPlusPrefs.bundle/SPRootIcon@2x.png
+Name: Safari Plus
+
+Package: com.shiarahmed.shutter
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: Shiar <shiyar2002@icloud.com>
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: ./debs/com.shiarahmed.shutter_1.1_iphoneos-arm.deb
+Size: 14594
+MD5sum: 34ea78fe9664eb9c554993da5f6f23ab
+SHA1: 4f08b0823c93f2957328309eef35c092fabf199a
+SHA256: dd8d2d05b9d77a6f1585b6983355ef493d81327fd9ae6d342ae911ecace0443f
+Section: Tweaks
+Description: More Camera Features
+Author: Jbrownllama <Jbrownllama@gmail.com>
+Depiction: https://shiarahmed.github.io/depictions/?p=com.shiarahmed.shutter
+Name: Shutter
+
+Package: com.shiarahmed.sileo
+Version: 0.8b3
+Architecture: iphoneos-arm
+Maintainer: Shiar <shiyar2002@icloud.com>
+Depends: com.shiarahmed.sileo, apt7 (>= 1.7.0), apt7-lib (>= 1.7.0-sileo), apt7-key (>= 1.7.0), dpkg (>= 1.19.2-4), cydia (>= 1.9.1), cy+cpu.arm64
+Conflicts: cydia-gui (<= 1.1.30-3)
+Filename: ./debs/com.shiarahmed.sileo_0.8b3_iphoneos-arm.deb
+Size: 2616894
+MD5sum: 47a196b49ae62b5a2a945a24c0b04eb2
+SHA1: 10fc6917788e7334a559be4accb537298c5639d7
+SHA256: 093da7491b1da6a9a533eea7658ba0d4e91adf64fcd4cf7da7ddc4b4b4d0e9bb
+Section: Packaging
+Description: A proper APT client for iOS 11 and higher. (View this package in Sileo to see the full depiction)
+Author: Sileo Team <getsileoapp@gmail.com>
+Name: Sileo (Beta)
+Pre-Depends: debianutils, dpkg (>= 1.14.25-8)
+Priority: required
+SileoDepiction: https://coolstar.moe/sileoassets/depictionoverride.php?package=org.coolstar.sileo
+Tag: cydia::essential
 
 Package: com.shiarahmed.snowboard
 Version: 1.0.4-1
@@ -336,6 +507,23 @@ Author: Rishanan <rishanan1996@gmail.com>
 Depiction: https://shiarahmed.github.io/depictions/?p=com.shiarahmed.springplus
 Name: SpringPlus
 
+Package: com.shiarahmed.storefeatures
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Shiar <shiyar2002@icloud.com>
+Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), preferenceloader, ws.hbang.common
+Filename: ./debs/com.shiarahmed.storefeatures_1.0_iphoneos-arm.deb
+Size: 41044
+MD5sum: 4a5ecf5c7f571455c92495cf9f3e3f87
+SHA1: dec954b96fdf515edce384a76ff7cf414996aa3e
+SHA256: 9b3ec4eab1c30b2f881a86fadbb8937da9bd07485421d3c8b2c48dc65c5efea8
+Section: Tweaks
+Description: Add More Features to Cydia
+Author: aJBboCydia <aJBboCydia@gmail.com>
+Depiction: https://shiarahmed.github.io/depictions/?p=com.shiarahmed.storefeatures
+Installed-Size: 296
+Name: Store Features
+
 Package: com.shiarahmed.uaupdatetools
 Version: 1.0r-101
 Architecture: iphoneos-arm
@@ -354,3 +542,36 @@ Depiction: https://shiarahmed.github.io/depictions/?p=com.shiarahmed.uaupdatetoo
 Name: App Admin
 Priority: optional
 
+Package: com.shiarahmed.videohud
+Version: 2.3
+Architecture: iphoneos-arm
+Maintainer: Shiar <shiyar2002@icloud.com>
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.shiarahmed.videohud_2.3_iphoneos-arm.deb
+Size: 19562
+MD5sum: d68ada21872ac617455923bddadb24bc
+SHA1: 595ed859db8c8c45613b45b642ac3deba98ae0ab
+SHA256: 55ee948877dd39175c637960cd2cfc05b9096a45a2213088d6d73630d5e6872e
+Section: Tweaks
+Description: iOS 11 video player HUD used systemwide!
+Author: Youssef Mikhail <ymiscool@hotmail.com>
+Depiction: https://shiarahmed.github.io/depictions/?p=com.shiarahmed.videohud
+Name: VideoHUD
+
+Package: com.shiarahmed.wadarkmode
+Version: 1.6.1
+Architecture: iphoneos-arm
+Maintainer: Shiar <shiyar2002@icloud.com>
+Depends: mobilesubstrate, firmware (>= 8.0)
+Filename: ./debs/com.shiarahmed.wadarkmode_1.6.1_iphoneos-arm.deb
+Size: 358374
+MD5sum: 95677d0cf38fee2125a9ed2ff1906780
+SHA1: d81ec32fac95c4c394008266c3af0cdd92cac5fa
+SHA256: 3ebbc469b865c5bcffa19eccade0c2c521a0979b2b6e73d64e944061076ed5ef
+Section: Tweaks
+Description: Dark Mode for WhatsApp!!
+Author: Ahmed Bafkir <prooxy0@gmail.com>
+Depiction: https://shiarahmed.github.io/depictions/?p=com.shiarahmed.wadarkmode
+Icon: file:///Library/Application%20Support/WADarkMode.bundle/icon@2x.png
+Name: WADarkMode
+Priority: optional

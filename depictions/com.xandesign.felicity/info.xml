@@ -1,0 +1,33 @@
+<package>
+	<id>com.xandesign.felicity</id>
+	<name>Felicity</name>
+	<version>3.2</version>
+	<compatibility>
+		<firmware>
+			<miniOS>7.0</miniOS>
+			<maxiOS>12.1.2</maxiOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+	</dependencies>
+	<shortDescription>
+	<descriptionlist>
+		<description>Supports iOS 7.0 - 12.1.2</description>
+		<description>An Intense and Happy theme.</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+		</screenshot>
+		<screenshot>
+		</screenshot>
+	</screenshots>
+	<changelog>
+	</changelog>
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+</package>
