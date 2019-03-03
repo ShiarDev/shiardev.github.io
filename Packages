@@ -80,7 +80,7 @@ SHA256: e061104512f48ae726570d3398c88ac07350fd25655422197ae56e492c459cda
 Section: Tweaks
 Description: Remove iOS 12 update badge from Settings app icon
 Author: Ahmad <sahmmadh@gmail.com>
-Depiction: https://shiarahmed.github.io/depictions/?p=com.shiarahmed.badgemenot
+Depiction: https://shiarahmed.github.io/depictions/com.shiarahmed.badgemenot/?p=info.xml
 Name: BadgeMeNot
 Priority: optional
 
