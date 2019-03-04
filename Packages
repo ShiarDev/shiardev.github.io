@@ -295,23 +295,6 @@ Author: BlanxdH <blanxd.h@gmail.com>
 Depiction: https://shiarahmed.github.io/depictions/?p=com.shiarahmed.iponcc
 Name: IPonCC
 
-Package: com.shiarahmed.libcolorpicker
-Version: 1.6-1
-Architecture: iphoneos-arm
-Maintainer: Shiar <shyiar2002@icloud.com>
-Depends: firmware (>= 6.0), mobilesubstrate (>= 0.9.5000), preferenceloader
-Filename: ./debs/com.shiarahmed.libcolorpicker_1.6-1_iphoneos-arm.deb
-Size: 112960
-MD5sum: bff961ebd10cd266a3d95e6da49b98bb
-SHA1: 88463c6ccb3531ab0321e6c2203e55a3f9d3f127
-SHA256: da35bea275213095cc525618071b269256a118d43df39cff58dd0523704eed65
-Section: Development
-Description: color picker library for developers
-Author: PixelFire <pixelfiredev@helpful.io>
-Depiction: https://shiarahmed.github.io/depictions/?p=com.shiarahmed.libcolorpicker
-Name: libcolorpicker
-Priority: optional
-
 Package: com.shiarahmed.libcspreferences
 Version: 1.0.6
 Architecture: iphoneos-arm
