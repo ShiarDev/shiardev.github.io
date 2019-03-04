@@ -202,7 +202,7 @@ MD5sum: 7571fb9519e9177a9fe1b0b0c7419cd2
 SHA1: 8330bd65a927a1c37c3387ed60250f90c034d6e7
 SHA256: e9d56fe808aecef6209872a919858875f7b39a7c2b7b359fec9b58020dc6c7f5
 Section: Tweaks
-Description: Download images & videos from social apps easily! 
+Description: Download images & videos from social apps easily!
 Author: Ahmed Bafkir <prooxy0@gmail.com>
 Depiction: https://shiarahmed.github.io/depictions/?p=com.shiarahmed.dleasy
 Icon: file:///Library/PreferenceBundles/DLEasy.bundle/icon@2x.png
@@ -536,4 +536,3 @@ Depiction: https://shiarahmed.github.io/depictions/?p=com.shiarahmed.wadarkmode
 Icon: file:///Library/Application%20Support/WADarkMode.bundle/icon@2x.png
 Name: WADarkMode
 Priority: optional
-
