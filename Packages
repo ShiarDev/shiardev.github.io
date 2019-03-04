@@ -28,7 +28,7 @@ SHA256: 9713c4f5f3cc2204aaefd9d68cef27b627071d4c129567d2bcd6d3211c90d97b
 Section: Tweaks
 Description: Set icon images from your photo library.
 Author: merdok <merdok87@o2.pl>
-Depiction: https://shiarahmed.github.io/shiarahmed.github.io/depictions/?p=com.shiarahmed.appcon
+Depiction: https://shiarahmed.github.io/depictions/?p=com.shiarahmed.appcon
 Icon: file:///Library/PreferenceBundles/appconprefs.bundle/appcon@2x.png
 Name: Appcon
 
@@ -172,18 +172,19 @@ Icon: file:///Library/PreferenceBundles/CylinderSettings.bundle/Icon@2x.png
 Name: Cylinder
 
 Package: com.shiarahmed.dangerous
-Version: 1.0.1
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Shiar
 Depends: firmware (>= 7.0)
-Filename: ./debs/com.shiarahmed.dangerous_1.0.1_iphoneos-arm.deb
-Size: 623934
-MD5sum: a51dcc1d62271ceaf3378da244e1b9e1
-SHA1: a76e3e2661a85ebad4ab54f063bb93d8c9efb20b
-SHA256: 8b5beccb8d90f569ff509754f71c72d67afd066ad084aaacddc767a15041fb72
+Filename: ./debs/com.shiarahmed.dangerous_1.1_iphoneos-arm.deb
+Size: 792914
+MD5sum: b4f07f60083d068570b7b38ce4af651c
+SHA1: 1944143f258a7eda96494194f7f899fe11eea1a8
+SHA256: a897fce62c34e0bdc01d19ccfccf69630ac3bef448cf42c7e11c9fbe0504ab74
 Section: Themes
 Description: New Theme. Beautiful. Creative. Enjoy it.
 Author: Shiar Ahmed <shiyar2002@icloud.com>
+Depiction: https://shiarahmed.github.io/depictions/?p=com.shiarahmed.dangerous
 Homepage: https://twitter.com/shiar_ahmed/
 Name: Dangerous
 Priority: optional
@@ -201,7 +202,7 @@ MD5sum: 7571fb9519e9177a9fe1b0b0c7419cd2
 SHA1: 8330bd65a927a1c37c3387ed60250f90c034d6e7
 SHA256: e9d56fe808aecef6209872a919858875f7b39a7c2b7b359fec9b58020dc6c7f5
 Section: Tweaks
-Description: Download images & videos from social apps easily!
+Description: Download images & videos from social apps easily! 
 Author: Ahmed Bafkir <prooxy0@gmail.com>
 Depiction: https://shiarahmed.github.io/depictions/?p=com.shiarahmed.dleasy
 Icon: file:///Library/PreferenceBundles/DLEasy.bundle/icon@2x.png
@@ -535,3 +536,4 @@ Depiction: https://shiarahmed.github.io/depictions/?p=com.shiarahmed.wadarkmode
 Icon: file:///Library/Application%20Support/WADarkMode.bundle/icon@2x.png
 Name: WADarkMode
 Priority: optional
+
