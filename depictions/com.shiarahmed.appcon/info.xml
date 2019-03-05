@@ -5,7 +5,7 @@
 	<compatibility>
 		<firmware>
 			<miniOS>9.0</miniOS>
-			<maxiOS>12.1.2</maxiOS>
+			<maxiOS>11.4.1<maxiOs>
 		</firmware>
 	</compatibility>
 	<dependencies>
@@ -13,7 +13,7 @@
 		<package>preferenceloader</package>
 		<package>applist</package>
 	</dependencies>
-	<shortDescription>
+	<shortDescription>Set/Change icons</shortDescription>
 	<descriptionlist>
 		<description>Supports iOS 9.0 - 12.1.2</description>
 		<description>Set icon images from your photo library.</description>
@@ -22,9 +22,9 @@
 		<screenshot>
 		</screenshot>
 		<screenshot>
-		</screenshot>
 	</screenshots>
 	<changelog>
+		<change>Initial release</change>
 	</changelog>
 	<links>
 		<link>
