@@ -13,10 +13,10 @@
 		<package>preferenceloader</package>
 		<package>applist</package>
 	</dependencies>
-	<shortDescription>Downgrade iOS apps</shortDescription>
+	<shortDescription>Set icon images.</shortDescription>
 	<descriptionlist>
-		<description>Downgrade iOS apps to any previous version! No AppSync needed!!!</description>
-		<description>Press long on Open/Update button in App Store to downgrade.</description>
+		<description>Supports iOS 9.0 - 12.1.2</description>
+		<description>Set icon images from your photo library.</description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
