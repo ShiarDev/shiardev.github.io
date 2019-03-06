@@ -1,32 +1,32 @@
 <package>
-	<id>com.shiarahmed.appcon</id>
-	<name>Appcon</name>
-	<version>1.4.4</version>
+	<id>com.unlimapps.uaupdatetools</id>
+	<name>App Admin</name>
+	<version>1.0r-101</version>
 	<compatibility>
 		<firmware>
-			<miniOS>9.0</miniOS>
-			<maxiOs>12.1.2</maxiOS>
+			<miniOS>7.0</miniOS>
 		</firmware>
 	</compatibility>
 	<dependencies>
 		<package>mobilesubstrate</package>
-		<package>preferenceloader</package>
-		<package>applist</package>
 	</dependencies>
-	<shortDescription>Set icon images.</shortDescription>
+	<shortDescription>Downgrade iOS apps</shortDescription>
 	<descriptionlist>
-		<description>Supports iOS 9.0 - 12.1.2</description>
-		<description>Set icon images from your photo library.</description>
-		<description>press long on an icon then double tap to set icon.</description>
+		<description>Downgrade iOS apps to any previous version! No AppSync needed!!!</description>
+		<description>Press long on Open/Update button in App Store to downgrade.</description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
 		</screenshot>
 		<screenshot>
+			<description>This is a description for screenshot 2. It's another Cydia!</description>
+			<image>cydia.jpg</image>
 		</screenshot>
 	</screenshots>
 	<changelog>
-		<change>Initial release</change>
+		<change>Second release</change>
+		<change>It has feature 1</change>
+		<change>It has feature 2</change>
 	</changelog>
 	<links>
 		<link>
