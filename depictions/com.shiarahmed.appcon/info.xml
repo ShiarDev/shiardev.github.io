@@ -21,16 +21,15 @@
 	</descriptionlist>
 	<screenshots>
 		<changelog>
-			<changes>
-				<version>1.4.4</version>
-				<change>Initial release</change>
-			</changes>
+			<change>Second release</change>
+			<change>It has feature 1</change>
+			<change>It has feature 2</change>
 		</changelog>
-	<links>
-		<link>
-			<name>/r/jailbreak</name>
-			<url>https://www.reddit.com/r/jailbreak</url>
-			<iconclass>fa fa-reddit</iconclass>
-		</link>
-	</links>
-</package>
+		<links>
+			<link>
+				<name>/r/jailbreak</name>
+				<url>https://www.reddit.com/r/jailbreak</url>
+				<iconclass>fa fa-reddit</iconclass>
+			</link>
+		</links>
+	</package>
