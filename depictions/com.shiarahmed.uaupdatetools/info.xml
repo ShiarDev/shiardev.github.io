@@ -17,24 +17,9 @@
 		<description>Downgrade iOS apps to any previous version! No AppSync needed!!!</description>
 		<description>Press long on Open/Update button in App Store to downgrade.</description>
 	</descriptionlist>
-	<screenshots>
-		<screenshot>
-		</screenshot>
-		<screenshot>
-			<description>This is a description for screenshot 2. It's another Cydia!</description>
-			<image>cydia.jpg</image>
-		</screenshot>
-	</screenshots>
+	<screenshots></screenshots>
 	<changelog>
-		<change>Second release</change>
-		<change>It has feature 1</change>
-		<change>It has feature 2</change>
+		<change>Initial release</change>
 	</changelog>
-	<links>
-		<link>
-			<name>/r/jailbreak</name>
-			<url>https://www.reddit.com/r/jailbreak</url>
-			<iconclass>fa fa-reddit</iconclass>
-		</link>
-	</links>
+	<links></links>
 </package>
