@@ -1,0 +1,25 @@
+<package>
+	<id>com.shiarahmed.arkhamtheme</id>
+	<name>Arkham</name>
+	<version>3.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+			<maxiOS>12.1.2</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>
+	</dependencies>
+	<shortDescription>modern theme</shortDescription>
+	<descriptionlist>
+		<description>Supports iOS 10.0 - 12.1.2</description>
+		<description>modern theme inspired by the Gotham Glyphs Theme.</description>
+		<description>Open Anemone/SnowBoard/WinterBoard to enable the theme</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
