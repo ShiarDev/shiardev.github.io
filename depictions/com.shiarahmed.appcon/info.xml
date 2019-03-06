@@ -1,10 +1,11 @@
 <package>
-	<id>com.unlimapps.uaupdatetools</id>
-	<name>App Admin</name>
-	<version>1.0r-101</version>
+	<id>com.shiarahmed.appcon</id>
+	<name>Appcon</name>
+	<version>1.4.4</version>
 	<compatibility>
 		<firmware>
 			<miniOS>7.0</miniOS>
+			<maxiOS>12.1</maxiOS>
 		</firmware>
 	</compatibility>
 	<dependencies>
