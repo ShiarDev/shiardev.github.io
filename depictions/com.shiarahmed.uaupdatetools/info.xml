@@ -5,6 +5,7 @@
 	<compatibility>
 		<firmware>
 			<miniOS>7.0</miniOS>
+			<maxiOS>12.1.2</maxiOS>
 		</firmware>
 	</compatibility>
 	<dependencies>
@@ -12,6 +13,7 @@
 	</dependencies>
 	<shortDescription>Downgrade iOS apps</shortDescription>
 	<descriptionlist>
+		<description>Supports iOS 7.0 - 12.1.2</description>
 		<description>Downgrade iOS apps to any previous version! No AppSync needed!!!</description>
 		<description>Press long on Open/Update button in App Store to downgrade.</description>
 	</descriptionlist>
