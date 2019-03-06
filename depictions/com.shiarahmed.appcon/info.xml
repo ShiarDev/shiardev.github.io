@@ -20,11 +20,11 @@
 		<description>Press long on an icon then double tap to set icon.</description>
 	</descriptionlist>
 	<screenshots>
-	<changelog>
-		<change>Second release</change>
-		<change>It has feature 1</change>
-		<change>It has feature 2</change>
-	</changelog>
+		<changelog>
+			<change>Second release</change>
+			<change>It has feature 1</change>
+			<change>It has feature 2</change>
+		</changelog>
 	<links>
 		<link>
 			<name>/r/jailbreak</name>
