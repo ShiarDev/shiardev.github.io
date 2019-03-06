@@ -6,6 +6,7 @@
 		<firmware>
 			<miniOS>9.0</miniOS>
 			<maxiOS>12.1.2</maxiOS>
+			<otherVersions>unsupported</otherVersions>
 		</firmware>
 	</compatibility>
 	<dependencies>
@@ -13,23 +14,15 @@
 		<package>preferenceloader</package>
 		<package>applist</package>
 	</dependencies>
-	<shortDescription>Set icon images.</shortDescription>
+	<shortDescription>Set icon images</shortDescription>
 	<descriptionlist>
 		<description>Supports iOS 9.0 - 12.1.2</description>
 		<description>Set icon images from your photo library.</description>
 		<description>Press long on an icon then double tap to set icon.</description>
 	</descriptionlist>
-	<screenshots>
-		<changelog>
-			<change>Second release</change>
-			<change>It has feature 1</change>
-			<change>It has feature 2</change>
-		</changelog>
-		<links>
-			<link>
-				<name>/r/jailbreak</name>
-				<url>https://www.reddit.com/r/jailbreak</url>
-				<iconclass>fa fa-reddit</iconclass>
-			</link>
-		</links>
-	</package>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
