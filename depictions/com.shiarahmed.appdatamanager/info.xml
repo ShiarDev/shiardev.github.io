@@ -11,11 +11,11 @@
 	</compatibility>
 	<dependencies>
 	</dependencies>
-	<shortDescription>WIPE, BACKUP, RESTORE AppData</shortDescription>
+	<shortDescription>WIPE, BACKUP, RESTORE AppData.</shortDescription>
 	<descriptionlist>
 		<description>Supports iOS 7.0 - 12.1.2</description>
 		<description>tool to WIPE, BACKUP, RESTORE AppData for installed Apps.</description>
-		<description>Open the app and then select an app to wipe, backup or restore AppData.</description>
+		<description>Open the app and select an app to wipe, backup, restore AppData.</description>
 	</descriptionlist>
 	<screenshots></screenshots>
 	<changelog>
