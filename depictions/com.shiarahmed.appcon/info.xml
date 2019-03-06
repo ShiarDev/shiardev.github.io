@@ -17,6 +17,7 @@
 	<descriptionlist>
 		<description>Supports iOS 9.0 - 12.1.2</description>
 		<description>Set icon images from your photo library.</description>
+		<description>Press long on an icon then double tap to set icon.</description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
