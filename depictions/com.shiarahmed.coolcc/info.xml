@@ -6,30 +6,22 @@
 		<firmware>
 			<miniOS>11.0</miniOS>
 			<maxiOS>12.1.2</maxiOS>
+			<otherVersions>unsupported</otherVersions>
 		</firmware>
 	</compatibility>
 	<dependencies>
 		<package>mobilesubstrate (>= 0.9.5000)</package>
 		<package>preferenceloader</package>
 	</dependencies>
-	<shortDescription>
+	<shortDescription>This tweak makes ControlCenter cool!</shortDescription>
 	<descriptionlist>
 		<description>Supports iOS 11.0 - 12.1.2</description>
 		<description>This tweak makes ControlCenter cool!</description>
+		<description>Change ControlCenter settings in settings</description>
 	</descriptionlist>
-	<screenshots>
-		<screenshot>
-		</screenshot>
-		<screenshot>
-		</screenshot>
-	</screenshots>
+	<screenshots></screenshots>
 	<changelog>
+		<change>Initial release</change>
 	</changelog>
-	<links>
-		<link>
-			<name>/r/jailbreak</name>
-			<url>https://www.reddit.com/r/jailbreak</url>
-			<iconclass>fa fa-reddit</iconclass>
-		</link>
-	</links>
+	<links></links>
 </package>

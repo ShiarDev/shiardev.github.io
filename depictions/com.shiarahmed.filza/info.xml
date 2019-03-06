@@ -1,38 +1,30 @@
 <package>
-	<id>com.ahmad.badgemenot</id>
-	<name>BadgeMeNot</name>
-	<version>3.6.2-12</version>
+	<id>com.shiarahmed.filza</id>
+	<name>Filza File Manager</name>
+	<version>3.6.4</version>
 	<compatibility>
 		<firmware>
 			<miniOS>7.0</miniOS>
 			<maxiOS>12.1.2</maxiOS>
+			<otherVersions>unsupported</otherVersions>
 		</firmware>
 	</compatibility>
 	<dependencies>
 		<package>zip</package>
 		<package>unzip</package>
-		<package>gzip</package>
-		<package>unrar</package>
-		<package>p7zip</package>
+    <package>gzip</package>
+    <package>unrar</package>
+    <package>p7zip</package>
 	</dependencies>
-	<shortDescription>
+	<shortDescription>File Manager for iPhone, iPad, iPod Touch. Supports iOS 7+</shortDescription>
 	<descriptionlist>
 		<description>Supports iOS 7.0 - 12.1.2</description>
 		<description>File Manager for iPhone, iPad, iPod Touch. Supports iOS 7+</description>
+		<description>Open the app and browse through iOS files!</description>
 	</descriptionlist>
-	<screenshots>
-		<screenshot>
-		</screenshot>
-		<screenshot>
-		</screenshot>
-	</screenshots>
+	<screenshots></screenshots>
 	<changelog>
+		<change>Initial release</change>
 	</changelog>
-	<links>
-		<link>
-			<name>/r/jailbreak</name>
-			<url>https://www.reddit.com/r/jailbreak</url>
-			<iconclass>fa fa-reddit</iconclass>
-		</link>
-	</links>
+	<links></links>
 </package>

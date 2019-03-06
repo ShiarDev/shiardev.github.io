@@ -1,35 +1,27 @@
 <package>
-	<id>com.ahmedbafkir.dleasy</id>
+	<id>com.shiarahmed.dleasy</id>
 	<name>DLEasy</name>
-	<version>1.4</version>
+	<version>1.4.3</version>
 	<compatibility>
 		<firmware>
 			<miniOS>7.0</miniOS>
 			<maxiOS>12.1.2</maxiOS>
+			<otherVersions>unsupported</otherVersions>
 		</firmware>
 	</compatibility>
 	<dependencies>
 		<package>mobilesubstrate</package>
 		<package>preferenceloader</package>
 	</dependencies>
-	<shortDescription>
+	<shortDescription>Download images & videos from social apps easily!</shortDescription>
 	<descriptionlist>
 		<description>Supports iOS 7.0 - 12.1.2</description>
 		<description>Download images & videos from social apps easily!</description>
+		<description>Enable apps in settings</description>
 	</descriptionlist>
-	<screenshots>
-		<screenshot>
-		</screenshot>
-		<screenshot>
-		</screenshot>
-	</screenshots>
+	<screenshots></screenshots>
 	<changelog>
+		<change>Initial release</change>
 	</changelog>
-	<links>
-		<link>
-			<name>/r/jailbreak</name>
-			<url>https://www.reddit.com/r/jailbreak</url>
-			<iconclass>fa fa-reddit</iconclass>
-		</link>
-	</links>
+	<links></links>
 </package>

@@ -210,40 +210,44 @@ Name: DLEasy
 Priority: optional
 
 Package: com.shiarahmed.felicity
-Version: 3.2
+Version: 3.3
 Architecture: iphoneos-arm
-Maintainer: Shiar <shiyar2002@icloud.com>
+Maintainer: Shiar Ahmed <shiyar2002@icloud.com>
 Depends: firmware (>= 7.0)
-Filename: ./debs/com.shiarahmed.felicity_3.2_iphoneos-arm.deb
-Size: 20156274
-MD5sum: 1ecb2e474aa8d4cbe661c04efc57c839
-SHA1: c544f112fad1c47c45845ab812895af3d2165e00
-SHA256: 7921afc4afe157a572b8c38a71e19efc2ca36b8d99fd81a83479587d85474438
+Filename: ./debs/com.shiarahmed.felicity_3.3_iphoneos-arm.deb
+Size: 21442620
+MD5sum: ea1626fdf7602c85e9abfe6059fa3c11
+SHA1: 8dfddbae8c3651cd62284602db52f59c6c73362b
+SHA256: 4ff406e5f1ebf2806e685f4ebdb492886c37d3b738fef0d468f5ab9488fe9580
 Section: Themes
 Description: An Intense and Happy theme.
 Author: xerusDesign <unixdesignios@gmail.com>
 Depiction: https://shiarahmed.github.io/depictions/?p=com.shiarahmed.felicity
+Installed-Size: 21512
 Name: Felicity
 Priority: optional
+dev: xandesign
 
 Package: com.shiarahmed.filza
-Version: 3.6.2-12
+Version: 3.6.4
 Architecture: iphoneos-arm
-Maintainer: Shiar <shiyar2002@icloud.com>
+Maintainer: Shiar Ahmed <shiyar2002@icloud.com>
 Depends: firmware (>= 7.0), zip, unzip, gzip, unrar, p7zip
 Conflicts: com.tigisoftware.filza64bit
-Filename: ./debs/com.shiarahmed.filza_3.6.2-12_iphoneos-arm.deb
-Size: 12407860
-MD5sum: 7695458963a2e050246fb77e101e6630
-SHA1: 78266e386fcf9e075ad76eccccc6043ec5f8641a
-SHA256: a662cf040d8ee99aae1413b29d059fbf0ddb764fea57b0df8a33cf9b47b735da
+Filename: ./debs/com.shiarahmed.filza_3.6.4_iphoneos-arm.deb
+Size: 12394350
+MD5sum: 393d02f0f45db8b41a235281864dc257
+SHA1: 8d6aff0ea0b8de3b7fab2e4509702cc300c7702c
+SHA256: d2e0f578f860677fbb0fee87004f6091abcd12987f8eb6db0417257ac9a36e00
 Section: Utilities
 Description: File Manager for iPhone, iPad, iPod Touch. Supports iOS 7+
 Author: TIGI Software <satashi2009@gmail.com>
 Depiction: https://shiarahmed.github.io/depictions/?p=com.shiarahmed.filza
 Icon: file:///Applications/Filza.app/AppIcon57x57.png
+Installed-Size: 27512
 Name: Filza File Manager
 Priority: optional
+dev: satashi2009
 
 Package: com.shiarahmed.floatingdock
 Version: 1.5.1
@@ -347,22 +351,6 @@ Author: Rishanan
 Depiction: https://shiarahmed.github.io/depictions/?p=com.shiarahmed.libspring
 Name: libSpringPlus
 
-Package: com.shiarahmed.libswift4
-Version: 4.2.1-1
-Architecture: iphoneos-arm
-Maintainer: Shiar <shiyar2002@icloud.com>
-Depends: firmware (>= 7.0)
-Filename: ./debs/com.shiarahmed.libswift4_4.2.1-1_iphoneos-arm.deb
-Size: 44611566
-MD5sum: 9de67f21c9938363202e1084ca7d7b6f
-SHA1: f8102283580ee3e0b7903c961a09a84bdbe14b76
-SHA256: e41940e6e6b1eb19f7b99d112057ec7d882fa99a0cd950f0c0430f3f9d69b0da
-Section: Development
-Description: libswift dylibs for iOS
-Author: Kabir Oberai <oberai.kabir+libswift@gmail.com>
-Depiction: https://shiarahmed.github.io/depictions/?p=com.shiarahmed.libswift4
-Name: libswift4
-
 Package: com.shiarahmed.notif
 Version: 1.1
 Architecture: iphoneos-arm
@@ -403,7 +391,7 @@ Package: com.shiarahmed.safariplus
 Version: 1.6.7
 Architecture: iphoneos-arm
 Maintainer: Shiar <shiyar2002@icloud.com>
-Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader, ws.hbang.common, com.shiarahmed.libcolorpicker, net.limneos.libbulletin, com.rpetrich.rocketbootstrap
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader, ws.hbang.common, com.thebigboss.libcolorpicker, net.limneos.libbulletin, com.rpetrich.rocketbootstrap
 Filename: ./debs/com.shiarahmed.safariplus_1.6.7_iphoneos-arm.deb
 Size: 573286
 MD5sum: 41e197664a8a263b4b9f73968ce549bc
@@ -433,21 +421,21 @@ Depiction: https://shiarahmed.github.io/depictions/?p=com.shiarahmed.shutter
 Name: Shutter
 
 Package: com.shiarahmed.snowboard
-Version: 1.0.4-1
+Version: 1.1.4
 Architecture: iphoneos-arm
-Maintainer: Shiar <shiyar2002@icloud.com
+Maintainer: Shiar Ahmed <shiyar2002@icloud.com>
 Depends: mobilesubstrate, jp.ashikase.techsupport, preferenceloader
 Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
 Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
-Filename: ./debs/com.shiarahmed.snowboard_1.0.4-1_iphoneos-arm.deb
-Size: 442970
-MD5sum: 1ebde25a1f562974a3acb26ebc5c9571
-SHA1: 24fd131871cf6facd786181767588a63f0b5441c
-SHA256: 5000af5ab78618ead1f336473a65cb2f7559ee97e46bebfd37ee86bb44a4b59f
+Filename: ./debs/com.shiarahmed.snowboard_1.1.4_iphoneos-arm.deb
+Size: 447724
+MD5sum: bb55fee0539b73e72176d2097da2ffed
+SHA1: 5804d02e275d532a2063022658bcbb50fb06eefc
+SHA256: 5fa9d5fe74bd5afdcb29c0227d4c26b17a2162faa175dba66ca1fae93a3ecc36
 Section: Tweaks
 Description: Snowboard theming engine
 Author: Spark & Dennis D. Bednarz
-Depiction: https://shiarahmed.github.io/depictions/?p=com.shiarahmed.snowboard
+Installed-Size: 964
 Name: SnowBoard
 Provides: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
 
@@ -469,21 +457,22 @@ Depiction: https://shiarahmed.github.io/depictions/?p=com.shiarahmed.springplus
 Name: SpringPlus
 
 Package: com.shiarahmed.storefeatures
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
-Maintainer: Shiar <shiyar2002@icloud.com>
+Maintainer: Shiar Ahmed <shiyar2002@icloud.com>
 Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), preferenceloader, ws.hbang.common
-Filename: ./debs/com.shiarahmed.storefeatures_1.0_iphoneos-arm.deb
-Size: 41044
-MD5sum: 4a5ecf5c7f571455c92495cf9f3e3f87
-SHA1: dec954b96fdf515edce384a76ff7cf414996aa3e
-SHA256: 9b3ec4eab1c30b2f881a86fadbb8937da9bd07485421d3c8b2c48dc65c5efea8
+Filename: ./debs/com.shiarahmed.storefeatures_1.1_iphoneos-arm.deb
+Size: 53174
+MD5sum: 0bc33aba1434724cdb55864702038cee
+SHA1: ef27668ac5d898a9cd2de7f0d0840718ce6a5357
+SHA256: f61a2652944f93d1ac6aa5e7cf763a74fcdb8fbb7374fb15ce6708f8ecc7bb3a
 Section: Tweaks
 Description: Add More Features to Cydia
 Author: aJBboCydia <aJBboCydia@gmail.com>
 Depiction: https://shiarahmed.github.io/depictions/?p=com.shiarahmed.storefeatures
-Installed-Size: 296
+Installed-Size: 476
 Name: Store Features
+dev: ajbbocydia
 
 Package: com.shiarahmed.uaupdatetools
 Version: 1.0r-101

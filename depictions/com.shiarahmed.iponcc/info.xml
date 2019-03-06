@@ -1,0 +1,28 @@
+<package>
+	<id>com.shiarahmed.iponcc</id>
+	<name>akLocationX</name>
+	<version>1.4.3</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+			<maxiOS>12.1.2</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+		<package>cy+cpu.arm64</package>
+		<package>com.opa334.ccsupport</package>
+	</dependencies>
+	<shortDescription>Show IP info in CC</shortDescription>
+	<descriptionlist>
+		<description>Supports iOS 11.0 - 12.1.2</description>
+		<description>Show IP info in CC</description>
+		<description>It enables automatically</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>

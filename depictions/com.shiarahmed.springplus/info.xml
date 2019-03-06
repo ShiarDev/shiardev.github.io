@@ -1,5 +1,5 @@
 <package>
-	<id>com.rishanan.springplus</id>
+	<id>com.shiarahmed.springplus</id>
 	<name>SpringPlus</name>
 	<version>1.3-2</version>
 	<compatibility>
@@ -10,10 +10,13 @@
 	<dependencies>
 		<package>mobilesubstrate</package>
 		<package>preferenceloader</package>
-		<package>com.rish.libspring</Package>
+		<package>com.shiarahmed.libspring</package>
 	</dependencies>
+	<shortDescription>All round modification for your iDevice.</shortDescription>
 	<descriptionlist>
+		<description>Supports up to iOS 12.1.2</description>
 		<description>All round modification for your iDevice.</description>
+		<description>Change SpringPlus settings in settings</description>
 	</descriptionlist>
 	<screenshots></screenshots>
 	<changelog>

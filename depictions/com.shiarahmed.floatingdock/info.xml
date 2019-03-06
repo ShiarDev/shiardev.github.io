@@ -1,36 +1,25 @@
 <package>
-	<id>com.imkpatil.floatingdock</id>
+	<id>com.shiarahmed.floatingdock</id>
 	<name>FloatingDock</name>
-	<version>1.5</version>
+	<version>1.5.1</version>
 	<compatibility>
 		<firmware>
-			<miniOS>11.0</miniOS>
 			<maxiOS>12.1.2</maxiOS>
 		</firmware>
 	</compatibility>
 	<dependencies>
 		<package>mobilesubstrate</package>
-		<package>preferenceloader</package>
 		<package>org.thebigboss.libcolorpicker</package>
 	</dependencies>
-	<shortDescription>
+	<shortDescription>This tweak makes ControlCenter cool!</shortDescription>
 	<descriptionlist>
-		<description>Supports iOS 11.0 - 12.1.2</description>
-		<description>Remove iOS 12 update badge from Settings app icon</description>
+		<description>Supports up to iOS 12.1.2</description>
+		<description>iPad like dock for iPhone!</description>
+		<description>Change FloatingDock settings in settings</description>
 	</descriptionlist>
-	<screenshots>
-		<screenshot>
-		</screenshot>
-		<screenshot>
-		</screenshot>
-	</screenshots>
+	<screenshots></screenshots>
 	<changelog>
+		<change>Initial release</change>
 	</changelog>
-	<links>
-		<link>
-			<name>/r/jailbreak</name>
-			<url>https://www.reddit.com/r/jailbreak</url>
-			<iconclass>fa fa-reddit</iconclass>
-		</link>
-	</links>
+	<links></links>
 </package>

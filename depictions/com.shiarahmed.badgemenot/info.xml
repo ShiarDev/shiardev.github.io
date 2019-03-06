@@ -1,34 +1,26 @@
 <package>
-	<id>com.ahmad.badgemenot</id>
+	<id>com.shiarahmed.badgemenot</id>
 	<name>BadgeMeNot</name>
 	<version>1.0</version>
 	<compatibility>
 		<firmware>
 			<miniOS>12.0</miniOS>
 			<maxiOS>12.1.2</maxiOS>
+			<otherVersions>unsupported</otherVersions>
 		</firmware>
 	</compatibility>
 	<dependencies>
 		<package>mobilesubstrate</package>
 	</dependencies>
-	<shortDescription>
+	<shortDescription>Remove iOS 12 update badge</shortDescription>
 	<descriptionlist>
 		<description>Supports iOS 12.0 - 12.1.2</description>
 		<description>Remove iOS 12 update badge from Settings app icon</description>
+		<description>It enables automatically</description>
 	</descriptionlist>
-	<screenshots>
-		<screenshot>
-		</screenshot>
-		<screenshot>
-		</screenshot>
-	</screenshots>
+	<screenshots></screenshots>
 	<changelog>
+		<change>Initial release</change>
 	</changelog>
-	<links>
-		<link>
-			<name>/r/jailbreak</name>
-			<url>https://www.reddit.com/r/jailbreak</url>
-			<iconclass>fa fa-reddit</iconclass>
-		</link>
-	</links>
+	<links></links>
 </package>

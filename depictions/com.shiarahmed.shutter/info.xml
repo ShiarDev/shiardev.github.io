@@ -1,0 +1,27 @@
+<package>
+	<id>com.shiarahmed.shutter</id>
+	<name>Shutter</name>
+	<version>1.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+			<maxiOS>12.1.2</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate (>= 0.9.5000)</package>
+		<package>preferenceloader</package>
+	</dependencies>
+	<shortDescription>More Camera Features</shortDescription>
+	<descriptionlist>
+		<description>Supports iOS 11.0 - 12.1.2</description>
+		<description>More Camera Features</description>
+		<description>Change Shutter settings in Settings</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>

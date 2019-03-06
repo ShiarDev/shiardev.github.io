@@ -1,35 +1,27 @@
 <package>
-	<id>com.cydiageek.carrierizer</id>
+	<id>com.shiarahmed.carrierizer</id>
 	<name>Carrierizer</name>
 	<version>1.0.2</version>
 	<compatibility>
 		<firmware>
 			<miniOS>8.0</miniOS>
 			<maxiOS>12.1.2</maxiOS>
+			<otherVersions>unsupported</otherVersions>
 		</firmware>
 	</compatibility>
 	<dependencies>
 		<package>mobilesubstrate</package>
 		<package>preferenceloader</package>
 	</dependencies>
-	<shortDescription>
+	<shortDescription>Carrier name changer</shortDescription>
 	<descriptionlist>
 		<description>Supports iOS 8.0 - 12.1.2</description>
 		<description>Custom Text for your Carrier!</description>
+		<description>Change carrier name in settings.</description>
 	</descriptionlist>
-	<screenshots>
-		<screenshot>
-		</screenshot>
-		<screenshot>
-		</screenshot>
-	</screenshots>
+	<screenshots></screenshots>
 	<changelog>
+		<change>Initial release</change>
 	</changelog>
-	<links>
-		<link>
-			<name>/r/jailbreak</name>
-			<url>https://www.reddit.com/r/jailbreak</url>
-			<iconclass>fa fa-reddit</iconclass>
-		</link>
-	</links>
+	<links></links>
 </package>
