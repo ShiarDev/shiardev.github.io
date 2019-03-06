@@ -1,33 +1,25 @@
 <package>
-	<id>com.tigisoftware.appdatamanager</id>
+	<id>com.shiarahmed.appdatamanager</id>
 	<name>Apps Manager</name>
 	<version>1.4.2</version>
 	<compatibility>
 		<firmware>
 			<miniOS>7.0</miniOS>
 			<maxiOS>12.1.2</maxiOS>
+			<otherVersions>unsupported</otherVersions>
 		</firmware>
 	</compatibility>
 	<dependencies>
 	</dependencies>
-	<shortDescription>
+	<shortDescription>WIPE, BACKUP, RESTORE AppData</shortDescription>
 	<descriptionlist>
 		<description>Supports iOS 7.0 - 12.1.2</description>
-		<description>tool to WIPE, BACKUP, RESTORE AppData for installed Apps</description>
+		<description>tool to WIPE, BACKUP, RESTORE AppData for installed Apps.</description>
+		<description>Open the app and then select an app to wipe, backup or restore AppData.</description>
 	</descriptionlist>
-	<screenshots>
-		<screenshot>
-		</screenshot>
-		<screenshot>
-		</screenshot>
-	</screenshots>
+	<screenshots></screenshots>
 	<changelog>
+		<change>Initial release</change>
 	</changelog>
-	<links>
-		<link>
-			<name>/r/jailbreak</name>
-			<url>https://www.reddit.com/r/jailbreak</url>
-			<iconclass>fa fa-reddit</iconclass>
-		</link>
-	</links>
+	<links></links>
 </package>
