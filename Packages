@@ -172,15 +172,15 @@ Icon: file:///Library/PreferenceBundles/CylinderSettings.bundle/Icon@2x.png
 Name: Cylinder
 
 Package: com.shiarahmed.dangerous
-Version: 1.1
+Version: 1.2
 Architecture: iphoneos-arm
 Maintainer: Shiar
 Depends: firmware (>= 7.0)
-Filename: ./debs/com.shiarahmed.dangerous_1.1_iphoneos-arm.deb
-Size: 792914
-MD5sum: b4f07f60083d068570b7b38ce4af651c
-SHA1: 1944143f258a7eda96494194f7f899fe11eea1a8
-SHA256: a897fce62c34e0bdc01d19ccfccf69630ac3bef448cf42c7e11c9fbe0504ab74
+Filename: ./debs/com.shiarahmed.dangerous_1.2_iphoneos-arm.deb
+Size: 1047522
+MD5sum: f6d014f3bdb0acc1d2216841f154cdfc
+SHA1: d7f8395817a1bbb9a4602b029f7925d205dfc654
+SHA256: 549440dcbaefa37ac041203f4bd0818754515af30412fa2def3d20fc18237de6
 Section: Themes
 Description: New Theme. Beautiful. Creative. Enjoy it.
 Author: Shiar Ahmed <shiyar2002@icloud.com>
@@ -188,7 +188,6 @@ Depiction: https://shiarahmed.github.io/depictions/?p=com.shiarahmed.dangerous
 Homepage: https://twitter.com/shiar_ahmed/
 Name: Dangerous
 Priority: optional
-Tag: purpose::theme, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12
 dev: Shiar
 
 Package: com.shiarahmed.dleasy
@@ -202,7 +201,7 @@ MD5sum: 7571fb9519e9177a9fe1b0b0c7419cd2
 SHA1: 8330bd65a927a1c37c3387ed60250f90c034d6e7
 SHA256: e9d56fe808aecef6209872a919858875f7b39a7c2b7b359fec9b58020dc6c7f5
 Section: Tweaks
-Description: Download images & videos from social apps easily!
+Description: Download images & videos from social apps easily! 
 Author: Ahmed Bafkir <prooxy0@gmail.com>
 Depiction: https://shiarahmed.github.io/depictions/?p=com.shiarahmed.dleasy
 Icon: file:///Library/PreferenceBundles/DLEasy.bundle/icon@2x.png
@@ -229,25 +228,22 @@ Priority: optional
 dev: xandesign
 
 Package: com.shiarahmed.filza
-Version: 3.6.4
+Version: 3.6.4-2
 Architecture: iphoneos-arm
-Maintainer: Shiar Ahmed <shiyar2002@icloud.com>
-Depends: firmware (>= 7.0), zip, unzip, gzip, unrar, p7zip
+Maintainer: TIGI Software
+Depends: zip, unzip, gzip, unrar, p7zip
 Conflicts: com.tigisoftware.filza64bit
-Filename: ./debs/com.shiarahmed.filza_3.6.4_iphoneos-arm.deb
-Size: 12394350
-MD5sum: 393d02f0f45db8b41a235281864dc257
-SHA1: 8d6aff0ea0b8de3b7fab2e4509702cc300c7702c
-SHA256: d2e0f578f860677fbb0fee87004f6091abcd12987f8eb6db0417257ac9a36e00
+Filename: ./debs/com.shiarahmed.filza_3.6.4-2_iphoneos-arm.deb
+Size: 12415522
+MD5sum: 537de245b32145917a53aef59e36806f
+SHA1: b04bf79c8ce101c62b77e74c5d2f2adf28b3b5bf
+SHA256: da199befb5df21c4bfb8b0c768d8dc3eedd44c9179d3043e3bdff930606b7a51
 Section: Utilities
 Description: File Manager for iPhone, iPad, iPod Touch. Supports iOS 7+
-Author: TIGI Software <satashi2009@gmail.com>
+Author: TIGI Software
 Depiction: https://shiarahmed.github.io/depictions/?p=com.shiarahmed.filza
-Icon: file:///Applications/Filza.app/AppIcon57x57.png
-Installed-Size: 27512
+Installed-Size: 29640
 Name: Filza File Manager
-Priority: optional
-dev: satashi2009
 
 Package: com.shiarahmed.floatingdock
 Version: 1.5.1
@@ -391,7 +387,7 @@ Package: com.shiarahmed.safariplus
 Version: 1.6.7
 Architecture: iphoneos-arm
 Maintainer: Shiar <shiyar2002@icloud.com>
-Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader, ws.hbang.common, com.thebigboss.libcolorpicker, net.limneos.libbulletin, com.rpetrich.rocketbootstrap
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader, ws.hbang.common, com.shiarahmed.libcolorpicker, net.limneos.libbulletin, com.rpetrich.rocketbootstrap
 Filename: ./debs/com.shiarahmed.safariplus_1.6.7_iphoneos-arm.deb
 Size: 573286
 MD5sum: 41e197664a8a263b4b9f73968ce549bc
@@ -428,13 +424,14 @@ Depends: mobilesubstrate, jp.ashikase.techsupport, preferenceloader
 Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
 Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
 Filename: ./debs/com.shiarahmed.snowboard_1.1.4_iphoneos-arm.deb
-Size: 447724
-MD5sum: bb55fee0539b73e72176d2097da2ffed
-SHA1: 5804d02e275d532a2063022658bcbb50fb06eefc
-SHA256: 5fa9d5fe74bd5afdcb29c0227d4c26b17a2162faa175dba66ca1fae93a3ecc36
+Size: 447766
+MD5sum: 350f22efad3a7fd271154783d2cb3229
+SHA1: 2fb708a38c6ed0a08b5cf7be27006aa4c3c053a9
+SHA256: aefb5bafcea5ebfc197668cea8c034e8d6b10cbdd8d86e5ed37584a766a29eeb
 Section: Tweaks
 Description: Snowboard theming engine
 Author: Spark & Dennis D. Bednarz
+Depiction: https://shiarahmed.github.io/depictions/?p=com.shiarahmed.snowboard
 Installed-Size: 964
 Name: SnowBoard
 Provides: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
@@ -525,3 +522,4 @@ Depiction: https://shiarahmed.github.io/depictions/?p=com.shiarahmed.wadarkmode
 Icon: file:///Library/Application%20Support/WADarkMode.bundle/icon@2x.png
 Name: WADarkMode
 Priority: optional
+
