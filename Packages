@@ -172,15 +172,15 @@ Icon: file:///Library/PreferenceBundles/CylinderSettings.bundle/Icon@2x.png
 Name: Cylinder
 
 Package: com.shiarahmed.dangerous
-Version: 1.2
+Version: 1.3
 Architecture: iphoneos-arm
-Maintainer: Shiar
+Maintainer: Shiar <shiyar2002@icloud.com>
 Depends: firmware (>= 7.0)
-Filename: ./debs/com.shiarahmed.dangerous_1.2_iphoneos-arm.deb
-Size: 1047522
-MD5sum: f6d014f3bdb0acc1d2216841f154cdfc
-SHA1: d7f8395817a1bbb9a4602b029f7925d205dfc654
-SHA256: 549440dcbaefa37ac041203f4bd0818754515af30412fa2def3d20fc18237de6
+Filename: ./debs/com.shiarahmed.dangerous_1.3_iphoneos-arm.deb
+Size: 1022618
+MD5sum: 06895aecf8b6636e42767082d18415b5
+SHA1: efe06538c9349c706bf3c2c30024a3e940165e17
+SHA256: 15ffb23c1f1c258d7f70ad7ae6afb0570bf71c672a0dc0ae9bf55b9ec89c63ea
 Section: Themes
 Description: New Theme. Beautiful. Creative. Enjoy it.
 Author: Shiar Ahmed <shiyar2002@icloud.com>
@@ -201,7 +201,7 @@ MD5sum: 7571fb9519e9177a9fe1b0b0c7419cd2
 SHA1: 8330bd65a927a1c37c3387ed60250f90c034d6e7
 SHA256: e9d56fe808aecef6209872a919858875f7b39a7c2b7b359fec9b58020dc6c7f5
 Section: Tweaks
-Description: Download images & videos from social apps easily! 
+Description: Download images & videos from social apps easily!
 Author: Ahmed Bafkir <prooxy0@gmail.com>
 Depiction: https://shiarahmed.github.io/depictions/?p=com.shiarahmed.dleasy
 Icon: file:///Library/PreferenceBundles/DLEasy.bundle/icon@2x.png
@@ -522,4 +522,3 @@ Depiction: https://shiarahmed.github.io/depictions/?p=com.shiarahmed.wadarkmode
 Icon: file:///Library/Application%20Support/WADarkMode.bundle/icon@2x.png
 Name: WADarkMode
 Priority: optional
-
