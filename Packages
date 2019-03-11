@@ -228,21 +228,21 @@ Priority: optional
 dev: xandesign
 
 Package: com.shiarahmed.filza
-Version: 3.6.4-2
+Version: 3.6.5-4
 Architecture: iphoneos-arm
-Maintainer: TIGI Software
+Maintainer: Shiar Ahmed <shiyar2002@icloud.com
 Depends: zip, unzip, gzip, unrar, p7zip
 Conflicts: com.tigisoftware.filza64bit
-Filename: ./debs/com.shiarahmed.filza_3.6.4-2_iphoneos-arm.deb
-Size: 12415522
-MD5sum: 537de245b32145917a53aef59e36806f
-SHA1: b04bf79c8ce101c62b77e74c5d2f2adf28b3b5bf
-SHA256: da199befb5df21c4bfb8b0c768d8dc3eedd44c9179d3043e3bdff930606b7a51
+Filename: ./debs/com.shiarahmed.filza_3.6.5-4_iphoneos-arm.deb
+Size: 12417056
+MD5sum: 6d3b0bff3bda448c85c8a988bda195ea
+SHA1: 523f772acf026cf8004ad69ab61b34a2cbaa2ab0
+SHA256: 7001077f3b9261f5dcd586a319c3d29ec763de506360791c8dc1b6fa408df5de
 Section: Utilities
 Description: File Manager for iPhone, iPad, iPod Touch. Supports iOS 7+
 Author: TIGI Software
 Depiction: https://shiarahmed.github.io/depictions/?p=com.shiarahmed.filza
-Installed-Size: 29640
+Installed-Size: 29664
 Name: Filza File Manager
 
 Package: com.shiarahmed.floatingdock
@@ -263,40 +263,42 @@ Icon: file:///Library/Application Support/FloatingDock/icon.png
 Name: FloatingDock
 
 Package: com.shiarahmed.icleanerpro
-Version: 7.7.1
+Version: 7.7.2
 Architecture: iphoneos-arm
-Maintainer: Shiar <shiyar2002@icloud.com>
+Maintainer: Shiar Ahmed <shiyar2002@icloud.com>
 Depends: firmware (>= 4.0), findutils, shell-cmds, apt | apt7
-Conflicts: org.altervista.exilecom.icleaner
-Replaces: org.altervista.exilecom.icleaner
-Filename: ./debs/com.shiarahmed.icleanerpro_7.7.1_iphoneos-arm.deb
-Size: 9875428
-MD5sum: f0fbc8a39b9b2e9eee37caac8a7a1664
-SHA1: a7bb38cfa29620a953c571d49252e8d63c1dcdff
-SHA256: 2f4a68bbad858de42b9f326429cac6fbf7e94b4aea88a8d0d6c34dada6210bb0
+Conflicts: org.shiarahmed.icleaner
+Replaces: org.shiarahmed.icleaner
+Filename: ./debs/com.shiarahmed.icleanerpro_7.7.2_iphoneos-arm.deb
+Size: 9873154
+MD5sum: 08e632156c39e47e0d53ca49ba8b9841
+SHA1: a9c691ff82fbc45df5daaefb0e9601d81d525224
+SHA256: 9bd018a0d7b84a6c8d5e67482f424e4a0573fae6a205010662efb8fb18941c7a
 Section: Utilities
 Description: The first real iOS system cleaner & optimizer
-Author: Ivano Bilenchi <support@ib-soft.net>
-Depiction: https://shiarahmed.github.io/depictions/?p= com.shiarahmed.icleanerpro
+Author: Shiar Ahmed <shiyar2002@icloud.com>
+Depiction: https://shiarahmed.github.io/depictions/?p=com.shiarahmed.icleanerpro
 Icon: file:///Applications/iCleaner.app/Icon.png
 Name: iCleaner Pro
 
 Package: com.shiarahmed.icleaner
-Version: 7.7.1
+Version: 7.7.2
 Architecture: iphoneos-arm
-Maintainer: Shiar <shiyar2002@icloud.com>
-Filename: ./debs/com.shiarahmed.icleaner_7.7.1_iphoneos-arm.deb
-Size: 9827344
-MD5sum: f9717043afbe9e6aa0a19543e68f74d4
-SHA1: f0daa65c1730817bf4fd54c1c0b6ca21ded21a1d
-SHA256: b243c2d1d2326b01fcc7f9bde1ebd87fb7b9d16f80e70f5c32361b3344cb073f
+Maintainer: Shiar Ahmed <shiyar2002@icloud.com>
+Filename: ./debs/com.shiarahmed.icleaner_7.7.2_iphoneos-arm.deb
+Size: 9823834
+MD5sum: 1c69e9285c4c4d4ad0493e626148f4d4
+SHA1: 9576c751c8b66da1d63e92215974a40edb295ed9
+SHA256: c4beec0da544b447cfbdb1e69b620bf4c98ed2f7af2f3a6ce947b2f750ed9387
 Section: Utilities
 Description: The first real iOS system cleaner & optimizer
-Author: Ivano Bilenchi <support@ib-soft.net>
+Author: Shiar Ahmed <shiyar2002@icloud.com>
 Depiction: https://shiarahmed.github.io/depictions/?p=com.shiarahmed.icleaner
 Icon: file:///Applications/iCleaner.app/Icon.png
+Installed-Size: 24617
 Name: iCleaner
 Pre-Depends: firmware (>= 4.0), apt | apt7, findutils, shell-cmds
+dev: exilecom
 
 Package: com.shiarahmed.iponcc
 Version: 1.4.3
@@ -314,22 +316,6 @@ Description: Show IP info in CC
 Author: BlanxdH <blanxd.h@gmail.com>
 Depiction: https://shiarahmed.github.io/depictions/?p=com.shiarahmed.iponcc
 Name: IPonCC
-
-Package: com.shiarahmed.libcspreferences
-Version: 1.0.6
-Architecture: iphoneos-arm
-Maintainer: Shiar <shiyar2002@icloud.com>
-Depends: mobilesubstrate, firmware (>=9.0), preferenceloader
-Filename: ./debs/com.shiarahmed.libcspreferences_1.0.6_iphoneos-arm.deb
-Size: 533904
-MD5sum: 1308ad553e42be162fe59a6de993c6ec
-SHA1: c9f7589c0b94683be1808c117d982f2036ebef8f
-SHA256: 020951706e5b4e9bf5291b2645ae3bc73cc90a49edc8fcf01ba124dffba16b45
-Section: Development
-Description: An awesome Preference Library!
-Author: CreatureSurvive <support@creaturecoding.com>
-Depiction: https://shiarahmed.github.io/depictions/?p=com.shiarahmed.libcspreferences
-Name: libCSPreferences
 
 Package: com.shiarahmed.libspring
 Version: 0.0.2
@@ -386,19 +372,21 @@ Pre-Depends: firmware (>= 11.0)
 Package: com.shiarahmed.safariplus
 Version: 1.6.7
 Architecture: iphoneos-arm
-Maintainer: Shiar <shiyar2002@icloud.com>
-Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader, ws.hbang.common, com.shiarahmed.libcolorpicker, net.limneos.libbulletin, com.rpetrich.rocketbootstrap
+Maintainer: Shiar Ahmed <shiyar2002@icloud.com>
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader, ws.hbang.common, org.thebigboss.libcolorpicker, net.limneos.libbulletin, com.rpetrich.rocketbootstrap
 Filename: ./debs/com.shiarahmed.safariplus_1.6.7_iphoneos-arm.deb
-Size: 573286
-MD5sum: 41e197664a8a263b4b9f73968ce549bc
-SHA1: 34bf2d099b8ae411ce00a53fabf83cdca5bda32e
-SHA256: bea1c3de686fdceb83e942cd86a349b40f4a8c9ffb29b59dd063e1b1db768f56
+Size: 573316
+MD5sum: 1ed84d4d03f1f297848539a1222cf3b1
+SHA1: 7d6ca510d936fcc796a8ecbe6b3a972215691b21
+SHA256: bbcd9bb500f621f8aa6e8370902604942f6b0f1ac83b40d6bf6558dccf49c72c
 Section: Tweaks
 Description: Various enhancements to Safari!
 Author: opa334 <opa334@protonmail.com>
 Depiction: https://shiarahmed.github.io/depictions/?p=com.shiarahmed.safariplus
 Icon: file:///Library/PreferenceBundles/SafariPlusPrefs.bundle/SPRootIcon@2x.png
+Installed-Size: 1621
 Name: Safari Plus
+dev: opa334
 
 Package: com.shiarahmed.shutter
 Version: 1.1
@@ -506,19 +494,21 @@ Depiction: https://shiarahmed.github.io/depictions/?p=com.shiarahmed.videohud
 Name: VideoHUD
 
 Package: com.shiarahmed.wadarkmode
-Version: 1.6.1
+Version: 2.0
 Architecture: iphoneos-arm
-Maintainer: Shiar <shiyar2002@icloud.com>
+Maintainer: Shiar Ahmed <shiyar2002@icloud.com>
 Depends: mobilesubstrate, firmware (>= 8.0)
-Filename: ./debs/com.shiarahmed.wadarkmode_1.6.1_iphoneos-arm.deb
-Size: 358374
-MD5sum: 95677d0cf38fee2125a9ed2ff1906780
-SHA1: d81ec32fac95c4c394008266c3af0cdd92cac5fa
-SHA256: 3ebbc469b865c5bcffa19eccade0c2c521a0979b2b6e73d64e944061076ed5ef
+Filename: ./debs/com.shiarahmed.wadarkmode_2.0_iphoneos-arm.deb
+Size: 1061664
+MD5sum: 3da112f6824942169793221cc3c53f65
+SHA1: 9c7bdd34b0184797177b3193bbd7c6432ea7f058
+SHA256: 0bd74399c82e64085f65ee2fa12313c55ffefbc2c9fd05ad9c3e435d86cc264b
 Section: Tweaks
 Description: Dark Mode for WhatsApp!!
 Author: Ahmed Bafkir <prooxy0@gmail.com>
 Depiction: https://shiarahmed.github.io/depictions/?p=com.shiarahmed.wadarkmode
 Icon: file:///Library/Application%20Support/WADarkMode.bundle/icon@2x.png
+Installed-Size: 2770
 Name: WADarkMode
 Priority: optional
+dev: ahmedbafkir

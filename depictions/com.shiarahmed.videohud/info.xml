@@ -12,11 +12,11 @@
 	<dependencies>
 		<package>mobilesubstrate (>= 0.9.5000)</package>
 	</dependencies>
-	<shortDescription>iOS 11 & 12 video player HUD used systemwide!</shortDescription>
+	<shortDescription>iOS 11 video player HUD used systemwide!</shortDescription>
 	<descriptionlist>
 		<description>Supports iOS 11.0 - 12.1.2</description>
-		<description>iOS 11 & 12 video player HUD used systemwide!</description>
-		<description>It enables automatically.</description>
+		<description>iOS 11 video player HUD used systemwide!</description>
+		<description>Enable it in Settings</description>
 	</descriptionlist>
 	<screenshots></screenshots>
 	<changelog>
