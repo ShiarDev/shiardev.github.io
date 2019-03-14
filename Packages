@@ -201,7 +201,7 @@ MD5sum: 7571fb9519e9177a9fe1b0b0c7419cd2
 SHA1: 8330bd65a927a1c37c3387ed60250f90c034d6e7
 SHA256: e9d56fe808aecef6209872a919858875f7b39a7c2b7b359fec9b58020dc6c7f5
 Section: Tweaks
-Description: Download images & videos from social apps easily!
+Description: Download images & videos from social apps easily! 
 Author: Ahmed Bafkir <prooxy0@gmail.com>
 Depiction: https://shiarahmed.github.io/depictions/?p=com.shiarahmed.dleasy
 Icon: file:///Library/PreferenceBundles/DLEasy.bundle/icon@2x.png
@@ -293,7 +293,7 @@ SHA256: c4beec0da544b447cfbdb1e69b620bf4c98ed2f7af2f3a6ce947b2f750ed9387
 Section: Utilities
 Description: The first real iOS system cleaner & optimizer
 Author: Shiar Ahmed <shiyar2002@icloud.com>
-Depiction: https://shiarahmed.github.io/depictions/?p=com.shiarahmed.icleaner
+Depiction: https://shiarahmed.github.io/depictions/?p=icleanerDp
 Icon: file:///Applications/iCleaner.app/Icon.png
 Installed-Size: 24617
 Name: iCleaner
@@ -316,6 +316,22 @@ Description: Show IP info in CC
 Author: BlanxdH <blanxd.h@gmail.com>
 Depiction: https://shiarahmed.github.io/depictions/?p=com.shiarahmed.iponcc
 Name: IPonCC
+
+Package: com.shiarahmed.libcspreferences
+Version: 1.0.6
+Architecture: iphoneos-arm
+Maintainer: Shiar <shiyar2002@icloud.com>
+Depends: mobilesubstrate, firmware (>=9.0), preferenceloader
+Filename: ./debs/com.shiarahmed.libcspreferences_1.0.6_iphoneos-arm.deb
+Size: 533904
+MD5sum: 1308ad553e42be162fe59a6de993c6ec
+SHA1: c9f7589c0b94683be1808c117d982f2036ebef8f
+SHA256: 020951706e5b4e9bf5291b2645ae3bc73cc90a49edc8fcf01ba124dffba16b45
+Section: Development
+Description: An awesome Preference Library!
+Author: CreatureSurvive <support@creaturecoding.com>
+Depiction: https://shiarahmed.github.io/depictions/?p=com.shiarahmed.libcspreferences
+Name: libCSPreferences
 
 Package: com.shiarahmed.libspring
 Version: 0.0.2
@@ -405,17 +421,17 @@ Depiction: https://shiarahmed.github.io/depictions/?p=com.shiarahmed.shutter
 Name: Shutter
 
 Package: com.shiarahmed.snowboard
-Version: 1.1.4
+Version: 1.1.5
 Architecture: iphoneos-arm
 Maintainer: Shiar Ahmed <shiyar2002@icloud.com>
 Depends: mobilesubstrate, jp.ashikase.techsupport, preferenceloader
 Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
 Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
-Filename: ./debs/com.shiarahmed.snowboard_1.1.4_iphoneos-arm.deb
-Size: 447766
-MD5sum: 350f22efad3a7fd271154783d2cb3229
-SHA1: 2fb708a38c6ed0a08b5cf7be27006aa4c3c053a9
-SHA256: aefb5bafcea5ebfc197668cea8c034e8d6b10cbdd8d86e5ed37584a766a29eeb
+Filename: ./debs/com.shiarahmed.snowboard_1.1.5_iphoneos-arm.deb
+Size: 447738
+MD5sum: 823cc13a741a0f097eaf842df1afe454
+SHA1: d32f1fe95c8ba8b6c15fe693d68e8ab17f589805
+SHA256: 7b09590b33aa91d7dfd2e654739dcbd362dd7d5dfd53ea30443cca829914b45b
 Section: Tweaks
 Description: Snowboard theming engine
 Author: Spark & Dennis D. Bednarz
@@ -512,3 +528,4 @@ Installed-Size: 2770
 Name: WADarkMode
 Priority: optional
 dev: ahmedbafkir
+
