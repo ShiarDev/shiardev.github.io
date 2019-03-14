@@ -1,7 +1,7 @@
 <package>
 	<id>com.shiarahmed.snowboard</id>
 	<name>SnowBoard</name>
-	<version>1.1.4</version>
+	<version>1.1.5</version>
 	<compatibility>
 		<firmware>
 			<maxiOS>12.1.2</maxiOS>
@@ -20,7 +20,7 @@
 	</descriptionlist>
 	<screenshots></screenshots>
 	<changelog>
-		<change>Initial release</change>
+		<change>Fix issue which can cause respring loop and reboot on jailbreak</change>
 	</changelog>
 	<links></links>
 </package>
