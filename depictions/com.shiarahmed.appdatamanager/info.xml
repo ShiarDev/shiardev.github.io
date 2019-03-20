@@ -1,7 +1,7 @@
 <package>
 	<id>com.shiarahmed.appdatamanager</id>
 	<name>Apps Manager</name>
-	<version>1.4.2</version>
+	<version>1.5.0-12</version>
 	<compatibility>
 		<firmware>
 			<miniOS>7.0</miniOS>

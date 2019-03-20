@@ -1,3 +1,22 @@
+Package: com.shiarahmed.aerify
+Version: 1.0.6
+Architecture: iphoneos-arm
+Maintainer: Shiar Ahmed <shiyar2002@icloud.com>
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 8.0), preferenceloader, ws.hbang.common (>= 1.2), org.thebigboss.libcolorpicker
+Filename: ./debs/com.shiarahmed.aerify_1.0.6_iphoneos-arm.deb
+Size: 197346
+MD5sum: d15e69217d43180ad4b12f7e4256cbce
+SHA1: 5e05506956eb9e26fdb3e18bcb10e2d6441374fa
+SHA256: 1a716eeea6bd7b6c913d36a0c6e6dd08a5df240ed0f036c6983f36ed16f31a8c
+Section: Tweaks
+Description: I'm sexy and I know it...
+Author: LonestarX <me@lonestarx.net>
+Depiction: https://shiarahmed.github.io/depictions/?p=com.shiarahmed.aerify
+Icon: file:///Library/PreferenceBundles/Aerify.bundle/aerify@2x.png
+Installed-Size: 485
+Name: Aerify
+dev: lonestarx
+
 Package: com.shiarahmed.aklocationx
 Version: 1.1.2-2
 Architecture: iphoneos-arm
@@ -14,6 +33,23 @@ Author: AlickHill <AlickHill@gmail.com>
 Depiction: https://shiarahmed.github.io/depictions/?p=com.shiarahmed.aklocationx
 Icon: file:///Library/PreferenceBundles/aklocationXsetting.bundle/Icon@2x.png
 Name: akLocationX
+
+Package: com.shiarahmed.amber
+Version: 0.0.2.10
+Architecture: iphoneos-arm
+Maintainer: Shiar Ahmed <shiyar2002@icloud.com>
+Depends: mobilesubstrate, firmware (>= 7.0), gsc.camera-flash, com.a3tweaks.flipswitch, firmware (<< 11.0) | com.opa334.ccsupport
+Filename: ./debs/com.shiarahmed.amber_0.0.2.10_iphoneos-arm.deb
+Size: 26796
+MD5sum: a06030fd215b92870633cce92479b42d
+SHA1: 1334c3c450a5d6c571484af5fbf667f0b4b27106
+SHA256: 66de34ff41e5ec23e1cc0f75900539dfec120841dc2e4dff8f115eaf727f4fa0
+Section: Tweaks
+Description: Amber-ify your LED torch.
+Author: PoomSmart
+Depiction: https://shiarahmed.github.io/depictions/?p=com.shiarahmed.amber
+Installed-Size: 248
+Name: Amber
 
 Package: com.shiarahmed.appcon
 Version: 1.4.4
@@ -33,39 +69,39 @@ Icon: file:///Library/PreferenceBundles/appconprefs.bundle/appcon@2x.png
 Name: Appcon
 
 Package: com.shiarahmed.appdatamanager
-Version: 1.4.2
+Version: 1.5.0-12
 Architecture: iphoneos-arm
-Maintainer: Shiar <shiyar2002@icloud.com>
-Depends: firmware (>= 7.0)
-Filename: ./debs/com.shiarahmed.appdatamanager_1.4.2_iphoneos-arm.deb
-Size: 3690366
-MD5sum: 9b1e4b3a15a8ff9deec4982c13ced3e5
-SHA1: 2d63355eac97e3d1741a250d8b75f61983d561e4
-SHA256: d051f840faaf44e31c58cec7c5ce5e523c33d3a6eedd3fa1bcbfb4bf44d6f8a1
+Maintainer: Shiar Ahmed <shiyar2002@icloud.com>
+Filename: ./debs/com.shiarahmed.appdatamanager_1.5.0-12_iphoneos-arm.deb
+Size: 3645726
+MD5sum: f1a520f68bce18d12a805ce139d1eee7
+SHA1: ab89ac93b8e1745799d4b3ebf2e4d58db462a615
+SHA256: 3859f94a972fd9fec86edd8f927dacce8b98450cc9654a5d0052eb4213b0c088
 Section: Utilities
-Description: tool to WIPE, BACKUP, RESTORE AppData for installed Apps
-Author: TIGI Software <satashi2009@gmail.com>
+Description: This tool provides the way to WIPE, BACKUP, RESTORE AppData for installed Apps
+Author: TIGI Software
 Depiction: https://shiarahmed.github.io/depictions/?p=com.shiarahmed.appdatamanager
-Icon: file:///Applications/ADManager.app/AppIcon60x60@2x.png
+Installed-Size: 8928
 Name: Apps Manager
-Priority: optional
 
 Package: com.shiarahmed.arkhamtheme
-Version: 3.0
+Version: 4.0
 Architecture: iphoneos-arm
-Maintainer: Shiar <shiyar2002@icloud.com>
+Maintainer: Shiar Ahmed <shiyar2002@icloud.com>
 Depends: firmware (>= 10.0)
-Filename: ./debs/com.shiarahmed.arkhamtheme_3.0_iphoneos-arm.deb
-Size: 939782
-MD5sum: d647156721a54d91697c14cd08f99ccb
-SHA1: 79c1900c8997b3be7c073ba7c6731d8eafe9802a
-SHA256: 84d2db0faa1412eca00702f560faaf16f4235a9704eae75797fb4c32e102ad87
+Filename: ./debs/com.shiarahmed.arkhamtheme_4.0_iphoneos-arm.deb
+Size: 972978
+MD5sum: 07d721a5a4c89136fec157ea868afdd7
+SHA1: 3c3a92fc27688fd6fd297b506aef50599749bbe6
+SHA256: fa019672ed7c7a943f8daffd9e591df41c4eb560dddd6c45cfd3f4f56d11f3ba
 Section: Themes
 Description: modern theme inspired by the Gotham Glyphs Theme.
 Author: Jenny Vanille <jonasneumann45@icloud.com>
 Depiction: https://shiarahmed.github.io/depictions/?p=com.shiarahmed.arkhamtheme
+Installed-Size: 1612
 Name: Arkham
 Priority: optional
+dev: jonasneumann45
 
 Package: com.shiarahmed.badgemenot
 Version: 1.0
@@ -191,22 +227,24 @@ Priority: optional
 dev: Shiar
 
 Package: com.shiarahmed.dleasy
-Version: 1.4.3
+Version: 1.5
 Architecture: iphoneos-arm
-Maintainer: Shiar <shiyar2002@icloud.com>
+Maintainer: Shiar Ahmed <shiyar2002@icloud.com>
 Depends: mobilesubstrate, firmware (>= 7.0), preferenceloader
-Filename: ./debs/com.shiarahmed.dleasy_1.4.3_iphoneos-arm.deb
-Size: 1231810
-MD5sum: 7571fb9519e9177a9fe1b0b0c7419cd2
-SHA1: 8330bd65a927a1c37c3387ed60250f90c034d6e7
-SHA256: e9d56fe808aecef6209872a919858875f7b39a7c2b7b359fec9b58020dc6c7f5
+Filename: ./debs/com.shiarahmed.dleasy_1.5_iphoneos-arm.deb
+Size: 1174040
+MD5sum: 03217e57416937b7b2860ba65264491c
+SHA1: 5cbf3938ede3821539836f2a82310435b439c2bb
+SHA256: 0306da21b93dab094e651a63342249d604973c8b884988060e01e32d22a627fa
 Section: Tweaks
-Description: Download images & videos from social apps easily! 
+Description: Download images & videos from social apps easily!
 Author: Ahmed Bafkir <prooxy0@gmail.com>
 Depiction: https://shiarahmed.github.io/depictions/?p=com.shiarahmed.dleasy
 Icon: file:///Library/PreferenceBundles/DLEasy.bundle/icon@2x.png
+Installed-Size: 3412
 Name: DLEasy
 Priority: optional
+dev: ahmedbafkir
 
 Package: com.shiarahmed.felicity
 Version: 3.3
@@ -228,21 +266,20 @@ Priority: optional
 dev: xandesign
 
 Package: com.shiarahmed.filza
-Version: 3.6.5-4
+Version: 3.6.5-12
 Architecture: iphoneos-arm
-Maintainer: Shiar Ahmed <shiyar2002@icloud.com
+Maintainer: Shiar Ahmed <shiyar2002@icloud.com>
 Depends: zip, unzip, gzip, unrar, p7zip
 Conflicts: com.tigisoftware.filza64bit
-Filename: ./debs/com.shiarahmed.filza_3.6.5-4_iphoneos-arm.deb
-Size: 12417056
-MD5sum: 6d3b0bff3bda448c85c8a988bda195ea
-SHA1: 523f772acf026cf8004ad69ab61b34a2cbaa2ab0
-SHA256: 7001077f3b9261f5dcd586a319c3d29ec763de506360791c8dc1b6fa408df5de
+Filename: ./debs/com.shiarahmed.filza_3.6.5-12_iphoneos-arm.deb
+Size: 12428488
+MD5sum: 0d93cb5f7642c42c7378f092d54ef778
+SHA1: cc64b41e6b1c85626426ca36197afc82f56aa15d
+SHA256: 4394c25c9872a8655ecf6ed3890e22abfd7b179d048d8a18a1a29c8730712907
 Section: Utilities
 Description: File Manager for iPhone, iPad, iPod Touch. Supports iOS 7+
 Author: TIGI Software
-Depiction: https://shiarahmed.github.io/depictions/?p=com.shiarahmed.filza
-Installed-Size: 29664
+Installed-Size: 29684
 Name: Filza File Manager
 
 Package: com.shiarahmed.floatingdock
@@ -267,16 +304,16 @@ Version: 7.7.2
 Architecture: iphoneos-arm
 Maintainer: Shiar Ahmed <shiyar2002@icloud.com>
 Depends: firmware (>= 4.0), findutils, shell-cmds, apt | apt7
-Conflicts: org.shiarahmed.icleaner
-Replaces: org.shiarahmed.icleaner
+Conflicts: org.altervista.exilecom.icleaner, com.shiarahmed.icleaner
+Replaces: org.altervista.exilecom.icleaner, com.shiarahmed.icleaner
 Filename: ./debs/com.shiarahmed.icleanerpro_7.7.2_iphoneos-arm.deb
-Size: 9873154
-MD5sum: 08e632156c39e47e0d53ca49ba8b9841
-SHA1: a9c691ff82fbc45df5daaefb0e9601d81d525224
-SHA256: 9bd018a0d7b84a6c8d5e67482f424e4a0573fae6a205010662efb8fb18941c7a
+Size: 9873210
+MD5sum: b4d8a02a52f23b8a2552e08c4ddfc5cf
+SHA1: 3f8725ad913ed9b0b1292fd67d75b5825b69c28d
+SHA256: 599d15898e46204294faf0ac1d09d7574ced59f0ac0906febef456e3f8349692
 Section: Utilities
 Description: The first real iOS system cleaner & optimizer
-Author: Shiar Ahmed <shiyar2002@icloud.com>
+Author: Ivano Bilenchi <support@ib-soft.net>
 Depiction: https://shiarahmed.github.io/depictions/?p=com.shiarahmed.icleanerpro
 Icon: file:///Applications/iCleaner.app/Icon.png
 Name: iCleaner Pro
@@ -286,14 +323,14 @@ Version: 7.7.2
 Architecture: iphoneos-arm
 Maintainer: Shiar Ahmed <shiyar2002@icloud.com>
 Filename: ./debs/com.shiarahmed.icleaner_7.7.2_iphoneos-arm.deb
-Size: 9823834
-MD5sum: 1c69e9285c4c4d4ad0493e626148f4d4
-SHA1: 9576c751c8b66da1d63e92215974a40edb295ed9
-SHA256: c4beec0da544b447cfbdb1e69b620bf4c98ed2f7af2f3a6ce947b2f750ed9387
+Size: 9823842
+MD5sum: 80a95b7058893c21947a2e635b7d744b
+SHA1: a009e8825ee4f0afed815f3466a11c7419b3df15
+SHA256: 359a888ed3ce6942b12c80b36861e9edbb0ec55b79705df09c9bd9a6ea262ebe
 Section: Utilities
 Description: The first real iOS system cleaner & optimizer
-Author: Shiar Ahmed <shiyar2002@icloud.com>
-Depiction: https://shiarahmed.github.io/depictions/?p=icleanerDp
+Author: Ivano Bilenchi <support@ib-soft.net>
+Depiction: https://shiarahmed.github.io/depictions/?p=com.shiarahmed.icleaner
 Icon: file:///Applications/iCleaner.app/Icon.png
 Installed-Size: 24617
 Name: iCleaner
@@ -364,26 +401,6 @@ Description: Always show notification history on lock screen
 Author: KingPuffdaddi <kingpuffdaddi@icloud.com>
 Depiction: https://shiarahmed.github.io/depictions/?p=com.shiarahmed.notif
 Name: Notif
-
-Package: com.shiarahmed.powerselector11
-Version: 1.1-7
-Architecture: iphoneos-arm
-Maintainer: Shiar <shiyar2002@icloud.com>
-Depends: mobilesubstrate, preferenceloader
-Conflicts: com.ichitaso.powerselector, com.dpkgdan.powertap, com.weesstt.powerdownoptions, com.subdiox.powertap2, com.rustybalboa.powertapxi
-Replaces: com.ichitaso.powerselector11
-Filename: ./debs/com.shiarahmed.powerselector11_1.1-7_iphoneos-arm.deb
-Size: 267692
-MD5sum: cddba99a6bb0bcc053f10e1a9b0fa266
-SHA1: 3fe38b77f1fc932977796fa6ad697ce626046e59
-SHA256: c139dad91be2d139060a990be2011dd25f5c2d80351ac72ee159eaf7dc8e9c05
-Section: Tweaks
-Description: The power supply relation of a device is operated.
-Author: ichitaso <willfeeltips@gmail.com>
-Depiction: https://shiarahmed.github.io/depictions/?p=com.shiarahmed.powerselector11
-Icon: file:///Library/PreferenceBundles/PowerSelectorSettings.bundle/icon@2x.png
-Name: PowerSelector (iOS 11 & 12)
-Pre-Depends: firmware (>= 11.0)
 
 Package: com.shiarahmed.safariplus
 Version: 1.6.7
@@ -528,4 +545,3 @@ Installed-Size: 2770
 Name: WADarkMode
 Priority: optional
 dev: ahmedbafkir
-

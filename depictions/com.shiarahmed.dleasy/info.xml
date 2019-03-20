@@ -1,0 +1,27 @@
+<package>
+	<id>com.shiarahmed.dleasy</id>
+	<name>DLEasy</name>
+	<version>1.5</version>
+	<compatibility>
+		<firmware>
+			<miniOS>7.0</miniOS>
+			<maxiOS>12.1.2</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate (>= 0.9.5000)</package>
+		<package>preferenceloader</package>
+	</dependencies>
+	<shortDescription>Location changer</shortDescription>
+	<descriptionlist>
+		<description>Supports iOS 7.0 - 12.1.2</description>
+		<description>Download images & videos from social apps easily!</description>
+		<description>Open DLEasy settings in Settings and enable apps to download</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
