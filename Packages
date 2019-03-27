@@ -213,10 +213,10 @@ Architecture: iphoneos-arm
 Maintainer: Shiar Ahmed <shiyar2002@icloud.com>
 Depends: firmware (>= 7.0)
 Filename: ./debs/com.shiarahmed.dangerous_2.0_iphoneos-arm.deb
-Size: 1139026
-MD5sum: 350d4e635070cdeb4dcf6f45f46a71db
-SHA1: dbd646f61b10591fc9ef97f9574c73ef0bb476fd
-SHA256: 38d93046a7283f542bdb20e8b43fd2674eb55afc3f879abb5bd58843dab33e4b
+Size: 1138608
+MD5sum: 54aa5c2c368653e3614f9293ffe920f7
+SHA1: 17afb5ca60966a8679c253ee9aa62f8180946f60
+SHA256: 030a9f9234993dec5699aacf1a7ded85b1ac019ffb524c11edae4156eb3adccf
 Section: Themes
 Description: New Theme. Beautiful. Creative. Enjoy it.
 Author: Shiar Ahmed <shiyar2002@icloud.com>
