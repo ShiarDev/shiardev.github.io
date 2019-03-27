@@ -208,15 +208,15 @@ Icon: file:///Library/PreferenceBundles/CylinderSettings.bundle/Icon@2x.png
 Name: Cylinder
 
 Package: com.shiarahmed.dangerous
-Version: 1.3
+Version: 2.0
 Architecture: iphoneos-arm
-Maintainer: Shiar <shiyar2002@icloud.com>
+Maintainer: Shiar Ahmed <shiyar2002@icloud.com>
 Depends: firmware (>= 7.0)
-Filename: ./debs/com.shiarahmed.dangerous_1.3_iphoneos-arm.deb
-Size: 1022618
-MD5sum: 06895aecf8b6636e42767082d18415b5
-SHA1: efe06538c9349c706bf3c2c30024a3e940165e17
-SHA256: 15ffb23c1f1c258d7f70ad7ae6afb0570bf71c672a0dc0ae9bf55b9ec89c63ea
+Filename: ./debs/com.shiarahmed.dangerous_2.0_iphoneos-arm.deb
+Size: 1139026
+MD5sum: 350d4e635070cdeb4dcf6f45f46a71db
+SHA1: dbd646f61b10591fc9ef97f9574c73ef0bb476fd
+SHA256: 38d93046a7283f542bdb20e8b43fd2674eb55afc3f879abb5bd58843dab33e4b
 Section: Themes
 Description: New Theme. Beautiful. Creative. Enjoy it.
 Author: Shiar Ahmed <shiyar2002@icloud.com>
@@ -237,7 +237,7 @@ MD5sum: 03217e57416937b7b2860ba65264491c
 SHA1: 5cbf3938ede3821539836f2a82310435b439c2bb
 SHA256: 0306da21b93dab094e651a63342249d604973c8b884988060e01e32d22a627fa
 Section: Tweaks
-Description: Download images & videos from social apps easily!
+Description: Download images & videos from social apps easily! 
 Author: Ahmed Bafkir <prooxy0@gmail.com>
 Depiction: https://shiarahmed.github.io/depictions/?p=com.shiarahmed.dleasy
 Icon: file:///Library/PreferenceBundles/DLEasy.bundle/icon@2x.png
@@ -330,7 +330,7 @@ SHA256: 359a888ed3ce6942b12c80b36861e9edbb0ec55b79705df09c9bd9a6ea262ebe
 Section: Utilities
 Description: The first real iOS system cleaner & optimizer
 Author: Ivano Bilenchi <support@ib-soft.net>
-Depiction: https://shiarahmed.github.io/depictions/?p=com.shiarahmed.icleaner
+Depiction: https://shiarahmed.github.io/depictions/?p=icleanerDp
 Icon: file:///Applications/iCleaner.app/Icon.png
 Installed-Size: 24617
 Name: iCleaner
@@ -545,3 +545,4 @@ Installed-Size: 2770
 Name: WADarkMode
 Priority: optional
 dev: ahmedbafkir
+
