@@ -1,5 +1,10 @@
 <changelog>
 	<changes>
+		<version>2.0</version>
+		<change>Fixed icons</change>
+		<change>New icons</change>
+		<change>Supported new apps</change>
+	</changes>
 		<version>1.3</version>
 		<change>Fixed bugs</change>
 		<change>Changed some icons</change>
