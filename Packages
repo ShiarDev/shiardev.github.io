@@ -208,15 +208,15 @@ Icon: file:///Library/PreferenceBundles/CylinderSettings.bundle/Icon@2x.png
 Name: Cylinder
 
 Package: com.shiarahmed.dangerous
-Version: 2.0
+Version: 2.1
 Architecture: iphoneos-arm
 Maintainer: Shiar Ahmed <shiyar2002@icloud.com>
 Depends: firmware (>= 7.0)
-Filename: ./debs/com.shiarahmed.dangerous_2.0_iphoneos-arm.deb
-Size: 1138608
-MD5sum: 54aa5c2c368653e3614f9293ffe920f7
-SHA1: 17afb5ca60966a8679c253ee9aa62f8180946f60
-SHA256: 030a9f9234993dec5699aacf1a7ded85b1ac019ffb524c11edae4156eb3adccf
+Filename: ./debs/com.shiarahmed.dangerous_2.1_iphoneos-arm.deb
+Size: 1141888
+MD5sum: 47ac6cbadeff9d9c94ec43b0ffae53b3
+SHA1: 333e79f180012716e3641afa91e0946f784bd064
+SHA256: ea7cf87531fa5699f487efd0a333f948619bc53fad63f164ed948f3466fd602b
 Section: Themes
 Description: New Theme. Beautiful. Creative. Enjoy it.
 Author: Shiar Ahmed <shiyar2002@icloud.com>

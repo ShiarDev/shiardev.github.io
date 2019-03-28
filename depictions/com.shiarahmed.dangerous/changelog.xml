@@ -1,5 +1,11 @@
 <changelog>
 	<changes>
+		<version>2.1</version>
+		<change>Fixed Calendar icon</change>
+		<change>Fixed News icon</change>
+		<change>Supported apps icons in Settings</change>
+	</changes>
+	<changes>
 		<version>2.0</version>
 		<change>Fixed icons</change>
 		<change>New icons</change>
