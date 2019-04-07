@@ -84,6 +84,22 @@ Depiction: https://shiarahmed.github.io/depictions/?p=com.shiarahmed.appdatamana
 Installed-Size: 8928
 Name: Apps Manager
 
+Package: com.shiarahmed.appscracker
+Version: 0.6
+Architecture: iphoneos-arm
+Maintainer: Shiar Ahmed <shiyar2002@icloud.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.shiarahmed.appscracker_0.6.deb
+Size: 239142
+MD5sum: f82f9ff00063e1bdd350816306fa7d54
+SHA1: 2df895d5b48fef43be1529b1cb6e10eb7a83135d
+SHA256: 9992c4facee939adbac4dd619fb8c046d8192c7a3dd189d2ec9b668f4f9f1c88
+Section: Tweaks
+Author: Ahmed Salah
+Depiction: https://shiarahmed.github.io/depictions/?p=com.shiarahmed.appscracker
+Installed-Size: 556
+Name: AppsCracker
+
 Package: com.shiarahmed.arkhamtheme
 Version: 4.0
 Architecture: iphoneos-arm
@@ -266,38 +282,42 @@ Priority: optional
 dev: xandesign
 
 Package: com.shiarahmed.filza
-Version: 3.6.5-12
+Version: 3.7.0-18
 Architecture: iphoneos-arm
 Maintainer: Shiar Ahmed <shiyar2002@icloud.com>
 Depends: zip, unzip, gzip, unrar, p7zip
 Conflicts: com.tigisoftware.filza64bit
-Filename: ./debs/com.shiarahmed.filza_3.6.5-12_iphoneos-arm.deb
-Size: 12428488
-MD5sum: 0d93cb5f7642c42c7378f092d54ef778
-SHA1: cc64b41e6b1c85626426ca36197afc82f56aa15d
-SHA256: 4394c25c9872a8655ecf6ed3890e22abfd7b179d048d8a18a1a29c8730712907
+Filename: ./debs/com.shiarahmed.filza_3.7.0-18_iphoneos-arm.deb
+Size: 12422852
+MD5sum: 021122f00c0f00b046dc5d5985ad3ed2
+SHA1: cf71a59a12aec0ba4e75a6eb16172be71f1b9c82
+SHA256: 13ac868c784ab09f9ac9bc51493e6c97b6782dab2d04ab34d554bfaf3dad5c84
 Section: Utilities
 Description: File Manager for iPhone, iPad, iPod Touch. Supports iOS 7+
 Author: TIGI Software
-Installed-Size: 29684
+Depiction: https://shiarahmed.github.io/depictions/?p=com.shiarahmed.filza
+Installed-Size: 29668
 Name: Filza File Manager
 
 Package: com.shiarahmed.floatingdock
-Version: 1.5.1
+Version: 1.5
 Architecture: iphoneos-arm
-Maintainer: Shiar <shiyar2002@icloud.com>
-Depends: mobilesubstrate, org.thebigboss.libcolorpicker
-Filename: ./debs/com.shiarahmed.floatingdock_1.5.1_iphoneos-arm.deb
-Size: 44984
-MD5sum: e362ac4201f5adebddf3f31d9ef3e3eb
-SHA1: 7d91893c1debeaba609e3249b948e42d20212ade
-SHA256: d4dd98921115680656d5269e81d3ef5aa3f41f54e98bf7dfb84d22272a2df01c
+Maintainer: Shiar Ahmed <shiyar2002@icloud.com>
+Depends: firmware(>= 11.0), mobilesubstrate, preferenceloader, org.thebigboss.libcolorpicker
+Filename: ./debs/com.shiarahmed.floatingdock_1.5_iphoneos-arm.deb
+Size: 45222
+MD5sum: a411901dd8e83d2e8d04e6f292e57b9d
+SHA1: 7d23dfebd1a2038c95f897718c48eab80d1dff8b
+SHA256: a3e4407b4ed54fb89303017b59889fa9bf863634e722a7e6ecd81b40b1ff2e9b
 Section: Tweaks
 Description: iPad like dock for iPhone!
-Author: Kiran Patil
+Author: Kiran Patil <patilkiran08@gmail.com>
 Depiction: https://shiarahmed.github.io/depictions/?p=com.shiarahmed.floatingdock
-Icon: file:///Library/Application Support/FloatingDock/icon.png
+Icon: file:///Library/Application%20Support/FloatingDock/icon.png
+Installed-Size: 269
 Name: FloatingDock
+Priority: optional
+dev: imkpatil
 
 Package: com.shiarahmed.icleanerpro
 Version: 7.7.2
@@ -338,21 +358,23 @@ Pre-Depends: firmware (>= 4.0), apt | apt7, findutils, shell-cmds
 dev: exilecom
 
 Package: com.shiarahmed.iponcc
-Version: 1.4.3
+Version: 1.4.4
 Architecture: iphoneos-arm
-Maintainer: Shiar <shiyar2002@icloud.com>
+Maintainer: Shiar Ahmed <shiyar2002@icloud.com>
 Depends: cy+cpu.arm64, firmware (>= 11), mobilesubstrate, com.opa334.ccsupport
 Conflicts: ee.mait.iponcc
-Filename: ./debs/com.shiarahmed.iponcc_1.4.3_iphoneos-arm.deb
-Size: 21600
-MD5sum: 98f86dbdd561151d64bd34a4bdf4dac9
-SHA1: c67205aa9e3e52464051ec63890e2a9f3a5460a0
-SHA256: d374a9718c537e7152104a0ad60aae8507618c7f4dd6c55858fc626bdff3900b
+Filename: ./debs/com.shiarahmed.iponcc_1.4.4_iphoneos-arm.deb
+Size: 37602
+MD5sum: 8b33dc609416b69a7fc1288f58498e6b
+SHA1: 2ada3f0b167ab88bbe55b89b4f28848364904584
+SHA256: 88b5759dea3a224721f30c365a44bb0b0ec3c25608367509ecf56e524548faf9
 Section: Addons
 Description: Show IP info in CC
 Author: BlanxdH <blanxd.h@gmail.com>
 Depiction: https://shiarahmed.github.io/depictions/?p=com.shiarahmed.iponcc
+Installed-Size: 304
 Name: IPonCC
+dev: blanxd
 
 Package: com.shiarahmed.libcspreferences
 Version: 1.0.6
@@ -438,22 +460,22 @@ Depiction: https://shiarahmed.github.io/depictions/?p=com.shiarahmed.shutter
 Name: Shutter
 
 Package: com.shiarahmed.snowboard
-Version: 1.1.5
+Version: 1.1.6
 Architecture: iphoneos-arm
 Maintainer: Shiar Ahmed <shiyar2002@icloud.com>
 Depends: mobilesubstrate, jp.ashikase.techsupport, preferenceloader
 Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
 Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
-Filename: ./debs/com.shiarahmed.snowboard_1.1.5_iphoneos-arm.deb
-Size: 447738
-MD5sum: 823cc13a741a0f097eaf842df1afe454
-SHA1: d32f1fe95c8ba8b6c15fe693d68e8ab17f589805
-SHA256: 7b09590b33aa91d7dfd2e654739dcbd362dd7d5dfd53ea30443cca829914b45b
+Filename: ./debs/com.shiarahmed.snowboard_1.1.6_iphoneos-arm.deb
+Size: 671746
+MD5sum: 394916bdb932f2cd579d8e225c9482ae
+SHA1: 0e941971638f482eebf25d323088f97666cd4879
+SHA256: 6bc1eac55ac448993bcaa1b28260a50cd2cb21efb01ade05d599feef6dddc1be
 Section: Tweaks
 Description: Snowboard theming engine
 Author: Spark & Dennis D. Bednarz
 Depiction: https://shiarahmed.github.io/depictions/?p=com.shiarahmed.snowboard
-Installed-Size: 964
+Installed-Size: 1636
 Name: SnowBoard
 Provides: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
 
@@ -475,20 +497,20 @@ Depiction: https://shiarahmed.github.io/depictions/?p=com.shiarahmed.springplus
 Name: SpringPlus
 
 Package: com.shiarahmed.storefeatures
-Version: 1.1
+Version: 1.2
 Architecture: iphoneos-arm
 Maintainer: Shiar Ahmed <shiyar2002@icloud.com>
 Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), preferenceloader, ws.hbang.common
-Filename: ./debs/com.shiarahmed.storefeatures_1.1_iphoneos-arm.deb
-Size: 53174
-MD5sum: 0bc33aba1434724cdb55864702038cee
-SHA1: ef27668ac5d898a9cd2de7f0d0840718ce6a5357
-SHA256: f61a2652944f93d1ac6aa5e7cf763a74fcdb8fbb7374fb15ce6708f8ecc7bb3a
+Filename: ./debs/com.shiarahmed.storefeatures_1.2_iphoneos-arm.deb
+Size: 54118
+MD5sum: afe4dca94a2fa9c2ecd5444f8a1bda63
+SHA1: 0aab8bb72f1e52365616ac05ed891f5b7ef13069
+SHA256: 151c4668fafd962e9643f9d7b2615fd0df8c6b82610e88efb795160532318b28
 Section: Tweaks
 Description: Add More Features to Cydia
 Author: aJBboCydia <aJBboCydia@gmail.com>
-Depiction: https://shiarahmed.github.io/depictions/?p=com.shiarahmed.storefeatures
-Installed-Size: 476
+Depiction: https://shiarahmed.github.io/depiction/?p=com.shiarahmed.storefeatures
+Installed-Size: 478
 Name: Store Features
 dev: ajbbocydia
 

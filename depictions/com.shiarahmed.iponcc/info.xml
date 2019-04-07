@@ -1,7 +1,7 @@
 <package>
 	<id>com.shiarahmed.iponcc</id>
-	<name>akLocationX</name>
-	<version>1.4.3</version>
+	<name>IPonCC</name>
+	<version>1.4.4</version>
 	<compatibility>
 		<firmware>
 			<miniOS>11.0</miniOS>

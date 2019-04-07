@@ -1,19 +1,21 @@
 <package>
 	<id>com.shiarahmed.floatingdock</id>
 	<name>FloatingDock</name>
-	<version>1.5.1</version>
+	<version>1.5</version>
 	<compatibility>
 		<firmware>
+			<miniOS>11.0</miniOS>
 			<maxiOS>12.1.2</maxiOS>
 		</firmware>
 	</compatibility>
 	<dependencies>
 		<package>mobilesubstrate</package>
+		<package>preferenceloader</package>
 		<package>org.thebigboss.libcolorpicker</package>
 	</dependencies>
-	<shortDescription>This tweak makes ControlCenter cool!</shortDescription>
+	<shortDescription>iPad like dock for iPhone!</shortDescription>
 	<descriptionlist>
-		<description>Supports up to iOS 12.1.2</description>
+		<description>Supports iOS 11.0 - 12.1.2</description>
 		<description>iPad like dock for iPhone!</description>
 		<description>Change FloatingDock settings in settings</description>
 	</descriptionlist>

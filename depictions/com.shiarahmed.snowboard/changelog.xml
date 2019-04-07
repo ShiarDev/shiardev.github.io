@@ -1,13 +1,6 @@
 <changelog>
 	<changes>
-		<version>1.1.5</version>
-		<change>Fix issue which can cause respring loop and reboot on jailbreak</change>
-	</changes>
-	<changes>
-		<version>1.1.4</version>
-		<change>Full iOS 12 support</change>
-		<change>Added option to hide label dots</change>
-		<change>Further preparation for SnowBoard extensions</change>
-		<change>Various bug fixes</change>
+		<version>1.1.6</version>
+		<change>Initial release</change>
 	</changes>
 </changelog>
