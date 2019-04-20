@@ -35,20 +35,20 @@ Icon: file:///Library/PreferenceBundles/aklocationXsetting.bundle/Icon@2x.png
 Name: akLocationX
 
 Package: com.shiarahmed.amber
-Version: 0.0.2.10
+Version: 0.0.3
 Architecture: iphoneos-arm
 Maintainer: Shiar Ahmed <shiyar2002@icloud.com>
 Depends: mobilesubstrate, firmware (>= 7.0), gsc.camera-flash, com.a3tweaks.flipswitch, firmware (<< 11.0) | com.opa334.ccsupport
-Filename: ./debs/com.shiarahmed.amber_0.0.2.10_iphoneos-arm.deb
-Size: 26796
-MD5sum: a06030fd215b92870633cce92479b42d
-SHA1: 1334c3c450a5d6c571484af5fbf667f0b4b27106
-SHA256: 66de34ff41e5ec23e1cc0f75900539dfec120841dc2e4dff8f115eaf727f4fa0
+Filename: ./debs/com.shiarahmed.amber_0.0.3_iphoneos-arm.deb
+Size: 33644
+MD5sum: 8493edb1b1251d59bf5137a75eee2e33
+SHA1: d50f8d4ba228f02d6528c8fac2c68a18001a1ccb
+SHA256: 50d349132fbf80671e89b70550d55c1b7f908171e10de50b61614a7d22c2e89b
 Section: Tweaks
 Description: Amber-ify your LED torch.
 Author: PoomSmart
 Depiction: https://shiarahmed.github.io/depictions/?p=com.shiarahmed.amber
-Installed-Size: 248
+Installed-Size: 376
 Name: Amber
 
 Package: com.shiarahmed.appcon
