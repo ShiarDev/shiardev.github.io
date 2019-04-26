@@ -376,22 +376,6 @@ Installed-Size: 304
 Name: IPonCC
 dev: blanxd
 
-Package: com.shiarahmed.letmeblock
-Version: 0.0.6.4
-Architecture: iphoneos-arm
-Maintainer: Shiar Ahmed <shiyar2002@icloud.com>
-Depends: mobilesubstrate, firmware (>= 9.0)
-Filename: ./debs/com.shiarahmed.letmeblock_0.0.6.4_iphoneos-arm.deb
-Size: 10270
-SHA256: 7b802db98982d5dfae7615df36180b84350a55f8726ee407cc0a2302a2d45a4e
-Section: Tweaks
-Description: Make mDNSResponder care more about /etc/hosts
-Author: Shiar Ahmed <shiyar2002@icloud.com>
-Depiction: https://shiarahmed.github.io/depictions/?p=com.shiarahmed.aerify
-Installed-Size: 200
-Name: LetMeBlock
-SileoDepiction: https://shiarahmed.github.io/sileodepictions/?p=com.shiarahmed.aerify
-
 Package: com.shiarahmed.libcspreferences
 Version: 1.0.6
 Architecture: iphoneos-arm
