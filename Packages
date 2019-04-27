@@ -12,6 +12,7 @@ Section: Tweaks
 Description: I'm sexy and I know it...
 Author: LonestarX <me@lonestarx.net>
 Depiction: https://shiarahmed.github.io/depictions/?p=com.shiarahmed.aerify
+SileoDepiction: https://shiarahmed.github.io/sileodepictions/?p=com.shiarahmed.aerify
 Icon: file:///Library/PreferenceBundles/Aerify.bundle/aerify@2x.png
 Installed-Size: 485
 Name: Aerify
