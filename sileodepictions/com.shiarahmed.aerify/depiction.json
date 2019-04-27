@@ -8,12 +8,8 @@
 			"views": [
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "Aerify, I'm sexy and I know it
-					
-					A sexy highly customisable system wide volume HUD tweak for iOS 8 up to iOS 12 and with iPhone X support.
-					Pick colors, animations, positions show speed hide speed, you name it, it got it. Get it while it's hot!
-
-				 Configure options from Settings"
+					"markdown": "Aerify, I'm sexy and I know it. A sexy highly customisable system wide volume HUD tweak for iOS 8 up to iOS 12 and with iPhone X support.	Pick colors, animations, positions show speed hide speed, you name it, it got it. Get it while it's hot! Configure options from Settings"
+          "markdown": "Hello"
 				},
 				{
 					"class": "DepictionSeparatorView"
