@@ -8,7 +8,10 @@
 			"views": [
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "Aerify, I'm sexy and I know it."
+					"markdown": "Aerify, I'm sexy and I know it. A sexy Vloume VideoHUD
+					Sexy Sexy Volume VideoHUD",
+					"useSpacing": true,
+					"useMargins": true,
 				},
 				{
 					"class": "DepictionSeparatorView"
@@ -44,12 +47,12 @@
 				},
 				{
 					"title": "Contact Author",
-					"action": "me@lonestarx.net",
+					"action": "<me@lonestarx.net>",
 					"class": "DepictionTableButtonView"
 				},
 				{
 					"title": "Contact Maintainer",
-					"action": "shiyar2002@icloud.com",
+					"action": "<shiyar2002@icloud.com>",
 					"class": "DepictionTableButtonView"
 				},
 				{
