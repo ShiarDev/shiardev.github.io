@@ -1,5 +1,5 @@
 {
-	"minVersion": "0.1",
+	"minVersion": "1.0.6",
 	"headerImage": "https://raw.githubusercontent.com/sukarodo/Sidia/master/assets/Banners/RepoHeader.png",
 	"tintColor": "#ffae8e",
 	"tabs": [
@@ -8,7 +8,7 @@
 			"views": [
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "## TWEAK_NAME\nSHORT_DESCRIPTION"
+					"markdown": "Aerify, I'm sexy and I know it"
 				},
 				{
 					"class": "DepictionSeparatorView"
@@ -19,22 +19,27 @@
 				},
 				{
 					"title": "Version",
-					"text": "VERSION_NUMBER",
+					"text": "1.0.6",
 					"class": "DepictionTableTextView"
 				},
 				{
 					"title": "Released",
-					"text": "RELEASE_DATE",
+					"text": "2019-04-27",
 					"class": "DepictionTableTextView"
 				},
 				{
 					"title": "Price",
-					"text": "PRICE",
+					"text": "Free",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Supported Versions",
+					"text": "iOS 8.0 - 12.1.2",
 					"class": "DepictionTableTextView"
 				},
 				{
 					"title": "Developer",
-					"text": "DEVELOPER_NAME",
+					"text": "LonestarX",
 					"class": "DepictionTableTextView"
 				},
 				{
