@@ -8,7 +8,11 @@
 			"views": [
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "Aerify, I'm sexy and I know it"
+					"markdown": "Aerify, I'm sexy and I know it
+					A sexy highly customisable system wide volume HUD tweak for iOS 8 up to iOS 12 and with iPhone X support.
+					Pick colors, animations, positions show speed hide speed, you name it, it got it. Get it while it's hot!
+
+				 Configure options from Settings"
 				},
 				{
 					"class": "DepictionSeparatorView"
@@ -43,6 +47,16 @@
 					"class": "DepictionTableTextView"
 				},
 				{
+					"title": "Contact Author",
+					"action": "me@lonestarx.net",
+					"class": "DepictionTableButtonView"
+				},
+				{
+					"title": "Contact Maintainer",
+					"action": "shiyar2002@icloud.com",
+					"class": "DepictionTableButtonView"
+				},
+				{
 					"title": "Website",
 					"action": "Unknown",
 					"class": "DepictionTableButtonView"
@@ -73,12 +87,12 @@
 					"class": "DepictionSubheaderView"
 				},
 				{
-					"markdown": "\t\n\u2022 UPDATE_DESCRIPTION",
+					"markdown": "\t\n\u2022 initial release",
 					"useSpacing": false,
 					"class": "DepictionMarkdownView"
 				},
 				{
-					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released RELEASE_DATE</small>",
+					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 2019-04-27</small>",
 					"useRawFormat": true,
 					"class": "DepictionMarkdownView"
 				}
