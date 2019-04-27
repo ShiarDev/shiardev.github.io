@@ -33,7 +33,7 @@
 					"class": "DepictionTableTextView"
 				},
 				{
-					"title": "Supported Versions",
+					"title": "Compatibility",
 					"text": "iOS 8.0 - 12.1.2",
 					"class": "DepictionTableTextView"
 				},
@@ -44,12 +44,12 @@
 				},
 				{
 					"title": "Website",
-					"action": "WEBSITE_HERE",
+					"action": "Unknown",
 					"class": "DepictionTableButtonView"
 				},
 				{
 					"title": "Use This Template",
-					"action": "https://github.com/sukarodo/Sidia",
+					"action": "https://github.com/shiarahmed/shiarahmed.github.io",
 					"class": "DepictionTableButtonView"
 				},
 				{
@@ -67,7 +67,7 @@
 			"tabname": "Changelog",
 			"views": [
 				{
-					"title": "VERSION_NUMBER",
+					"title": "1.0.6",
 					"useBoldText": true,
 					"useBottomMargin": true,
 					"class": "DepictionSubheaderView"
