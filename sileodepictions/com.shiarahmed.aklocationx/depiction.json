@@ -21,12 +21,12 @@
 				},
 				{
 					"title": "Version",
-					"text": "1.0.6",
+					"text": "1.1.2-2",
 					"class": "DepictionTableTextView"
 				},
 				{
 					"title": "Released",
-					"text": "2018-05-12",
+					"text": "2015-08-27",
 					"class": "DepictionTableTextView"
 				},
 				{
@@ -36,12 +36,12 @@
 				},
 				{
 					"title": "Compatibility",
-					"text": "iOS 8.0 - 12.1.2",
+					"text": "iOS 5.0 - 12.1.2",
 					"class": "DepictionTableTextView"
 				},
 				{
 					"title": "Developer",
-					"text": "LonestarX",
+					"text": "AlickHill",
 					"class": "DepictionTableTextView"
 				},
 				{
@@ -51,7 +51,7 @@
 				},
 				{
 					"title": "Developer Account",
-					"action": "https://twitter.com/LonestarX",
+					"action": "https://twitter.com/AlickHill",
 					"class": "DepictionTableButtonView"
 				},
 				{
@@ -74,7 +74,7 @@
 			"tabname": "Changelog",
 			"views": [
 				{
-					"title": "1.0.6",
+					"title": "1.1.2-2",
 					"useBoldText": true,
 					"useBottomMargin": true,
 					"class": "DepictionSubheaderView"
@@ -85,7 +85,7 @@
 					"class": "DepictionMarkdownView"
 				},
 				{
-					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 2018-05-12</small>",
+					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 2015-08-27</small>",
 					"useRawFormat": true,
 					"class": "DepictionMarkdownView"
 				}
