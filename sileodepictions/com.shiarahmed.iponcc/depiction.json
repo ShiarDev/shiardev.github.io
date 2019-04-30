@@ -40,6 +40,10 @@
 					"class": "DepictionTableTextView"
 				},
 				{
+					"title": "Contact Developer and Maintainer",
+					"class": "DepictionHeaderView"
+				},
+				{
 					"title": "Developer",
 					"text": "BlanxdH",
 					"class": "DepictionTableTextView"
@@ -52,6 +56,11 @@
 				{
 					"title": "Developer Account",
 					"text": "No twitter account",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Developer Mail",
+					"text": "blanxd.h@gmail.com",
 					"class": "DepictionTableTextView"
 				},
 				{
