@@ -239,6 +239,7 @@ Section: Themes
 Description: New Theme. Beautiful. Creative. Enjoy it.
 Author: Shiar Ahmed <shiyar2002@icloud.com>
 Depiction: https://shiarahmed.github.io/depictions/?p=com.shiarahmed.dangerous
+SileoDepiction: https://shiarahmed.github.io/sileodepictions/com.shiarahmed.dangerous/depiction.json
 Homepage: https://twitter.com/shiar_ahmed/
 Name: Dangerous
 Priority: optional
