@@ -14,12 +14,12 @@
 				{
 					"class": "DepictionMarkdownView",
 					"markdown": "Changes the VolumeHUD of Apple.",
-					"useSpacing": false
+					"useSpacing": true
 				},
 				{
 					"class": "DepictionMarkdownView",
 					"markdown": "Set up in Aerify settings in Settings.",
-					"useSpacing": true
+					"useSpacing": false
 				},
 				{
 					"class": "DepictionSeparatorView"
