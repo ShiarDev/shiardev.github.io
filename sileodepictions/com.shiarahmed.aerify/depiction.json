@@ -14,7 +14,7 @@
 				{
 					"class": "DepictionMarkdownView",
 					"markdown": "Changes the VolumeHUD of Apple.",
-					"useSpacing": true
+					"useSpacing": false
 				},
 				{
 					"class": "DepictionMarkdownView",
