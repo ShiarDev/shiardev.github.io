@@ -8,7 +8,7 @@
 			"views": [
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "I'm sexy and I know it. Changes the VolumeHUD of Apple. Set up in Aerify settings in Settings.",
+					"markdown": "Set any location as your location. Write Latitude and Longitude in Settings to change.",
 					"useSpacing": true,
 					"useMargins": true,
 				},
