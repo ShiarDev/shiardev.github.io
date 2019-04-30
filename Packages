@@ -374,6 +374,7 @@ Section: Addons
 Description: Show IP info in CC
 Author: BlanxdH <blanxd.h@gmail.com>
 Depiction: https://shiarahmed.github.io/depictions/?p=com.shiarahmed.iponcc
+SileoDepiction: https://shiarahmed.github.io/sileodepictions/com.shiarahmed.iponcc/depiction.json
 Installed-Size: 304
 Name: IPonCC
 dev: blanxd

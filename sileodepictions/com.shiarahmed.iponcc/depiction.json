@@ -1,0 +1,97 @@
+{
+	"minVersion": "0.1",
+	"headerImage": "https://github.com/shiarahmed/shiarahmed.github.io/blob/master/assets/Banners/RepoHeader.png",
+	"tintColor": "#ffae8e",
+	"tabs": [
+		{
+			"tabname": "Details",
+			"views": [
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "Show IP info in CC. It enables automatically.",
+					"useSpacing": true,
+					"useMargins": true,
+				},
+				{
+					"class": "DepictionSeparatorView"
+				},
+				{
+					"title": "Latest Version",
+					"class": "DepictionHeaderView"
+				},
+				{
+					"title": "Version",
+					"text": "1.4.4",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Released",
+					"text": "2019-03-31",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Price",
+					"text": "Free",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Compatibility",
+					"text": "iOS 11.0 - 12.1.2",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Developer",
+					"text": "BlanxdH",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Maintainer",
+					"text": "Shiar Ahmed",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Developer Account",
+					"text": "No twitter account",
+					"class": "DepictionTableButtonView"
+				},
+				{
+					"title": "Maintainer Account",
+					"action": "https://twitter.com/shiar_ahmed",
+					"class": "DepictionTableButtonView"
+				},
+				{
+					"spacing": 16,
+					"class": "DepictionSpacerView"
+				},
+				{
+					"spacing": 20,
+					"class": "DepictionSpacerView"
+				}
+			],
+			"class": "DepictionStackView"
+		},
+		{
+			"tabname": "Changelog",
+			"views": [
+				{
+					"title": "1.4.4",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "\t\n\u2022 initial release",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 2019-03-31</small>",
+					"useRawFormat": true,
+					"class": "DepictionMarkdownView"
+				}
+			],
+			"class": "DepictionStackView"
+		}
+	],
+	"class": "DepictionTabView"
+}
