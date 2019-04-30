@@ -7,16 +7,19 @@
 			"tabname": "Details",
 			"views": [
 				{
+					"useSpacing": true,
 					"class": "DepictionMarkdownView",
 					"markdown": "I'm sexy and I know it.",
-					"useSpacing": false,
+					"useSpacing": false
 				},
 				{
+					"useSpacing": false,
 					"class": "DepictionMarkdownView",
 					"markdown": "Changes the VolumeHUD of Apple.",
 					"useSpacing": false,
 				},
 				{
+					"useSpacing": false,
 					"class": "DepictionMarkdownView",
 					"markdown": "Set up in Aerify settings in Settings.",
 					"useSpacing": true,
