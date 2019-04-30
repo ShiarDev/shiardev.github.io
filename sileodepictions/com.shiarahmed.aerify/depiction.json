@@ -26,7 +26,7 @@
 				},
 				{
 					"title": "Released",
-					"text": "2019-04-27",
+					"text": "2018-05-12",
 					"class": "DepictionTableTextView"
 				},
 				{
@@ -50,13 +50,13 @@
 					"class": "DepictionTableTextView"
 				},
 				{
-					"title": "Website",
-					"action": "Unknown",
+					"title": "Developer Account",
+					"action": "https://twitter.com/LonestarX",
 					"class": "DepictionTableButtonView"
 				},
 				{
-					"title": "Use This Template",
-					"action": "https://github.com/shiarahmed/shiarahmed.github.io",
+					"title": "Maintainer Account",
+					"action": "https://twitter.com/shiar_ahmed",
 					"class": "DepictionTableButtonView"
 				},
 				{
@@ -85,7 +85,7 @@
 					"class": "DepictionMarkdownView"
 				},
 				{
-					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 2019-04-27</small>",
+					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 2018-05-12</small>",
 					"useRawFormat": true,
 					"class": "DepictionMarkdownView"
 				}
