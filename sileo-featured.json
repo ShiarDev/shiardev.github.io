@@ -8,6 +8,12 @@
         "title": "Shiar's Repo",
         "package": "com.shiarahmed.dangerous",
         "hideShadow": false
+    },
+    {
+        "url": "https://shiarahmed.github.io/assets/Banners/Dangerous.png",
+        "title": "Dangerous",
+        "package": "com.shiarahmed.dangerous",
+        "hideShadow": false
     }
   ]
 }

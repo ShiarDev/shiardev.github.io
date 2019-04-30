@@ -24,7 +24,7 @@
 					"class": "DepictionMarkdownView",
 					"markdown": "Set up in Aerify settings in Settings.",
 					"markdown": "Changes the VolumeHUD of Apple.",
-					"useSpacing": false,
+					"useSpacing": true,
 					"useMargins": false,
 					"useRawFormat": false
 				},
