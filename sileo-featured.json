@@ -4,9 +4,15 @@
   "itemCornerRadius": 10,
   "banners": [
     {
+        "url": "https://github.com/shiarahmed/shiarahmed.github.io/blob/master/assets/Banners/RepoHeader.png",
+        "title": "Shiar's Repo",
+        "hideShadow": false
+    },
+    {
+        "url": "https://github.com/shiarahmed/shiarahmed.github.io/blob/master/assets/Banners/Dangerous.png",
         "title": "Dangerous",
         "package": "com.shiarahmed.dangerous",
-        "Filename": "./debs/com.shiarahmed.dangerous_2.1_iphoneos-arm.deb",
+        "hideShadow": false
     }
   ]
 }
