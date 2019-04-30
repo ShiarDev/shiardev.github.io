@@ -32,6 +32,7 @@ Section: Tweaks
 Description: Set any location as your location.
 Author: AlickHill <AlickHill@gmail.com>
 Depiction: https://shiarahmed.github.io/depictions/?p=com.shiarahmed.aklocationx
+SileoDepiction: https://shiarahmed.github.io/sileodepictions/com.shiarahmed.aklocationx/depiction.json
 Icon: file:///Library/PreferenceBundles/aklocationXsetting.bundle/Icon@2x.png
 Name: akLocationX
 
