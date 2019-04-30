@@ -9,7 +9,7 @@
 				{
 					"class": "DepictionMarkdownView",
 					"markdown": "I'm sexy and I know it.",
-					"useSpacing": true
+					"useSpacing": false
 				},
 				{
 					"class": "DepictionMarkdownView",
@@ -19,7 +19,7 @@
 				{
 					"class": "DepictionMarkdownView",
 					"markdown": "Set up in Aerify settings in Settings.",
-					"useSpacing": true
+					"useSpacing": false
 				},
 				{
 					"class": "DepictionSeparatorView"
