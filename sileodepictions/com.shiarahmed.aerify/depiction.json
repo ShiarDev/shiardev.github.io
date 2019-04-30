@@ -8,8 +8,7 @@
 			"views": [
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "Aerify, I'm sexy and I know it. A sexy Vloume VideoHUD
-Sexy Sexy Volume VideoHUD",
+					"markdown": "I'm sexy and I know it. Changes the VolumeHUD of Apple. Set up in Aerify settings in Settings.",
 					"useSpacing": true,
 					"useMargins": true,
 				},
@@ -46,14 +45,9 @@ Sexy Sexy Volume VideoHUD",
 					"class": "DepictionTableTextView"
 				},
 				{
-					"title": "Contact Author",
-					"action": "<me@lonestarx.net>",
-					"class": "DepictionTableButtonView"
-				},
-				{
-					"title": "Contact Maintainer",
-					"action": "<shiyar2002@icloud.com>",
-					"class": "DepictionTableButtonView"
+					"title": "Maintainer",
+					"text": "Shiar Ahmed",
+					"class": "DepictionTableTextView"
 				},
 				{
 					"title": "Website",
