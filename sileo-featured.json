@@ -6,6 +6,7 @@
     {
         "url": "https://raw.githubusercontent.com/sukarodo/Sidia/master/assets/Banners/RepoHeader.png",
         "title": "Shiar's Repo",
+        "package": "com.shiarahmed.dangerous",
         "hideShadow": false
     }
   ]
