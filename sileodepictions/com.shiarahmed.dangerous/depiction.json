@@ -98,10 +98,7 @@
 					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 2019-03-28</small>",
 					"useRawFormat": true,
 					"class": "DepictionMarkdownView"
-				}
-			],
-			"class": "DepictionStackView"
-		}
+				},
 				{
 					"title": "2.0",
 					"useBoldText": true,
