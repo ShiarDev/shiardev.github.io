@@ -8,15 +8,25 @@
 			"views": [
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "I'm sexy and I know it. Set up in Aerify settings in Settings."
+					"markdown": "I'm sexy and I know it. Set up in Aerify settings in Settings.",
+					"useSpacing": false,
+					"useMargins": false,
+					"useRawFormat": false
 				},
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "Changes the VolumeHUD of Apple."
+					"markdown": "Changes the VolumeHUD of Apple.",
+					"useSpacing": false,
+					"useMargins": false,
+					"useRawFormat": false
 				},
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "Set up in Aerify settings in Settings."
+					"markdown": "Set up in Aerify settings in Settings.",
+					"markdown": "Changes the VolumeHUD of Apple.",
+					"useSpacing": false,
+					"useMargins": false,
+					"useRawFormat": false
 				},
 				{
 					"class": "DepictionSeparatorView"
