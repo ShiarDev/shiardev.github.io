@@ -52,7 +52,7 @@
 				{
 					"title": "Developer Account",
 					"text": "No twitter account",
-					"class": "DepictionTableButtonView"
+					"class": "DepictionTableTextView"
 				},
 				{
 					"title": "Maintainer Account",
