@@ -1,24 +1,11 @@
 {
   "class": "FeaturedBannersView",
-  "itemSize": "{296, 148}",
-  "itemCornerRadius": 10,
-  "banners": [
-    {
-        "url": "https://shiarahmed.github.io/assets/Banners/Dangerous.png",
-        "title": "Dangerous",
-        "package": "com.shiarahmed.dangerous",
-        "hideShadow": false
-    }
-  ]
-}
-{
-  "class": "FeaturedBannersView",
   "itemSize": "{250, 250}",
   "itemCornerRadius": 10,
   "banners": [
     {
         "url": "https://shiarahmed.github.io/assets/Banners/Dangerous.png",
-        "title": "Test",
+        "title": "Dangerous",
         "package": "com.shiarahmed.dangerous",
         "hideShadow": false
     }

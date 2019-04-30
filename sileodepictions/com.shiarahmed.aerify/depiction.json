@@ -9,23 +9,17 @@
 				{
 					"class": "DepictionMarkdownView",
 					"markdown": "I'm sexy and I know it.",
-					"useSpacing": false,
-					"useMargins": false,
-					"useRawFormat": true
+					"useSpacing": false
 				},
 				{
 					"class": "DepictionMarkdownView",
 					"markdown": "Changes the VolumeHUD of Apple.",
-					"useSpacing": false,
-					"useMargins": false,
-					"useRawFormat": true
+					"useSpacing": false
 				},
 				{
 					"class": "DepictionMarkdownView",
 					"markdown": "Set up in Aerify settings in Settings.",
-					"useSpacing": false,
-					"useMargins": false,
-					"useRawFormat": true
+					"useSpacing": false
 				},
 				{
 					"class": "DepictionSeparatorView"
