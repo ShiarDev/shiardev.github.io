@@ -394,6 +394,7 @@ Section: Development
 Description: An awesome Preference Library!
 Author: CreatureSurvive <support@creaturecoding.com>
 Depiction: https://shiarahmed.github.io/depictions/?p=com.shiarahmed.libcspreferences
+SileoDepiction: https://shiarahmed.github.io/sileodepictions/com.shiarahmed.libcspreferences/depiction.json
 Name: libCSPreferences
 
 Package: com.shiarahmed.libspring

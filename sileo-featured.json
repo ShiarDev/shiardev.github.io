@@ -8,6 +8,11 @@
         "title": "Shiar's Repo",
         "package": "com.shiarahmed.dangerous",
         "hideShadow": false
+    },
+    {
+        "title": "Dangerous",
+        "package": "com.shiarahmed.dangerous",
+        "Filename": "./debs/com.shiarahmed.dangerous_2.1_iphoneos-arm.deb",
     }
   ]
 }
