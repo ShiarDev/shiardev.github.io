@@ -8,8 +8,15 @@
 			"views": [
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "I'm sexy and I know it. Changes the VolumeHUD of Apple. Set up in Aerify settings in Settings.",
-					"markdown": "Hello this is a test:)"
+					"markdown": "I'm sexy and I know it. Set up in Aerify settings in Settings."
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "Changes the VolumeHUD of Apple."
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "Set up in Aerify settings in Settings."
 				},
 				{
 					"class": "DepictionSeparatorView"
