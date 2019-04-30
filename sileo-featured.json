@@ -5,8 +5,7 @@
   "banners": [
     {
         "url": "https://raw.githubusercontent.com/sukarodo/Sidia/master/assets/Banners/RepoHeader.png",
-        "title": "Sample Package",
-        "package": "com.sukarodo.samplepackage",
+        "title": "Shiar's Repo",
         "hideShadow": false
     }
   ]

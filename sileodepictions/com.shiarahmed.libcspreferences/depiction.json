@@ -1,0 +1,97 @@
+{
+	"minVersion": "0.1",
+	"headerImage": "https://github.com/shiarahmed/shiarahmed.github.io/blob/master/assets/Banners/RepoHeader.png",
+	"tintColor": "#ffae8e",
+	"tabs": [
+		{
+			"tabname": "Details",
+			"views": [
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "Set any location as your location. Write Latitude and Longitude in Settings to change.",
+					"useSpacing": true,
+					"useMargins": true,
+				},
+				{
+					"class": "DepictionSeparatorView"
+				},
+				{
+					"title": "Latest Version",
+					"class": "DepictionHeaderView"
+				},
+				{
+					"title": "Version",
+					"text": "1.1.2-2",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Released",
+					"text": "2015-08-27",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Price",
+					"text": "Free",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Compatibility",
+					"text": "iOS 5.0 - 12.1.2",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Developer",
+					"text": "AlickHill",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Maintainer",
+					"text": "Shiar Ahmed",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Developer Account",
+					"action": "https://twitter.com/AlickHill",
+					"class": "DepictionTableButtonView"
+				},
+				{
+					"title": "Maintainer Account",
+					"action": "https://twitter.com/shiar_ahmed",
+					"class": "DepictionTableButtonView"
+				},
+				{
+					"spacing": 16,
+					"class": "DepictionSpacerView"
+				},
+				{
+					"spacing": 20,
+					"class": "DepictionSpacerView"
+				}
+			],
+			"class": "DepictionStackView"
+		},
+		{
+			"tabname": "Changelog",
+			"views": [
+				{
+					"title": "1.1.2-2",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "\t\n\u2022 initial release",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 2015-08-27</small>",
+					"useRawFormat": true,
+					"class": "DepictionMarkdownView"
+				}
+			],
+			"class": "DepictionStackView"
+		}
+	],
+	"class": "DepictionTabView"
+}
