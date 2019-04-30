@@ -8,18 +8,15 @@
 			"views": [
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "I'm sexy and I know it.",
-					"useSpacing": false
+					"markdown": "I'm sexy and I know it."
 				},
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "Changes the VolumeHUD of Apple.",
-					"useSpacing": true
+					"markdown": "Changes the VolumeHUD of Apple."
 				},
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "Set up in Aerify settings in Settings.",
-					"useSpacing": false
+					"markdown": "Set up in Aerify settings in Settings."
 				},
 				{
 					"class": "DepictionSeparatorView"
