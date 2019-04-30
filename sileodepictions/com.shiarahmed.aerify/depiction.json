@@ -19,7 +19,7 @@
 				{
 					"class": "DepictionMarkdownView",
 					"markdown": "Set up in Aerify settings in Settings.",
-					"useSpacing": false
+					"useSpacing": true
 				},
 				{
 					"class": "DepictionSeparatorView"
