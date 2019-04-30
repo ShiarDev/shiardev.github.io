@@ -102,9 +102,6 @@
 			],
 			"class": "DepictionStackView"
 		}
-	],
-	"class": "DepictionTabView"
-}
 				{
 					"title": "2.0",
 					"useBoldText": true,
