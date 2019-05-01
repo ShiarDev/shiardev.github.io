@@ -90,11 +90,6 @@
 					"markdown": "\t\n\u2022 initial release",
 					"useSpacing": false,
 					"class": "DepictionMarkdownView"
-				},
-				{
-					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 2018-05-12</small>",
-					"useRawFormat": true,
-					"class": "DepictionMarkdownView"
 				}
 			],
 			"class": "DepictionStackView"
