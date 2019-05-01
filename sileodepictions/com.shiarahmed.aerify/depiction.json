@@ -33,17 +33,17 @@
 				},
 				{
 					"title": "Last Updated",
-					"text": "2018-05-12",
+					"text": "May 12, 2018",
 					"class": "DepictionTableTextView"
 				},
 				{
 					"title": "License",
-					"text": "$4.99",
+					"text": "Free",
 					"class": "DepictionTableTextView"
 				},
 				{
 					"title": "Compatibility",
-					"text": "iOS 8.0 - 12.1.2",
+					"text": "iOS 8.0 to 12.1.2",
 					"class": "DepictionTableTextView"
 				},
 				{
@@ -57,13 +57,13 @@
 					"class": "DepictionTableTextView"
 				},
 				{
-					"title": "Developer Account",
-					"action": "https://twitter.com/LonestarX",
+					"title": " Contact Developer",
+					"action": "mailto:me@lonestarx.net",
 					"class": "DepictionTableButtonView"
 				},
 				{
-					"title": "Maintainer Account",
-					"action": "https://twitter.com/shiar_ahmed",
+					"title": "Contact Maintainer",
+					"action": "mailto:shiyar2002@icloud.com",
 					"class": "DepictionTableButtonView"
 				},
 				{
