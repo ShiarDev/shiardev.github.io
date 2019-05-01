@@ -100,11 +100,9 @@
 				{
 					"markdown": "\t\n\u2022 Supported apps icons in Settings",
 					"useSpacing": false,
-					"useMargins": true,
-					"class": "DepictionMarkdownView"
+					"class": "DepictionSeparatorView"
 				},
 				{
-					"useSpacing": true,
 					"class": "DepictionSeparatorView"
 				},
 				{
