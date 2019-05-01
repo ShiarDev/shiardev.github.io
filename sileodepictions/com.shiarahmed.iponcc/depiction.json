@@ -50,14 +50,6 @@
 					"markdown": "Add the toggle to the Control Center from Settings>Control Center>Customize Controls."
 				},
 				{
-					"class": "DepictionMarkdownView",
-					"markdown": "You can choose "IP addresses" which is a 3x1 sized module and shows your main addresses, 3D/long-pressing on it reveals IPv6 and all addresses. If your CC doesn't have room for a 3x1 sized module, choose the "IP button" (1x1 size), which you need to tap in order to see your IP addresses"
-				},
-				{
-					"class": "DepictionMarkdownView",
-					"markdown": "It is not tested on iPhone 5S/SE/iPads, so please report any possible issues to the developer (ie, The developer doesn't know what it looks like on these screen sizes)."
-				},
-				{
 					"class": "DepictionSeparatorView"
 				},
 				{
