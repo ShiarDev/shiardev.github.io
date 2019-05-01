@@ -6,7 +6,12 @@
 		{
 			"tabname": "Details",
 			"views": [
-
+				{
+          "class": "DepictionHeaderView",
+          "title": "Description",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
 				{
 					"class": "DepictionMarkdownView",
 					"markdown": "A sexy highly customisable wide volume HUD tweak for iOS 9 up to iOS 12 and with iPhone X support."
