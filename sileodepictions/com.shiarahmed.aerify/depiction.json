@@ -6,26 +6,24 @@
 		{
 			"tabname": "Details",
 			"views": [
+
 				{
-					"useSpacing": true,
 					"class": "DepictionMarkdownView",
 					"markdown": "I'm sexy and I know it."
 				},
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "Changes the VolumeHUD of Apple.",
-					"useSpacing": false
+					"markdown": "Changes the VolumeHUD of Apple."
 				},
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "Set up in Aerify settings in Settings.",
-					"useSpacing": true
+					"markdown": "Set up in Aerify settings in Settings."
 				},
 				{
 					"class": "DepictionSeparatorView"
 				},
 				{
-					"title": "Latest Version",
+					"title": "Information",
 					"class": "DepictionHeaderView"
 				},
 				{
@@ -34,13 +32,13 @@
 					"class": "DepictionTableTextView"
 				},
 				{
-					"title": "Released",
+					"title": "Last Updated",
 					"text": "2018-05-12",
 					"class": "DepictionTableTextView"
 				},
 				{
-					"title": "Price",
-					"text": "Free",
+					"title": "License",
+					"text": "$4.99",
 					"class": "DepictionTableTextView"
 				},
 				{
