@@ -98,14 +98,9 @@
 					"class": "DepictionMarkdownView"
 				},
 				{
-					"title": "Supported apps icons in Settings",
+					"markdown": "\t\n\u2022 Supported apps icons in Settings",
 					"useSpacing": false,
-					"useBoldText": true,
-					"useBottomMargin": true,
 					"class": "DepictionSubheaderView"
-				},
-				{
-					"class": "DepictionSeparatorView"
 				},
 				{
 					"title": "2.0",
@@ -129,9 +124,6 @@
 					"class": "DepictionMarkdownView"
 				},
 				{
-					"class": "DepictionSeparatorView"
-				},
-				{
 					"title": "1.3",
 					"useBoldText": true,
 					"useBottomMargin": true,
@@ -146,9 +138,6 @@
 					"markdown": "\t\n\u2022 Changed some icons",
 					"useSpacing": false,
 					"class": "DepictionMarkdownView"
-				},
-				{
-					"class": "DepictionSeparatorView"
 				},
 				{
 					"title": "1.2",
@@ -167,9 +156,6 @@
 					"class": "DepictionMarkdownView"
 				},
 				{
-					"class": "DepictionSeparatorView"
-				},
-				{
 					"title": "1.1",
 					"useBoldText": true,
 					"useBottomMargin": true,
@@ -184,9 +170,6 @@
 					"markdown": "\t\n\u2022 Added new icons",
 					"useSpacing": false,
 					"class": "DepictionMarkdownView"
-				},
-				{
-					"class": "DepictionSeparatorView"
 				},
 				{
 					"title": "1.0",
