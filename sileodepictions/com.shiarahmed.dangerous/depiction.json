@@ -100,7 +100,7 @@
 				{
 					"markdown": "\t\n\u2022 Supported apps icons in Settings",
 					"useSpacing": false,
-					"class": "DepictionSeparatorView"
+					"class": "DepictionSubheaderView"
 				},
 				{
 					"class": "DepictionSeparatorView"
