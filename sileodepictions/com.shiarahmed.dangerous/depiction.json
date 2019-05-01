@@ -98,8 +98,10 @@
 					"class": "DepictionMarkdownView"
 				},
 				{
-					"markdown": "\t\n\u2022 Supported apps icons in Settings",
+					"title": "Supported apps icons in Settings",
 					"useSpacing": false,
+					"useBoldText": true,
+					"useBottomMargin": true,
 					"class": "DepictionSubheaderView"
 				},
 				{
