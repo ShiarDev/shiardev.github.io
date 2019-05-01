@@ -7,10 +7,18 @@
 			"tabname": "Details",
 			"views": [
 				{
+          "class": "DepictionHeaderView",
+          "title": "Description",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+				{
 					"class": "DepictionMarkdownView",
-					"markdown": "Set any location as your location. Write Latitude and Longitude in Settings to change.",
-					"useSpacing": true,
-					"useMargins": true,
+					"markdown": "A simple to use preference library for iOS",
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "A simple to use preference library for iOS",
 				},
 				{
 					"class": "DepictionSeparatorView"
