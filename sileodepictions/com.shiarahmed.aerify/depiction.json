@@ -57,7 +57,7 @@
 					"class": "DepictionTableTextView"
 				},
 				{
-					"title": " Contact Developer",
+					"title": "Contact Developer",
 					"action": "mailto:me@lonestarx.net",
 					"class": "DepictionTableButtonView"
 				},
