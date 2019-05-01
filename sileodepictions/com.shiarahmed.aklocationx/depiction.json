@@ -14,15 +14,15 @@
         },
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "Set any location as your location. Useful for LBS develop & Applications",
+					"markdown": "Set any location as your location. Useful for LBS develop & Applications"
 				},
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "You can't see other people's location when it's enabled.",
+					"markdown": "You can't see other people's location when it's enabled."
 				},
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "Write Latitude and Longitude in Settings and enjoy.",
+					"markdown": "Write Latitude and Longitude in Settings and enjoy."
 				},
 				{
 					"class": "DepictionSeparatorView"
