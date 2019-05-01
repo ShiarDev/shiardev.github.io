@@ -99,6 +99,8 @@
 				},
 				{
 					"markdown": "\t\n\u2022 Supported apps icons in Settings",
+					"useSpacing": false,
+					"useBottomMargin": true,
 					"class": "DepictionMarkdownView"
 				},
 				{
@@ -122,6 +124,7 @@
 				},
 				{
 					"markdown": "\t\n\u2022 Supported new apps",
+					"useSpacing": false,
 					"class": "DepictionMarkdownView"
 				},
 				{
@@ -140,6 +143,7 @@
 				},
 				{
 					"markdown": "\t\n\u2022 Changed some icons",
+					"useSpacing": false,
 					"class": "DepictionMarkdownView"
 				},
 				{
@@ -158,6 +162,7 @@
 				},
 				{
 					"markdown": "\t\n\u2022 Fixed some apps icons bugs",
+					"useSpacing": false,
 					"class": "DepictionMarkdownView"
 				},
 				{
@@ -176,6 +181,7 @@
 				},
 				{
 					"markdown": "\t\n\u2022 Added new icons",
+					"useSpacing": false,
 					"class": "DepictionMarkdownView"
 				},
 				{
