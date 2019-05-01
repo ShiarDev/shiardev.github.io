@@ -4,19 +4,6 @@
 	"tintColor": "#ffae8e",
 	"tabs": [
 		{
-			"tabname": "High-Heels",
-			"views": [
-				{
-          "class": "DepictionHeaderView",
-          "title": "Description",
-          "useBoldText": true,
-          "useBottomMargin": false
-        },
-				{
-					"class": "DepictionMarkdownView",
-					"markdown": "I want to all girls trample me with their high-heels"
-				},
-		{
 			"tabname": "Details",
 			"views": [
 				{
