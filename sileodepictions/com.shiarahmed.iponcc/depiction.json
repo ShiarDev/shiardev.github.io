@@ -22,7 +22,7 @@
 				},
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "Only the actual addresses of the device are shown, no requests to the internet are made for resolving any "public" IPv4 addresses.",
+					"markdown": "Only the actual addresses of the device are shown, no requests to the internet are made for resolving any ''public'' IPv4 addresses.",
 					"useSpacing": false,
 					"useMargins": true
 				},
@@ -52,7 +52,7 @@
 				},
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "You can choose "IP addresses" which is a 3x1 sized module and shows your main addresses, 3D/long-pressing on it reveals IPv6 and all addresses. If your CC doesn't have room for a 3x1 sized module, choose the "IP button" (1x1 size), which you need to tap in order to see your IP addresses",
+					"markdown": "You can choose ''IP addresses'' which is a 3x1 sized module and shows your main addresses, 3D/long-pressing on it reveals IPv6 and all addresses. If your CC doesn't have room for a 3x1 sized module, choose the ''IP button'' (1x1 size), which you need to tap in order to see your IP addresses",
 					"useMargins": true
 				},
 				{
