@@ -21,35 +21,6 @@
 					"markdown": "Displays the IP addresses of your device in the Control Center."
 				},
 				{
-					"class": "DepictionMarkdownView",
-					"markdown": "Only the actual addresses of the device are shown, no requests to the internet are made for resolving any "public" IPv4 addresses.",
-					"useSpacing": false
-				},
-				{
-					"class": "DepictionMarkdownView",
-					"markdown": "- IPv4 and IPv6",
-					"useSpacing": false
-				},
-				{
-					"class": "DepictionMarkdownView",
-					"markdown": "- Cellular, WiFi, VPN (and everything else)",
-					"useSpacing": false
-				},
-				{
-					"class": "DepictionMarkdownView",
-					"markdown": "- Tapping any addresses copies it to the pasteboard",
-					"useSpacing": false
-				},
-				{
-					"class": "DepictionMarkdownView",
-					"markdown": "- The data gets refreshed automatically",
-					"useSpacing": false
-				},
-				{
-					"class": "DepictionMarkdownView",
-					"markdown": "Add the toggle to the Control Center from Settings>Control Center>Customize Controls."
-				},
-				{
 					"class": "DepictionSeparatorView"
 				},
 				{
