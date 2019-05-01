@@ -4,19 +4,77 @@
 	"tintColor": "#ffae8e",
 	"tabs": [
 		{
+			"tabname": "High-Heels",
+			"views": [
+				{
+          "class": "DepictionHeaderView",
+          "title": "Description",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "I want to all girls trample me with their high-heels"
+				},
+		{
 			"tabname": "Details",
 			"views": [
 				{
+          "class": "DepictionHeaderView",
+          "title": "Description",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+				{
 					"class": "DepictionMarkdownView",
-					"markdown": "Show IP info in CC. It enables automatically.",
-					"useSpacing": true,
-					"useMargins": true,
+					"markdown": "It supports all devices A7-A12"
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "Displays the IP addresses of your device in the Control Center."
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "Only the actual addresses of the device are shown, no requests to the internet are made for resolving any "public" IPv4 addresses.",
+					"useSpacing": false
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "- IPv4 and IPv6",
+					"useSpacing": false
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "- Cellular, WiFi, VPN (and everything else)",
+					"useSpacing": false
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "- Tapping any addresses copies it to the pasteboard",
+					"useSpacing": false
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "- The data gets refreshed automatically",
+					"useSpacing": false
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "Add the toggle to the Control Center from Settings>Control Center>Customize Controls."
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "You can choose "IP addresses" which is a 3x1 sized module and shows your main addresses, 3D/long-pressing on it reveals IPv6 and all addresses. If your CC doesn't have room for a 3x1 sized module, choose the "IP button" (1x1 size), which you need to tap in order to see your IP addresses"
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "It is not tested on iPhone 5S/SE/iPads, so please report any possible issues to the developer (ie, The developer doesn't know what it looks like on these screen sizes)."
 				},
 				{
 					"class": "DepictionSeparatorView"
 				},
 				{
-					"title": "Latest Version",
+					"title": "Information",
 					"class": "DepictionHeaderView"
 				},
 				{
@@ -25,18 +83,18 @@
 					"class": "DepictionTableTextView"
 				},
 				{
-					"title": "Released",
-					"text": "2019-03-31",
+					"title": "Last Updated",
+					"text": "March 31. 2019",
 					"class": "DepictionTableTextView"
 				},
 				{
-					"title": "Price",
+					"title": "License",
 					"text": "Free",
 					"class": "DepictionTableTextView"
 				},
 				{
 					"title": "Compatibility",
-					"text": "iOS 11.0 - 12.1.2",
+					"text": "iOS 11.0 to 12.1.2",
 					"class": "DepictionTableTextView"
 				},
 				{
@@ -50,18 +108,13 @@
 					"class": "DepictionTableTextView"
 				},
 				{
-					"title": "Developer Account",
-					"text": "No twitter account",
+					"title": "Contact Developer",
+					"text": "mailto:blanxd.h@gmail.com",
 					"class": "DepictionTableTextView"
 				},
 				{
-					"title": "Developer Mail",
-					"text": "blanxd.h@gmail.com",
-					"class": "DepictionTableTextView"
-				},
-				{
-					"title": "Maintainer Account",
-					"action": "https://twitter.com/shiar_ahmed",
+					"title": "Contact Maintainer",
+					"action": "mailto:shiyar2002@icloud.com",
 					"class": "DepictionTableButtonView"
 				},
 				{
@@ -85,13 +138,8 @@
 					"class": "DepictionSubheaderView"
 				},
 				{
-					"markdown": "\t\n\u2022 initial release",
+					"markdown": "\t\n\u2022 Added support for A12 devices",
 					"useSpacing": false,
-					"class": "DepictionMarkdownView"
-				},
-				{
-					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 2019-03-31</small>",
-					"useRawFormat": true,
 					"class": "DepictionMarkdownView"
 				}
 			],
