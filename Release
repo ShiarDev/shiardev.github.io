@@ -1,8 +1,8 @@
-Origin: Shiar's Repo
-Label: Shiar's Repo
+Origin: OLD. Please add shiarahmed.xrepo.co/
+Label: OLD. Please add shiarahmed.xrepo.co/
 Suite: stable
-Version: 1.0
+Version: 1.0-final
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: Shiar's Repo - a cydia repo template
+Description: Please add the new repo to get latest updates, this repo will no longer get updates :(
