@@ -86,55 +86,6 @@ Description: Extra Speed for iOS. You will see more different on iPhone 6 Plus a
 Author: ShiarDev <shiardev@icloud.com>
 Name: Extra Speed
 
-Package: com.shiardev.libffi
-Version: 3.2.1-1
-Architecture: iphoneos-arm
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Filename: ./debs/com.shiardev.libffi_3.2.1-1_iphoneos-arm.deb
-Size: 21042
-MD5sum: 1a858f20fe2d99321cbf15aeff654c5d
-SHA1: b481d0046c5cbbefc7e1cc473514af53cc844fe2
-SHA256: 12a1b1368158c8b13dea8c23c8164981d30855cec3a2fb96c838a1545339b9f9
-Section: Development
-Description: dynamic generation of function calls
-Installed-Size: 248
-Multi-Arch: foreign
-Pre-Depends: dpkg (>= 1.14.25-8)
-Priority: optional
-
-Package: com.shiardev.libssh2
-Version: 1.8.0-2
-Architecture: iphoneos-arm
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Depends: libssl1.0
-Filename: ./debs/com.shiardev.libssh2_1.8.0-2_iphoneos-arm.deb
-Size: 97674
-MD5sum: abdb03f6d2c0eac5e137a7a72438d0d9
-SHA1: 144d5957f7a4fd8d098fdfb79bac59c4e8cde9d9
-SHA256: 0c1609c92f6bca3cc6cb986e8267839802fdbba74f95cb78bf21d30ae825c55c
-Section: Development
-Description: a client-side C library implementing the SSH2 protocol
-Homepage: https://www.libssh2.org/
-Installed-Size: 608
-Pre-Depends: dpkg (>= 1.14.25-8)
-Priority: optional
-
-Package: com.shiardev.libtapi10
-Version: 10.0.0~svn-20200108+247e5b37d63-2
-Architecture: iphoneos-arm
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Depends: libllvm10, libclang-cpp10
-Filename: ./debs/com.shiardev.libtapi10_10.0.0~svn-20200108+247e5b37d63-2_iphoneos-arm.deb
-Size: 95000
-MD5sum: 75755664d21083b0259bb7df4ddd285b
-SHA1: 5728d8459e56d74086a7fb3d66fe1fc9694c285e
-SHA256: 354540967bad1099b6670d0f53e4d66db8d45817cceaa5ecc3f7c30307e3a2e1
-Section: Development
-Description: Text-based Application Programming Interface (library)
-Installed-Size: 584
-Pre-Depends: dpkg (>= 1.14.25-8)
-Priority: optional
-
 Package: com.shiardev.powerbuttondisabler
 Version: 1.0.1
 Architecture: iphoneos-arm
@@ -192,13 +143,13 @@ Package: com.shiardev.theosforsileo
 Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: ShiarDev <shiardev@icloud.com>
-Depends: clang-10, clang, odcctools, curl, git, coreutils, unzip, coreutils-bin, grep, ldid, rsync, make, perl, lzma
+Depends: clang-10, clang, odcctools, curl, git, coreutils, unzip, coreutils-bin, grep, ldid, rsync, make, perl, lzma, xar
 Conflicts: net.howett.theos, org.coolstar.cctools, org.coolstar.llvm-clang, org.coolstar.llvm-clang64
 Filename: ./debs/com.shiardev.theosforsileo_1.1_iphoneos-arm.deb
 Size: 960
-MD5sum: dd635744b0080b65aaf5eed0bab58424
-SHA1: 893ac9e211138495d17c435d8e62660a14b2a37e
-SHA256: 5768880b1b0bd7325a826a24fda49c9e0d8dace07830324e4eda440bb33948eb
+MD5sum: 2aa2704204ba16fd32f3575edc004042
+SHA1: 3bc25c5933ebf11e2c561ef89cd7a7d007c1fcd5
+SHA256: 037269b0bb21ab0b46c694f93746c2276d348d75465d2613f4097e2ae412a6dc
 Section: System
 Description: Install theos and setup everything you need! Works on iOS 11, 12, 13 and 14, only Electra, Chimera, Odyssey and Taurine. Support arm64e compiling.
 Author: ShiarDev <shiardev@icloud.com>
@@ -237,23 +188,6 @@ Description: flexible multi-protocol file transfers
 Homepage: http://curl.haxx.se/
 Installed-Size: 1896
 Name: cURL
-Pre-Depends: dpkg (>= 1.14.25-8)
-Priority: standard
-
-Package: expat
-Version: 2.2.5-1
-Architecture: iphoneos-arm
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Filename: ./debs/expat_2.2.5-1_iphoneos-arm.deb
-Size: 66922
-MD5sum: 57c44104876d363c27177d3f38bd8ec3
-SHA1: 8a67a2edd50ecab78ff55cae3eff76ed49ee3e3f
-SHA256: 76ea736fa770a728a0c7b2e2dc345fd2a6ec57bb86732562240d0fd137fe833b
-Section: Development
-Description: stream-oriented XML parser written in C
-Installed-Size: 624
-Multi-Arch: foreign
-Name: XML Parser Toolkit
 Pre-Depends: dpkg (>= 1.14.25-8)
 Priority: standard
 
@@ -408,42 +342,6 @@ Pre-Depends: dpkg (>= 1.14.25-8)
 Priority: standard
 Provides: nghttp2, libnghttp2
 
-Package: libssl1.0
-Version: 1.0.2s-1
-Architecture: iphoneos-arm
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Depends: ca-certificates
-Conflicts: openssl (<<1.0.2q)
-Filename: ./debs/libssl1.0_1.0.2s-1_iphoneos-arm.deb
-Size: 815306
-MD5sum: 77db2446c032e43eee9924a6bbcb39ae
-SHA1: 6b5afd03d23983153e9b4d875e0b047006cbaba2
-SHA256: 11f061046fc87942d6b6f954d60db03548202766497410ec8397ff2a8c94c8ad
-Section: Security
-Description: OpenSSL Libraries for version 1.0
-Installed-Size: 6440
-Name: OpenSSL 1.0 Libraries
-Pre-Depends: dpkg (>= 1.14.25-8)
-Priority: standard
-
-Package: libxml2
-Version: 2.6.32-1
-Architecture: iphoneos-arm
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Filename: ./debs/libxml2_2.6.32-1_iphoneos-arm.deb
-Size: 88540
-MD5sum: 896a73bec45f384c0cdc85b1d8feb914
-SHA1: c9e05903183f25f60930e08eaeaa656a223f86a3
-SHA256: 987d73e7779ef7d7fe3dae9330cae048c3e59385cd77c251b4639d90eedcdf17
-Section: Development
-Description: very popular XML parser from Gnome
-Depiction: http://cydia.saurik.com/info/libxml2/
-Homepage: http://xmlsoft.org/
-Installed-Size: 1336
-Name: libxml2
-Pre-Depends: dpkg (>= 1.14.25-8)
-Priority: standard
-
 Package: llvm-10
 Version: 10.0.0~svn-20200108+5c253cd01-1
 Architecture: iphoneos-arm
@@ -545,41 +443,6 @@ Installed-Size: 107632
 Name: Perl
 Pre-Depends: dpkg (>= 1.14.25-8)
 Priority: optional
-
-Package: python
-Version: 2.7.15-2
-Architecture: iphoneos-arm
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Depends: berkeleydb, bzip2, expat, libffi, libssl1.0, libxml2, ncurses, readline, sqlite3
-Filename: ./debs/python_2.7.15-2_iphoneos-arm.deb
-Size: 10897474
-MD5sum: c05a82d9ee8670bf0fe8eac676e17e8f
-SHA1: 1f64eeeb87c9df0cb01c6bea0d11c552dec680af
-SHA256: 8482395c4b00d3011382891e2d86de628cb1e3d0e31a27ea40de6e6aa331608c
-Section: Scripting
-Description: architectural programming language
-Homepage: http://www.python.org/
-Installed-Size: 83888
-Name: Python
-Pre-Depends: dpkg (>= 1.14.25-8)
-Priority: optional
-
-Package: sqlite3
-Version: 3.24.0-1
-Architecture: iphoneos-arm
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Replaces: sqlite3 (<= 3.5.9-11)
-Filename: ./debs/sqlite3_3.24.0-1_iphoneos-arm.deb
-Size: 700486
-MD5sum: 26edebeeed5c09a6f1565eaf0a39786d
-SHA1: ba4acda9c0c8c80a1b9fbb7845ca598b066a173b
-SHA256: f450f7bc579fc19c578f0be6400050d8c01594a5e69269914f4b720e0f2834a5
-Section: Data_Storage
-Description: embedded database used by iPhoneOS
-Installed-Size: 4304
-Name: SQLite 3.x
-Pre-Depends: dpkg (>= 1.14.25-8)
-Priority: standard
 
 Package: uuid
 Version: 1.6.2-1
