@@ -550,12 +550,12 @@ Package: python
 Version: 2.7.15-2
 Architecture: iphoneos-arm
 Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Depends: berkeleydb, bzip2, expat, libffi, libssl1.0, libxml2, ncurses, readline, sqlite3, cydia (>= 1.0.2355-38)
+Depends: berkeleydb, bzip2, expat, libffi, libssl1.0, libxml2, ncurses, readline, sqlite3
 Filename: ./debs/python_2.7.15-2_iphoneos-arm.deb
-Size: 7684990
-MD5sum: 8a2531dfb85f514eed161ca45c72d401
-SHA1: c97d45f08a857f7deda0c107f83b9c19255b211d
-SHA256: 0a54274dd9077ca32e16710aefd68a6fd4dee349bb714b75535a3fbdef2bac28
+Size: 10897474
+MD5sum: c05a82d9ee8670bf0fe8eac676e17e8f
+SHA1: 1f64eeeb87c9df0cb01c6bea0d11c552dec680af
+SHA256: 8482395c4b00d3011382891e2d86de628cb1e3d0e31a27ea40de6e6aa331608c
 Section: Scripting
 Description: architectural programming language
 Homepage: http://www.python.org/
