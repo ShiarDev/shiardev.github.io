@@ -170,22 +170,6 @@ Installed-Size: 81400
 Pre-Depends: dpkg (>= 1.14.25-8)
 Priority: optional
 
-Package: libffi
-Version: 3.2.1-1
-Architecture: iphoneos-arm
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Filename: ./debs/libffi_3.2.1-1_iphoneos-arm.deb
-Size: 17298
-MD5sum: ee955fe80f2b641e062029e127ec5a06
-SHA1: 80623e9dcc03675e222fab3e824e85059ee65782
-SHA256: 23cc2c09db28c7792c1266702881cd6fb5791712ce8195888be72373d54ca44d
-Section: Development
-Description: dynamic generation of function calls
-Installed-Size: 248
-Multi-Arch: foreign
-Pre-Depends: dpkg (>= 1.14.25-8)
-Priority: optional
-
 Package: libllvm10
 Version: 10.0.0~svn-20200108+247e5b37d63-1
 Architecture: iphoneos-arm
@@ -237,23 +221,6 @@ Pre-Depends: dpkg (>= 1.14.25-8)
 Priority: standard
 Provides: nghttp2, libnghttp2
 
-Package: libssh2
-Version: 1.8.0-2
-Architecture: iphoneos-arm
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Depends: libssl1.0
-Filename: ./debs/libssh2_1.8.0-2_iphoneos-arm.deb
-Size: 77038
-MD5sum: 71bff4c1e2d48e991ffbc0d3845e8ff0
-SHA1: ee49bd64503c2fde7e8a88a8b7090fb24a563f07
-SHA256: cb79579dbad1522fc3960bd52f0e7e541d88b48e795aa8e2c69c345bbe2399e3
-Section: Development
-Description: a client-side C library implementing the SSH2 protocol
-Homepage: https://www.libssh2.org/
-Installed-Size: 608
-Pre-Depends: dpkg (>= 1.14.25-8)
-Priority: optional
-
 Package: libxml2
 Version: 2.6.32-1
 Architecture: iphoneos-arm
@@ -271,40 +238,6 @@ Installed-Size: 1336
 Name: libxml2
 Pre-Depends: dpkg (>= 1.14.25-8)
 Priority: standard
-
-Package: llvm-10
-Version: 10.0.0~svn-20200108+5c253cd01-1
-Architecture: iphoneos-arm
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Depends: libllvm10
-Filename: ./debs/llvm-10_10.0.0~svn-20200108+5c253cd01-1_iphoneos-arm.deb
-Size: 2781332
-MD5sum: 3c0cf4ef15b05e9a564d8fec39c29f09
-SHA1: a0f433efe677c3232f032fef91845715d2d1d596
-SHA256: e62aa7bc6ea0493057eba32cb5e9eaf0866c646e99aed0c8882aff0f01b8e767
-Section: Development
-Description: Modular compiler and toolchain technologies
-Homepage: https://www.llvm.org/
-Installed-Size: 28960
-Pre-Depends: dpkg (>= 1.14.25-8)
-Priority: optional
-
-Package: llvm
-Version: 10.0.0~svn-20200108+5c253cd01-1
-Architecture: iphoneos-arm
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Depends: llvm-10
-Filename: ./debs/llvm_10.0.0~svn-20200108+5c253cd01-1_iphoneos-arm.deb
-Size: 1572
-MD5sum: 573de089affb222f4e5d14afb0c4abe2
-SHA1: 159627613211851f62d8d27c5f5744b68f4eaefc
-SHA256: c95f8ba914a970a1925f725c236d5bc14ad7165bb97611ab1d9d66e8d8ba8bce
-Section: Development
-Description: Modular compiler and toolchain technologies
-Homepage: https://www.llvm.org/
-Installed-Size: 504
-Pre-Depends: dpkg (>= 1.14.25-8)
-Priority: optional
 
 Package: make
 Version: 4.2.1-2
@@ -354,24 +287,6 @@ Section: Scripting
 Description: awesome combination of sed and awk
 Installed-Size: 107632
 Name: Perl
-Pre-Depends: dpkg (>= 1.14.25-8)
-Priority: optional
-
-Package: python
-Version: 2.7.15-2
-Architecture: iphoneos-arm
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Depends: berkeleydb, bzip2, expat, libffi, libssl1.0, libxml2, ncurses, readline, sqlite3, cydia (>= 1.0.2355-38)
-Filename: ./debs/python_2.7.15-2_iphoneos-arm.deb
-Size: 7684990
-MD5sum: 8a2531dfb85f514eed161ca45c72d401
-SHA1: c97d45f08a857f7deda0c107f83b9c19255b211d
-SHA256: 0a54274dd9077ca32e16710aefd68a6fd4dee349bb714b75535a3fbdef2bac28
-Section: Scripting
-Description: architectural programming language
-Homepage: http://www.python.org/
-Installed-Size: 83888
-Name: Python
 Pre-Depends: dpkg (>= 1.14.25-8)
 Priority: optional
 
