@@ -146,10 +146,10 @@ Maintainer: ShiarDev <shiardev@icloud.com>
 Depends: clang-10, clang, odcctools, curl, git, coreutils, unzip, coreutils-bin, grep, ldid, rsync, make, perl, lzma, xar
 Conflicts: net.howett.theos, org.coolstar.cctools, org.coolstar.llvm-clang, org.coolstar.llvm-clang64
 Filename: ./debs/com.shiardev.theosforsileo_1.1_iphoneos-arm.deb
-Size: 960
-MD5sum: 2aa2704204ba16fd32f3575edc004042
-SHA1: 3bc25c5933ebf11e2c561ef89cd7a7d007c1fcd5
-SHA256: 037269b0bb21ab0b46c694f93746c2276d348d75465d2613f4097e2ae412a6dc
+Size: 1312
+MD5sum: 2eee3882651b49bc4f983545f3251ebb
+SHA1: a8ebc69d866ff07b56c32b7dc7c06398263a92da
+SHA256: d6dac284c08ed6c474169b38eabfac26852cbc017be4bf95be19a489d66dbf63
 Section: System
 Description: Install theos and setup everything you need! Works on iOS 11, 12, 13 and 14, only Electra, Chimera, Odyssey and Taurine. Support arm64e compiling.
 Author: ShiarDev <shiardev@icloud.com>
