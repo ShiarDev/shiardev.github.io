@@ -17,6 +17,58 @@ Name: Dangerous
 Priority: optional
 dev: Shiar
 
+Package: com.shiarahmed.weatherana
+Version: 1.4.1
+Architecture: iphoneos-arm
+Maintainer: ShiarDev <shiardev@icloud.com>
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common, com.rpetrich.rocketbootstrap, firmware (>= 10.0)
+Filename: ./debs/com.shiarahmed.weatherana_1.4.1_iphoneos-arm.deb
+Size: 236904
+MD5sum: 4dd3071bed43e001db0d46ea4c7ccf46
+SHA1: a01887b7e7f32a9d03a41aa49750793a998a998e
+SHA256: faa5d036f549451e7ff143767fa69aeec9427b752335a9994695a64c5f8255e3
+Section: Tweaks
+Description: Set or Change Weather information what you like.
+Author: ShiarDev <shiardev@icloud.com>
+Name: Weatherana
+Priority: optional
+dev: ShiarDev <shiardev@icloud.com>
+
+Package: com.shiardev.8ballpoolhack
+Version: 3.0.1
+Architecture: iphoneos-arm
+Maintainer: ShiarDev <shiardev@icloud.com>
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common, com.rpetrich.rocketbootstrap, firmware (>= 8.0)
+Conflicts: com.shiarahmed.8ballpoolhack, com.shiarahmed.8ballpoolmod, com.shiardev.8ballpoolmod
+Replaces: com.shiarahmed.8ballpoolhack, com.shiarahmed.8ballpoolmod, com.shiardev.8ballpoolmod
+Filename: ./debs/com.shiardev.8ballpoolhack_3.0.1_iphoneos-arm.deb
+Size: 101880
+MD5sum: 78a46728fca14e4450b03aa591f4289a
+SHA1: 3101b0491c79a0b448d65b99368f032461581ca9
+SHA256: 176063508ed884420e966f3287174201a7c55892c2919aa23cceb45ac4d07572
+Section: Tweaks
+Description: 8 Ball Pool Hack.
+Author: ShiarDev <shiardev@icloud.com>
+Name: 8 Ball Pool Hack
+
+Package: com.shiardev.8ballpoolmod
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: ShiarDev <shiardev@icloud.com>
+Depends: mobilesubstrate
+Conflicts: com.shiarahmed.8ballpoolhack, com.shiardev.8ballpoolhack, com.shiarahmed.8ballpoolmod
+Replaces: com.shiarahmed.8ballpoolhack, com.shiardev.8ballpoolhack, com.shiarahmed.8ballpoolmod
+Filename: ./debs/com.shiardev.8ballpoolmod_1.0.1_iphoneos-arm.deb
+Size: 370384
+MD5sum: b82792fc585dbb5d4d24420bfe7e3d92
+SHA1: 408a4df077761925c4931950fb32b0e2733f9227
+SHA256: b6270a850a1c6eff4e69df711c40badbe0c281c1d044b0513f99c7a28f3bed84
+Section: Tweaks
+Description: 8 Ball Pool Mod Menu by Shiar Ahmed!
+Author: ShiarDev <shiardev@icloud.com>
+Homepage: https://shiardev.github.io/
+Name: 8 Ball Pool Mod Menu
+
 Package: com.shiardev.8ballpoolmod
 Version: 1.0
 Architecture: iphoneos-arm
@@ -35,22 +87,128 @@ Author: ShiarDev <shiardev@icloud.com>
 Homepage: https://shiardev.github.io/
 Name: 8 Ball Pool Mod Menu
 
+Package: com.shiardev.dangerous
+Version: 2.1
+Architecture: iphoneos-arm
+Maintainer: ShiarDev <shiardev@icloud.com>
+Depends: firmware (>= 7.0)
+Conflicts: com.shiarahmed.dangerous
+Replaces: com.shiarahmed.dangerous
+Filename: ./debs/com.shiardev.dangerous_2.1_iphoneos-arm.deb
+Size: 1125608
+MD5sum: bcf749490eb37be6a73a884b378a2580
+SHA1: 0059b0a36954d8f79ae4dc8c7aff9f212bd8e56a
+SHA256: f442779ee238a6888c33e4eafe0af95cfe16889f638b9ec08f81c56efc932473
+Section: Themes
+Description: New Theme. Beautiful. Creative. Enjoy it.
+Author: ShiarDev <shiardev@icloud.com>
+Name: Dangerous
+Priority: optional
+dev: ShiarDev <shiardev@icloud.com>
+
+Package: com.shiardev.extraspeed
+Version: 1.2.1
+Architecture: iphoneos-arm
+Maintainer: ShiarDev <shiardev@icloud.com>
+Depends: mobilesubstrate, preferenceloader, com.rpetrich.rocketbootstrap
+Conflicts: com.shiarahmed.extraspeed
+Replaces: com.shiarahmed.extraspeed
+Filename: ./debs/com.shiardev.extraspeed_1.2.1_iphoneos-arm.deb
+Size: 17608
+MD5sum: d53b84daeda4b7c5201f87702e98ad87
+SHA1: b3d34726efa63a03a6887d33e6f510f2bc39075e
+SHA256: d7c8808a7d3a2c21203be332c3a36569c7275d3b3b80ce89a9ca4a69b035c4a8
+Section: Tweaks
+Description: Extra Speed for iOS. You will see more different on iPhone 6 Plus and older.
+Author: ShiarDev <shiardev@icloud.com>
+Name: Extra Speed
+
+Package: com.shiardev.powerbuttondisabler
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: ShiarDev <shiardev@icloud.com>
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.shiarahmed.powerbuttondisabler
+Replaces: com.shiarahmed.powerbuttondisabler
+Filename: ./debs/com.shiardev.powerbuttondisabler_1.0.1_iphoneos-arm.deb
+Size: 4488
+MD5sum: 90be66f6ddce541e35f853f77b885ddf
+SHA1: 5b7ad9e80fb81ed52980457e069cc2740f589db6
+SHA256: ddce13f2aba2e1eb40d83855cea202e4b0a77a7e9045ec99420574a28ce036c9
+Section: Tweaks
+Description: Disable Power Button for working! It's a good thing to not reboot and lose jailbreak!
+Author: ShiarDev <shiardev@icloud.com>
+Name: PowerButtonDisabler
+
+Package: com.shiardev.speedintensifier2
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: ShiarDev <shiardev@icloud.com>
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common, com.rpetrich.rocketbootstrap
+Conflicts: com.shiarahmed.speedintensifier2
+Replaces: com.shiarahmed.speedintensifier2
+Filename: ./debs/com.shiardev.speedintensifier2_1.0.1_iphoneos-arm.deb
+Size: 16476
+MD5sum: f8c69ab4de034f67707ef92986bf82cf
+SHA1: 125f530ed9292ca036be7f2775fd109acf8a9848
+SHA256: ef6ec7173eae8b08a409e3d105ac5b57310ab549be3aa784fafc220fa54d3c8d
+Section: Tweaks
+Description: Speeds up iOS Animations
+Author: ShiarDev <shiardev@icloud.com>
+Name: Speed Intensifier 2
+Priority: optional
+dev: ShiarDev <shiardev@icloud.com>
+
+Package: com.shiardev.theosfiles
+Version: 1.0.3
+Architecture: iphoneos-arm
+Maintainer: ShiarDev <shiardev@icloud.com>
+Depends: mobilesubstrate, firmware (>= 11.0)
+Conflicts: com.shiarahmed.theosfiles
+Replaces: com.shiarahmed.theosfiles
+Filename: ./debs/com.shiardev.theosfiles_1.0.3_iphoneos-arm.deb
+Size: 26142700
+MD5sum: 63cc7e67116f44eb2d998da43f2096e3
+SHA1: 6a4206994a0cacd4e3d262c7f8e0d5e9bdb850a8
+SHA256: 6ef99b510612c0f715c8ee776eeb868f960cb537c1f3808a8d3e2c8b09a767a7
+Section: Development
+Description: Installs theos with sdks in /var.
+Author: ShiarDev <shiardev@icloud.com>
+Name: Theos files with sdks
+
 Package: com.shiardev.theosforsileo
 Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: ShiarDev <shiardev@icloud.com>
-Depends: clang-10, clang, odcctools, curl, git, coreutils, unzip, coreutils-bin, grep, ldid, rsync, make, perl
+Depends: clang-10, clang, odcctools, curl, git, coreutils, unzip, coreutils-bin, grep, ldid, rsync, make, perl, lzma
 Conflicts: net.howett.theos, org.coolstar.cctools, org.coolstar.llvm-clang, org.coolstar.llvm-clang64
 Filename: ./debs/com.shiardev.theosforsileo_1.1_iphoneos-arm.deb
-Size: 936
-MD5sum: 96d79413718c5ea0a70d927873f12fec
-SHA1: 6e9791d59d98d7e999a14129f77d0f1b9d12791f
-SHA256: 2355ed84a20bd1abae9ce2eda2633f4f8cb38bd1d7322ee612a4fe11f992c3fa
+Size: 960
+MD5sum: dd635744b0080b65aaf5eed0bab58424
+SHA1: 893ac9e211138495d17c435d8e62660a14b2a37e
+SHA256: 5768880b1b0bd7325a826a24fda49c9e0d8dace07830324e4eda440bb33948eb
 Section: System
-Description: Install theos and setup everything you need! Works on iOS 11, 12, 13 and 14, only Electra, Chimera, Odyssey and Taurine.
+Description: Install theos and setup everything you need! Works on iOS 11, 12, 13 and 14, only Electra, Chimera, Odyssey and Taurine. Support arm64e compiling.
 Author: ShiarDev <shiardev@icloud.com>
 Name: Theos for Sileo
 Tag: role::hacker
+
+Package: com.shiardev.youtubeplus
+Version: 1.4.3
+Architecture: iphoneos-arm
+Maintainer: ShiarDev <shiardev@icloud.com>
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common, com.rpetrich.rocketbootstrap, firmware (>= 10.0)
+Conflicts: com.shiarahmed.youtubeplus
+Replaces: com.shiarahmed.youtubeplus
+Filename: ./debs/com.shiardev.youtubeplus_1.4.3_iphoneos-arm.deb
+Size: 74628
+MD5sum: 16a913780490fe5abc5f98a1108ed16f
+SHA1: 771bc88b419d3462f0de543c7e193cbc28a4e133
+SHA256: 1e9ff3bc2f55c00abd360ba0a28abd111a9d05c593400875c23d158b6bc8b175
+Section: Tweaks
+Description: More features for YouTube.
+Author: ShiarDev <shiardev@icloud.com>
+Name: YouTube Plus
 
 Package: curl
 Version: 7.65.0-1
@@ -238,6 +396,23 @@ Installed-Size: 1336
 Name: libxml2
 Pre-Depends: dpkg (>= 1.14.25-8)
 Priority: standard
+
+Package: lzma
+Version: 3:0
+Architecture: iphoneos-arm
+Maintainer: Sam Bingner <maintainer@sbdhi.com>
+Conflicts: com.mc.xz
+Filename: ./debs/lzma_3_0_iphoneos-arm.deb
+Size: 55248
+MD5sum: fee3619f8d6da93809149e4dbcec7355
+SHA1: ce60772cb27b764e35ae42c6c1857e000cf7bd9a
+SHA256: d7fb34da2e7c39847f7f706415872704402296a5b92119e57ebfa8b5c4808ebf
+Section: Archiving
+Description: slower, but better, compression algorithm
+Homepage: http://tukaani.org/lzma/
+Installed-Size: 736
+Name: LZMA Utils
+Priority: important
 
 Package: make
 Version: 4.2.1-2
