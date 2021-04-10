@@ -191,6 +191,23 @@ Name: cURL
 Pre-Depends: dpkg (>= 1.14.25-8)
 Priority: standard
 
+Package: expat
+Version: 2.2.5-1
+Architecture: iphoneos-arm
+Maintainer: Sam Bingner <maintainer@sbdhi.com>
+Filename: ./debs/expat_2.2.5-1_iphoneos-arm.deb
+Size: 66922
+MD5sum: 57c44104876d363c27177d3f38bd8ec3
+SHA1: 8a67a2edd50ecab78ff55cae3eff76ed49ee3e3f
+SHA256: 76ea736fa770a728a0c7b2e2dc345fd2a6ec57bb86732562240d0fd137fe833b
+Section: Development
+Description: stream-oriented XML parser written in C
+Installed-Size: 624
+Multi-Arch: foreign
+Name: XML Parser Toolkit
+Pre-Depends: dpkg (>= 1.14.25-8)
+Priority: standard
+
 Package: git
 Version: 2.20.0-1
 Architecture: iphoneos-arm
@@ -291,6 +308,22 @@ Installed-Size: 81400
 Pre-Depends: dpkg (>= 1.14.25-8)
 Priority: optional
 
+Package: libffi
+Version: 3.2.1-1
+Architecture: iphoneos-arm
+Maintainer: Sam Bingner <maintainer@sbdhi.com>
+Filename: ./debs/libffi_3.2.1-1_iphoneos-arm.deb
+Size: 17298
+MD5sum: ee955fe80f2b641e062029e127ec5a06
+SHA1: 80623e9dcc03675e222fab3e824e85059ee65782
+SHA256: 23cc2c09db28c7792c1266702881cd6fb5791712ce8195888be72373d54ca44d
+Section: Development
+Description: dynamic generation of function calls
+Installed-Size: 248
+Multi-Arch: foreign
+Pre-Depends: dpkg (>= 1.14.25-8)
+Priority: optional
+
 Package: libllvm10
 Version: 10.0.0~svn-20200108+247e5b37d63-1
 Architecture: iphoneos-arm
@@ -341,6 +374,109 @@ Installed-Size: 400
 Pre-Depends: dpkg (>= 1.14.25-8)
 Priority: standard
 Provides: nghttp2, libnghttp2
+
+Package: libssh2
+Version: 1.8.0-2
+Architecture: iphoneos-arm
+Maintainer: Sam Bingner <maintainer@sbdhi.com>
+Depends: libssl1.0
+Filename: ./debs/libssh2_1.8.0-2_iphoneos-arm.deb
+Size: 77038
+MD5sum: 71bff4c1e2d48e991ffbc0d3845e8ff0
+SHA1: ee49bd64503c2fde7e8a88a8b7090fb24a563f07
+SHA256: cb79579dbad1522fc3960bd52f0e7e541d88b48e795aa8e2c69c345bbe2399e3
+Section: Development
+Description: a client-side C library implementing the SSH2 protocol
+Homepage: https://www.libssh2.org/
+Installed-Size: 608
+Pre-Depends: dpkg (>= 1.14.25-8)
+Priority: optional
+
+Package: libssl1.0
+Version: 1.0.2s-1
+Architecture: iphoneos-arm
+Maintainer: Sam Bingner <maintainer@sbdhi.com>
+Depends: ca-certificates
+Conflicts: openssl (<<1.0.2q)
+Filename: ./debs/libssl1.0_1.0.2s-1_iphoneos-arm.deb
+Size: 815306
+MD5sum: 77db2446c032e43eee9924a6bbcb39ae
+SHA1: 6b5afd03d23983153e9b4d875e0b047006cbaba2
+SHA256: 11f061046fc87942d6b6f954d60db03548202766497410ec8397ff2a8c94c8ad
+Section: Security
+Description: OpenSSL Libraries for version 1.0
+Installed-Size: 6440
+Name: OpenSSL 1.0 Libraries
+Pre-Depends: dpkg (>= 1.14.25-8)
+Priority: standard
+
+Package: libtapi10
+Version: 10.0.0~svn-20200108+247e5b37d63-2
+Architecture: iphoneos-arm
+Maintainer: Sam Bingner <maintainer@sbdhi.com>
+Depends: libllvm10, libclang-cpp10
+Filename: ./debs/libtapi10_10.0.0~svn-20200108+247e5b37d63-2_iphoneos-arm.deb
+Size: 71784
+MD5sum: 999915c918fbe9b944bf248aaccdf9e6
+SHA1: c917b4078e5e3fc0fbedd90772431b6393007708
+SHA256: a838e38c3306775f53853f9243d1154ff48caff3b081649367e3df92c2cecf45
+Section: Development
+Description: Text-based Application Programming Interface (library)
+Installed-Size: 584
+Pre-Depends: dpkg (>= 1.14.25-8)
+Priority: optional
+
+Package: libxml2
+Version: 2.6.32-1
+Architecture: iphoneos-arm
+Maintainer: Sam Bingner <maintainer@sbdhi.com>
+Filename: ./debs/libxml2_2.6.32-1_iphoneos-arm.deb
+Size: 88540
+MD5sum: 896a73bec45f384c0cdc85b1d8feb914
+SHA1: c9e05903183f25f60930e08eaeaa656a223f86a3
+SHA256: 987d73e7779ef7d7fe3dae9330cae048c3e59385cd77c251b4639d90eedcdf17
+Section: Development
+Description: very popular XML parser from Gnome
+Depiction: http://cydia.saurik.com/info/libxml2/
+Homepage: http://xmlsoft.org/
+Installed-Size: 1336
+Name: libxml2
+Pre-Depends: dpkg (>= 1.14.25-8)
+Priority: standard
+
+Package: llvm-10
+Version: 10.0.0~svn-20200108+5c253cd01-1
+Architecture: iphoneos-arm
+Maintainer: Sam Bingner <maintainer@sbdhi.com>
+Depends: libllvm10
+Filename: ./debs/llvm-10_10.0.0~svn-20200108+5c253cd01-1_iphoneos-arm.deb
+Size: 2781332
+MD5sum: 3c0cf4ef15b05e9a564d8fec39c29f09
+SHA1: a0f433efe677c3232f032fef91845715d2d1d596
+SHA256: e62aa7bc6ea0493057eba32cb5e9eaf0866c646e99aed0c8882aff0f01b8e767
+Section: Development
+Description: Modular compiler and toolchain technologies
+Homepage: https://www.llvm.org/
+Installed-Size: 28960
+Pre-Depends: dpkg (>= 1.14.25-8)
+Priority: optional
+
+Package: llvm
+Version: 10.0.0~svn-20200108+5c253cd01-1
+Architecture: iphoneos-arm
+Maintainer: Sam Bingner <maintainer@sbdhi.com>
+Depends: llvm-10
+Filename: ./debs/llvm_10.0.0~svn-20200108+5c253cd01-1_iphoneos-arm.deb
+Size: 1572
+MD5sum: 573de089affb222f4e5d14afb0c4abe2
+SHA1: 159627613211851f62d8d27c5f5744b68f4eaefc
+SHA256: c95f8ba914a970a1925f725c236d5bc14ad7165bb97611ab1d9d66e8d8ba8bce
+Section: Development
+Description: Modular compiler and toolchain technologies
+Homepage: https://www.llvm.org/
+Installed-Size: 504
+Pre-Depends: dpkg (>= 1.14.25-8)
+Priority: optional
 
 Package: lzma
 Version: 3:0
@@ -409,6 +545,56 @@ Installed-Size: 107632
 Name: Perl
 Pre-Depends: dpkg (>= 1.14.25-8)
 Priority: optional
+
+Package: python
+Version: 2.7.15-2
+Architecture: iphoneos-arm
+Maintainer: Sam Bingner <maintainer@sbdhi.com>
+Depends: berkeleydb, bzip2, expat, libffi, libssl1.0, libxml2, ncurses, readline, sqlite3, cydia (>= 1.0.2355-38)
+Filename: ./debs/python_2.7.15-2_iphoneos-arm.deb
+Size: 7684990
+MD5sum: 8a2531dfb85f514eed161ca45c72d401
+SHA1: c97d45f08a857f7deda0c107f83b9c19255b211d
+SHA256: 0a54274dd9077ca32e16710aefd68a6fd4dee349bb714b75535a3fbdef2bac28
+Section: Scripting
+Description: architectural programming language
+Homepage: http://www.python.org/
+Installed-Size: 83888
+Name: Python
+Pre-Depends: dpkg (>= 1.14.25-8)
+Priority: optional
+
+Package: sqlite3
+Version: 3.24.0-1
+Architecture: iphoneos-arm
+Maintainer: Sam Bingner <maintainer@sbdhi.com>
+Replaces: sqlite3 (<= 3.5.9-11)
+Filename: ./debs/sqlite3_3.24.0-1_iphoneos-arm.deb
+Size: 700486
+MD5sum: 26edebeeed5c09a6f1565eaf0a39786d
+SHA1: ba4acda9c0c8c80a1b9fbb7845ca598b066a173b
+SHA256: f450f7bc579fc19c578f0be6400050d8c01594a5e69269914f4b720e0f2834a5
+Section: Data_Storage
+Description: embedded database used by iPhoneOS
+Installed-Size: 4304
+Name: SQLite 3.x
+Pre-Depends: dpkg (>= 1.14.25-8)
+Priority: standard
+
+Package: uuid
+Version: 1.6.2-1
+Architecture: iphoneos-arm
+Maintainer: Sam Bingner <maintainer@sbdhi.com>
+Filename: ./debs/uuid_1.6.2-1_iphoneos-arm.deb
+Size: 24492
+MD5sum: 38330da694cb92480d0c7b3d50f4cb34
+SHA1: c2bdde800a4b0f485a03724d3b8f62e5c19756f6
+SHA256: f79735a20b26ee5a0bdd8e8856745f435aea271235dc22598efd40a0049c79d0
+Section: System
+Description: universally unique identifiers
+Installed-Size: 384
+Name: UUID Generator
+Priority: important
 
 Package: xar
 Version: 1.6.1-2
