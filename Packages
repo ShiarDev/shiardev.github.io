@@ -86,6 +86,55 @@ Description: Extra Speed for iOS. You will see more different on iPhone 6 Plus a
 Author: ShiarDev <shiardev@icloud.com>
 Name: Extra Speed
 
+Package: com.shiardev.libffi
+Version: 3.2.1-1
+Architecture: iphoneos-arm
+Maintainer: Sam Bingner <maintainer@sbdhi.com>
+Filename: ./debs/com.shiardev.libffi_3.2.1-1_iphoneos-arm.deb
+Size: 21042
+MD5sum: 1a858f20fe2d99321cbf15aeff654c5d
+SHA1: b481d0046c5cbbefc7e1cc473514af53cc844fe2
+SHA256: 12a1b1368158c8b13dea8c23c8164981d30855cec3a2fb96c838a1545339b9f9
+Section: Development
+Description: dynamic generation of function calls
+Installed-Size: 248
+Multi-Arch: foreign
+Pre-Depends: dpkg (>= 1.14.25-8)
+Priority: optional
+
+Package: com.shiardev.libssh2
+Version: 1.8.0-2
+Architecture: iphoneos-arm
+Maintainer: Sam Bingner <maintainer@sbdhi.com>
+Depends: libssl1.0
+Filename: ./debs/com.shiardev.libssh2_1.8.0-2_iphoneos-arm.deb
+Size: 97674
+MD5sum: abdb03f6d2c0eac5e137a7a72438d0d9
+SHA1: 144d5957f7a4fd8d098fdfb79bac59c4e8cde9d9
+SHA256: 0c1609c92f6bca3cc6cb986e8267839802fdbba74f95cb78bf21d30ae825c55c
+Section: Development
+Description: a client-side C library implementing the SSH2 protocol
+Homepage: https://www.libssh2.org/
+Installed-Size: 608
+Pre-Depends: dpkg (>= 1.14.25-8)
+Priority: optional
+
+Package: com.shiardev.libtapi10
+Version: 10.0.0~svn-20200108+247e5b37d63-2
+Architecture: iphoneos-arm
+Maintainer: Sam Bingner <maintainer@sbdhi.com>
+Depends: libllvm10, libclang-cpp10
+Filename: ./debs/com.shiardev.libtapi10_10.0.0~svn-20200108+247e5b37d63-2_iphoneos-arm.deb
+Size: 95000
+MD5sum: 75755664d21083b0259bb7df4ddd285b
+SHA1: 5728d8459e56d74086a7fb3d66fe1fc9694c285e
+SHA256: 354540967bad1099b6670d0f53e4d66db8d45817cceaa5ecc3f7c30307e3a2e1
+Section: Development
+Description: Text-based Application Programming Interface (library)
+Installed-Size: 584
+Pre-Depends: dpkg (>= 1.14.25-8)
+Priority: optional
+
 Package: com.shiardev.powerbuttondisabler
 Version: 1.0.1
 Architecture: iphoneos-arm
@@ -308,22 +357,6 @@ Installed-Size: 81400
 Pre-Depends: dpkg (>= 1.14.25-8)
 Priority: optional
 
-Package: libffi
-Version: 3.2.1-1
-Architecture: iphoneos-arm
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Filename: ./debs/libffi_3.2.1-1_iphoneos-arm.deb
-Size: 17298
-MD5sum: ee955fe80f2b641e062029e127ec5a06
-SHA1: 80623e9dcc03675e222fab3e824e85059ee65782
-SHA256: 23cc2c09db28c7792c1266702881cd6fb5791712ce8195888be72373d54ca44d
-Section: Development
-Description: dynamic generation of function calls
-Installed-Size: 248
-Multi-Arch: foreign
-Pre-Depends: dpkg (>= 1.14.25-8)
-Priority: optional
-
 Package: libllvm10
 Version: 10.0.0~svn-20200108+247e5b37d63-1
 Architecture: iphoneos-arm
@@ -375,23 +408,6 @@ Pre-Depends: dpkg (>= 1.14.25-8)
 Priority: standard
 Provides: nghttp2, libnghttp2
 
-Package: libssh2
-Version: 1.8.0-2
-Architecture: iphoneos-arm
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Depends: libssl1.0
-Filename: ./debs/libssh2_1.8.0-2_iphoneos-arm.deb
-Size: 77038
-MD5sum: 71bff4c1e2d48e991ffbc0d3845e8ff0
-SHA1: ee49bd64503c2fde7e8a88a8b7090fb24a563f07
-SHA256: cb79579dbad1522fc3960bd52f0e7e541d88b48e795aa8e2c69c345bbe2399e3
-Section: Development
-Description: a client-side C library implementing the SSH2 protocol
-Homepage: https://www.libssh2.org/
-Installed-Size: 608
-Pre-Depends: dpkg (>= 1.14.25-8)
-Priority: optional
-
 Package: libssl1.0
 Version: 1.0.2s-1
 Architecture: iphoneos-arm
@@ -409,22 +425,6 @@ Installed-Size: 6440
 Name: OpenSSL 1.0 Libraries
 Pre-Depends: dpkg (>= 1.14.25-8)
 Priority: standard
-
-Package: libtapi10
-Version: 10.0.0~svn-20200108+247e5b37d63-2
-Architecture: iphoneos-arm
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Depends: libllvm10, libclang-cpp10
-Filename: ./debs/libtapi10_10.0.0~svn-20200108+247e5b37d63-2_iphoneos-arm.deb
-Size: 71784
-MD5sum: 999915c918fbe9b944bf248aaccdf9e6
-SHA1: c917b4078e5e3fc0fbedd90772431b6393007708
-SHA256: a838e38c3306775f53853f9243d1154ff48caff3b081649367e3df92c2cecf45
-Section: Development
-Description: Text-based Application Programming Interface (library)
-Installed-Size: 584
-Pre-Depends: dpkg (>= 1.14.25-8)
-Priority: optional
 
 Package: libxml2
 Version: 2.6.32-1
