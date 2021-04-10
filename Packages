@@ -342,40 +342,6 @@ Pre-Depends: dpkg (>= 1.14.25-8)
 Priority: standard
 Provides: nghttp2, libnghttp2
 
-Package: llvm-10
-Version: 10.0.0~svn-20200108+5c253cd01-1
-Architecture: iphoneos-arm
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Depends: libllvm10
-Filename: ./debs/llvm-10_10.0.0~svn-20200108+5c253cd01-1_iphoneos-arm.deb
-Size: 2781332
-MD5sum: 3c0cf4ef15b05e9a564d8fec39c29f09
-SHA1: a0f433efe677c3232f032fef91845715d2d1d596
-SHA256: e62aa7bc6ea0493057eba32cb5e9eaf0866c646e99aed0c8882aff0f01b8e767
-Section: Development
-Description: Modular compiler and toolchain technologies
-Homepage: https://www.llvm.org/
-Installed-Size: 28960
-Pre-Depends: dpkg (>= 1.14.25-8)
-Priority: optional
-
-Package: llvm
-Version: 10.0.0~svn-20200108+5c253cd01-1
-Architecture: iphoneos-arm
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Depends: llvm-10
-Filename: ./debs/llvm_10.0.0~svn-20200108+5c253cd01-1_iphoneos-arm.deb
-Size: 1572
-MD5sum: 573de089affb222f4e5d14afb0c4abe2
-SHA1: 159627613211851f62d8d27c5f5744b68f4eaefc
-SHA256: c95f8ba914a970a1925f725c236d5bc14ad7165bb97611ab1d9d66e8d8ba8bce
-Section: Development
-Description: Modular compiler and toolchain technologies
-Homepage: https://www.llvm.org/
-Installed-Size: 504
-Pre-Depends: dpkg (>= 1.14.25-8)
-Priority: optional
-
 Package: lzma
 Version: 3:0
 Architecture: iphoneos-arm
@@ -443,21 +409,6 @@ Installed-Size: 107632
 Name: Perl
 Pre-Depends: dpkg (>= 1.14.25-8)
 Priority: optional
-
-Package: uuid
-Version: 1.6.2-1
-Architecture: iphoneos-arm
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Filename: ./debs/uuid_1.6.2-1_iphoneos-arm.deb
-Size: 24492
-MD5sum: 38330da694cb92480d0c7b3d50f4cb34
-SHA1: c2bdde800a4b0f485a03724d3b8f62e5c19756f6
-SHA256: f79735a20b26ee5a0bdd8e8856745f435aea271235dc22598efd40a0049c79d0
-Section: System
-Description: universally unique identifiers
-Installed-Size: 384
-Name: UUID Generator
-Priority: important
 
 Package: xar
 Version: 1.6.1-2
